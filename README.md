@@ -1,42 +1,30 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+Personal goals made open source: [„Unas personal goals“](http://una.im/personal-goals-guide/#=%81)
+> Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+# Großen Ziele bis Ende 2016
+* Als Selbstständiger versuchen, eine neue Qualität von Aufträgen zu bekommen, in der mein Know-How und meine Kompetenzen stärker einfließen können.
+* Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
+* Immobilienkauf
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# KW 50/2015, ab Montag, 7.12.2015
 
-# November 00, 2014
-
-### This Week's Goal: Be Awesome.
+### This Week's Goal: eigene Website verbessern
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [ ] Jahresendabrechnungen für die Bestandskunden vorbereiten
+- [ ] UmSt-Voranmeldung für November
+- [ ] Jugenstil-Ausstellung im Museum Kunst & Gewerbe besuchen
+- [ ] Dossier für Bankengespräch bzgl. Immobilien-Darlehen zusammenstellen
+- [ ] Best Practice rund um `forEach`und Callbacks sammeln.
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do This Month: Dezember 2015
+- [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Backlog: Side Projects
+Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+* Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?

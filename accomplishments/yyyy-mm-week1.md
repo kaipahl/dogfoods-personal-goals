@@ -1,14 +1,14 @@
-# This Weeks Accomplishments: November 00, 2014
+# This Weeks Accomplishments: KW 50, 7. Dezember 2015
 
-## This Week's Goal: Be Awesome
+## This Week's Focus:
 
 ## Things I Did From the List:
 
-### Additional Things I Did:
-
 ## Things I Didn't Get to/Finish:
 
-## Next Week's Goal: ATX Sass Website
+### Additional Things I Did:
+
+## Next Week's Focus:
 
 ## Things I'll do Next Week:
 

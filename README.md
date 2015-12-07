@@ -14,14 +14,17 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ### This Week's Goal: eigene Website verbessern
 
 ## Things I'll Do This Week:
-- [ ] Umzug eines Kunden-CMS' planen
-- [ ] Design-Bug auf Kundenwebsite fixen
+- [X] Umzug eines Kunden-CMS' planen
+- [X] Design-Bug auf Kundenwebsite fixen
+- [ ] CMS-Testinstallation auf Kundenserver
+- [ ] Umzug eines Kunden-CMS'
 - [ ] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
-- [ ] Jahresendabrechnungen für die Bestandskunden vorbereiten
+- [X] Jahresendabrechnungen für die Bestandskunden avisieren
+- [ ] Jahresendabrechnungen für die Bestandskunden schreiben
 - [ ] UmSt-Voranmeldung für November
 - [ ] EinkommensSt-Vorauszahlung Q4
 - [ ] Networking-Cheatsheet durcharbeiten
-- [ ] o2-Router zurückschicken
+- [X] o2-Router zurückschicken
 - [ ] Jugenstil-Ausstellung im Museum Kunst & Gewerbe besuchen
 - [ ] Dossier für Bankengespräch bzgl. Immobilien-Darlehen zusammenstellen
 - [ ] Best Practice rund um `forEach`und Callbacks sammeln.

@@ -18,16 +18,17 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [X] Design-Bug auf Kundenwebsite fixen
 - [X] CMS-Testinstallation auf Kundenserver
 - [ ] Umzug eines Kunden-CMS'
-- [ ] Aktualisierung Kunden-Website
+- [X] Aktualisierung Kunden-Website
+- [ ] Schreiben eines eigenes Mission Statements
 - [ ] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
 - [ ] „Don't publish“-Flag für tug
 - [X] o2-Router zurückschicken
 - [X] Jahresendabrechnungen für die Bestandskunden avisieren
 - [ ] Jahresendabrechnungen für die Bestandskunden schreiben
-- [ ] UmSt-Voranmeldung für November
-- [ ] EinkommensSt-Vorauszahlung Q4
-- [ ] Networking-Cheatsheet durcharbeiten
-- [ ] Jugenstil-Ausstellung im Museum Kunst & Gewerbe besuchen
+- [X] UmSt-Voranmeldung für November
+- [X] EinkommensSt-Vorauszahlung Q4
+- [X] Networking-Cheatsheet durcharbeiten
+- [X] Jugenstil-Ausstellung im Museum Kunst & Gewerbe besuchen
 - [ ] Dossier für Bankengespräch bzgl. Immobilien-Darlehen zusammenstellen
 - [ ] Best Practice rund um `forEach`und Callbacks sammeln.
 - [ ] Letzten TV-Rechte-Veränderungen in Excel nachpflegen

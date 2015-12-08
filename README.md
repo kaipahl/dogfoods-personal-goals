@@ -16,10 +16,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [X] Umzug eines Kunden-CMS' planen
 - [X] Design-Bug auf Kundenwebsite fixen
-- [ ] CMS-Testinstallation auf Kundenserver
+- [X] CMS-Testinstallation auf Kundenserver
 - [ ] Umzug eines Kunden-CMS'
 - [ ] Aktualisierung Kunden-Website
 - [ ] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
+- [ ] „Don't publish“-Flag für tug
 - [X] o2-Router zurückschicken
 - [X] Jahresendabrechnungen für die Bestandskunden avisieren
 - [ ] Jahresendabrechnungen für die Bestandskunden schreiben

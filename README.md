@@ -22,7 +22,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [X] Kunden zwei Logos zusenden
 - [X] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
 - [ ] Schreiben eines eigenes Mission Statements
-- [ ] „Don't publish“-Flag für tug
+- [X] „Don't publish“-Flag für tug
 - [X] o2-Router zurückschicken
 - [X] Jahresendabrechnungen für die Bestandskunden avisieren
 - [X] Jahresendabrechnungen für die Bestandskunden schreiben

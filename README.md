@@ -19,12 +19,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [X] CMS-Testinstallation auf Kundenserver
 - [ ] Umzug eines Kunden-CMS'
 - [X] Aktualisierung Kunden-Website
-- [ ] Schreiben eines eigenes Mission Statements
+- [X] Kunden zwei Logos zusenden
 - [X] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
+- [ ] Schreiben eines eigenes Mission Statements
 - [ ] „Don't publish“-Flag für tug
 - [X] o2-Router zurückschicken
 - [X] Jahresendabrechnungen für die Bestandskunden avisieren
-- [ ] Jahresendabrechnungen für die Bestandskunden schreiben
+- [X] Jahresendabrechnungen für die Bestandskunden schreiben
 - [X] UmSt-Voranmeldung für November
 - [X] EinkommensSt-Vorauszahlung Q4
 - [X] Networking-Cheatsheet durcharbeiten

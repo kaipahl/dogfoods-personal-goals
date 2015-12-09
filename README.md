@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Umzug eines Kunden-CMS'
 - [X] Aktualisierung Kunden-Website
 - [ ] Schreiben eines eigenes Mission Statements
-- [ ] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
+- [X] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
 - [ ] „Don't publish“-Flag für tug
 - [X] o2-Router zurückschicken
 - [X] Jahresendabrechnungen für die Bestandskunden avisieren

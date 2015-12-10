@@ -33,6 +33,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Dossier für Bankengespräch bzgl. Immobilien-Darlehen zusammenstellen
 - [ ] Best Practice rund um `forEach`und Callbacks sammeln.
 - [ ] Letzten TV-Rechte-Veränderungen in Excel nachpflegen
+- [X] „Hammock Driven Development“ 
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -53,7 +54,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Backblaze B2 evaluieren
 * JSPM evaluieren
 * Was ist Domain Driven Design?
-* Was ist „Hammock Driven Development“
 * Evaluierung Cucumber
 * Evaluierung Greensock
 

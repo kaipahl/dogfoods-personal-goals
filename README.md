@@ -17,7 +17,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [X] Umzug eines Kunden-CMS' planen
 - [X] Design-Bug auf Kundenwebsite fixen
 - [X] CMS-Testinstallation auf Kundenserver
-- [ ] Umzug eines Kunden-CMS'
+- [X] Umzug eines Kunden-CMS'
 - [X] Aktualisierung Kunden-Website
 - [X] Kunden zwei Logos zusenden
 - [X] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen

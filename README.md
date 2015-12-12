@@ -32,7 +32,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [X] Jugenstil-Ausstellung im Museum Kunst & Gewerbe besuchen
 - [ ] Dossier für Bankengespräch bzgl. Immobilien-Darlehen zusammenstellen
 - [ ] Best Practice rund um `forEach`und Callbacks sammeln.
-- [ ] Letzten TV-Rechte-Veränderungen in Excel nachpflegen
+- [X] Letzten TV-Rechte-Veränderungen in Excel nachpflegen
 - [X] „Hammock Driven Development“ 
 - [X] „Domain Driven Design“?
 

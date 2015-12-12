@@ -2,6 +2,12 @@
 
 ### Sammlung der Highlights des Tages
 
+
+12.12.2015
+---
+Das Schreiben eines _Bankendossiers_ um sich nach Konditionen für einen Hypothekenkredit zu informieren, eskalierte im Aufwand, u.a. weil ich erst mal die Zahlen für meinen Lebensunterhalt der letzten Jahre errechnen musste – keine leichte Aufgabe für einen Selbstständigen, der alles über ein Konto laufen lässt. Am Ende bin ich happy, dass ich das Dossier geschrieben habe. Nun lasse ich es eine Woche lang liegen, um es nächstes Wochenende noch einmal durchzulesen.
+
+
 11.12.2015
 ---
 Ausnahmsweise das Highlight heute mal am darauffolgenden Morgen geschrieben. Es war ein eher highlightloser Tag. Ich könnte jetzt den elsäßischen Flammkuchen im Café Nuestro als Highlight benennen oder die Überlegungen zu meinem _Mission Statement_. Letzteres ist noch nicht abgeschlossen, aber gut gestartet. Es zeichnet sich ab, dass das _Mission Statement_ und meine Profilseite noch einige Tage brauchen werden, weil man sie öfters sacken lassen sollte um dann wieder drauf zu schauen.

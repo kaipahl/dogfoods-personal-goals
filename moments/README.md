@@ -2,6 +2,10 @@
 
 ### Sammlung der Highlights des Tages
 
+11.12.2015
+---
+Ausnahmsweise das Highlight heute mal am darauffolgenden Morgen geschrieben. Es war ein eher highlightloser Tag. Ich könnte jetzt den elsäßischen Flammkuchen im Café Nuestro als Highlight benennen oder die Überlegungen zu meinem _Mission Statement_. Letzteres ist noch nicht abgeschlossen, aber gut gestartet. Es zeichnet sich ab, dass das _Mission Statement_ und meine Profilseite noch einige Tage brauchen werden, weil man sie öfters sacken lassen sollte um dann wieder drauf zu schauen.
+
 10.12.2015
 ---
 __Kunden-Website übergeben__ und __Projekt abgeschlossen__. Der Umzug der Website auf den Live-Server gestaltete sich leider etwas schwieriger – es handelte sich um eine Portfoliowebsite einer Grafikerin. Das CMS _ProcessWire_ bietet zwar für einen solchen Umzug die Möglichkeit eines „_Site Profile Exports_“ – nur dass der aus mir nicht bekannten Gründen nicht funktionierte. Es wurde zwar ein Export-Verzeichnis auf dem Testserver generiert, _ProcessWire_ erkannte aber bei der Installation auf dem Liveserver das Profil nicht. Also musste ich händisch Dateien und MySQL-Tabellen kopieren… Hat mich eine Stunde mehr gekostet als erwartet, aber am Ende war ich happy, dass das Projekt abgeschlossen werden konnte.

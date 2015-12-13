@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+13.12.2015
+---
+Frühmorgens durch die Gegend gefahren und ein Geburtstagsgeschenk vor die Tür gestellt.
+
+
 12.12.2015
 ---
 Das Schreiben eines _Bankendossiers_ um sich nach Konditionen für einen Hypothekenkredit zu informieren, eskalierte im Aufwand, u.a. weil ich erst mal die Zahlen für meinen Lebensunterhalt der letzten Jahre errechnen musste – keine leichte Aufgabe für einen Selbstständigen, der alles über ein Konto laufen lässt. Am Ende bin ich happy, dass ich das Dossier geschrieben habe. Nun lasse ich es eine Woche lang liegen, um es nächstes Wochenende noch einmal durchzulesen.

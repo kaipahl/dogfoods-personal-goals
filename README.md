@@ -9,40 +9,36 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 50/2015, ab Montag, 7.12.2015
+# KW 51/2015, ab Montag, 14.12.2015
 
 ### This Week's Goal: eigene Website verbessern
 
 ## Things I'll Do This Week:
-- [X] Umzug eines Kunden-CMS' planen
-- [X] Design-Bug auf Kundenwebsite fixen
-- [X] CMS-Testinstallation auf Kundenserver
-- [X] Umzug eines Kunden-CMS'
-- [X] Aktualisierung Kunden-Website
-- [X] Kunden zwei Logos zusenden
-- [X] Kundenwebsite per Diff auf Unterschiede zwischen Assemble und tug testen
-- [/] Schreiben eines eigenes Mission Statements
-- [X] „Don't publish“-Flag für tug
-- [X] o2-Router zurückschicken
-- [X] Jahresendabrechnungen für die Bestandskunden avisieren
-- [X] Jahresendabrechnungen für die Bestandskunden schreiben
-- [X] UmSt-Voranmeldung für November
-- [X] EinkommensSt-Vorauszahlung Q4
-- [X] Networking-Cheatsheet durcharbeiten
-- [X] Jugenstil-Ausstellung im Museum Kunst & Gewerbe besuchen
-- [X] Dossier für Bankengespräch bzgl. Immobilien-Darlehen zusammenstellen
-- [ ] Best Practice rund um `forEach`und Callbacks sammeln.
-- [X] Letzten TV-Rechte-Veränderungen in Excel nachpflegen
-- [X] „Hammock Driven Development“ 
-- [X] „Domain Driven Design“?
+- [ ] Gegenlesen des eigenen Mission Statements
+- [ ] Mission Statements von Hanno Shipmates durchlesen
+- [ ] Weiterarbeiten an der About-Seite
+- [ ] Evaluierung der aktuellen Home-Page
+- [ ] Analyse des Webauftritts von zeit.de
+- [ ] Analyse von AMP
+- [ ] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
+- [ ] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?*
+- [ ] aas-DB: Definition eines MVP 0.1*
+- [ ] Durcharbeiten des Webkrauts-Adventskalender
+- [ ] Durcharbeiten von 24ways.org
+- [ ] [„How to avoid Work“](https://www.brainpickings.org/2012/12/14/how-to-avoid-work/)
+- [ ] Küchenmesser kaufen
+- [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
 
 ### Backlog: Side Projects
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
+Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 
 ### Backlog: Code Things I Want to Do/Play With
+* Formulieren der befürchteten Probleme in tug
+* Best Practice rund um `forEach`und Callbacks sammeln.
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?
 * NodeJS-Debugging mit [IronNode](http://s-a.github.io/iron-node/)
 * NodeJS-Debugging mit [TraceGL](https://github.com/traceglMPL/tracegl)

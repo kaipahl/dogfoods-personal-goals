@@ -38,6 +38,11 @@ Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 
 ### Backlog: Code Things I Want to Do/Play With
 * Formulieren der befürchteten Probleme in tug
+* aas-Scraper: NHL-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
+* aas-Scraper: NBA-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
+* aas-Scraper: NBA: 2h30-Trennung der Timeslots machen
+* aas-Scraper: NCAAB-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
+* aas-Scraper: NCAAB: Einzelspiele nicht als Subspiele auftreten lassen
 * Best Practice rund um `forEach`und Callbacks sammeln.
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?
 * NodeJS-Debugging mit [IronNode](http://s-a.github.io/iron-node/)

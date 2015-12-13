@@ -17,11 +17,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Mission Statements von Hanno Shipmates durchlesen
 - [ ] Weiterarbeiten an der About-Seite
-- [ ] Evaluierung der aktuellen Home-Page
+- [ ] Evaluierung der aktuellen Homepage
 - [ ] Analyse des Webauftritts von zeit.de
 - [ ] Analyse von AMP
-- [ ] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
-- [ ] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?*
+- [x] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
+- [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?
 - [ ] aas-DB: Definition eines MVP 0.1*
 - [ ] Durcharbeiten des Webkrauts-Adventskalender
 - [ ] Durcharbeiten von 24ways.org

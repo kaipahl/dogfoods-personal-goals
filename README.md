@@ -44,6 +44,7 @@ Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 * aas-Scraper: NCAAB-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
 * aas-Scraper: NCAAB: Einzelspiele nicht als Subspiele auftreten lassen
 * Best Practice rund um `forEach`und Callbacks sammeln.
+* .net #275/Jan 2016 lesen
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?
 * NodeJS-Debugging mit [IronNode](http://s-a.github.io/iron-node/)
 * NodeJS-Debugging mit [TraceGL](https://github.com/traceglMPL/tracegl)

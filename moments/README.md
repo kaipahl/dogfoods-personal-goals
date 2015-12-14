@@ -2,6 +2,9 @@
 
 ### Sammlung der Highlights des Tages
 
+14.12.2015
+---
+8 Stunden Zeit genommen um in das Markup, CSS und den JS-Code von zeit.de einzusteigen. Tat gut mit derartiger Muße sich eine Website anzuschauen. Ich bin heute abend von den Eindrücken erschlagen und habe noch nicht einmal alle Themen angefasst.
 
 13.12.2015
 ---

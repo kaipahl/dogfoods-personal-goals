@@ -18,14 +18,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Mission Statements von Hanno Shipmates durchlesen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Evaluierung der aktuellen Homepage
-- [ ] Analyse des Webauftritts von zeit.de
+- [x] Analyse des Webauftritts von zeit.de
 - [ ] Analyse von AMP
 - [x] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
 - [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?
 - [ ] aas-DB: Definition eines MVP 0.1*
 - [ ] Durcharbeiten des Webkrauts-Adventskalender
 - [ ] Durcharbeiten von 24ways.org
-- [ ] [„How to avoid Work“](https://www.brainpickings.org/2012/12/14/how-to-avoid-work/)
+- [x] [„How to avoid Work“](https://www.brainpickings.org/2012/12/14/how-to-avoid-work/)
 - [ ] Küchenmesser kaufen
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
 

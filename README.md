@@ -14,12 +14,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ### This Week's Goal: eigene Website verbessern
 
 ## Things I'll Do This Week:
-- [ ] Gegenlesen des eigenen Mission Statements
+- [x] Gegenlesen des eigenen Mission Statements
+- [x] Weiterarbeiten an der About-Seite
 - [ ] Mission Statements von Hanno Shipmates durchlesen
-- [ ] Weiterarbeiten an der About-Seite
 - [x] Evaluierung der aktuellen Homepage
 - [x] Analyse des Webauftritts von zeit.de
 - [ ] Zweite Analyse des Webauftritts von zeit.de
+- [ ] Gegenlesen des eigenen Mission Statements
+- [ ] Weiterarbeiten an der About-Seite
 - [x] Probleme mit Video-Upload auf einer Kundenwebsite anschauen
 - [x] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
 - [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?

@@ -19,15 +19,16 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Evaluierung der aktuellen Homepage
 - [x] Analyse des Webauftritts von zeit.de
-- [ ] Analyse von AMP
+- [ ] Zweite Analyse des Webauftritts von zeit.de
 - [x] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
 - [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?
-- [ ] aas-DB: Definition eines MVP 0.1*
+- [ ] aas-DB: Definition eines MVP 0.1
 - [ ] Durcharbeiten des Webkrauts-Adventskalender
 - [ ] Durcharbeiten von 24ways.org
 - [x] [„How to avoid Work“](https://www.brainpickings.org/2012/12/14/how-to-avoid-work/)
 - [ ] Küchenmesser kaufen
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
+- [ ] ~~Analyse von AMP~~ (entfällt wg umfangreicherer Analyse von zeit.de)
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

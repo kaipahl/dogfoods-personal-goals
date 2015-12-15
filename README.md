@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Evaluierung der aktuellen Homepage
 - [x] Analyse des Webauftritts von zeit.de
 - [ ] Zweite Analyse des Webauftritts von zeit.de
-- [ ] Probleme mit Video-Upload auf einer Kundenwebsite anschauen
+- [x] Probleme mit Video-Upload auf einer Kundenwebsite anschauen
 - [x] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
 - [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?
 - [ ] aas-DB: Definition eines MVP 0.1

@@ -16,7 +16,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] Gegenlesen des eigenen Mission Statements
 - [x] Weiterarbeiten an der About-Seite
-- [ ] Mission Statements von Hanno Shipmates durchlesen
+- [x] Mission Statements von Hanno Shipmates durchlesen
 - [x] Evaluierung der aktuellen Homepage
 - [x] Analyse des Webauftritts von zeit.de
 - [ ] Zweite Analyse des Webauftritts von zeit.de

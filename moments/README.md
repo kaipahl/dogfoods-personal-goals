@@ -2,6 +2,10 @@
 
 ### Sammlung der Highlights des Tages
 
+16.12.2015
+---
+Mittagessen mit Connie – sehr feine Penne mit gebratenen Rinderpsitzen im Nuestro.
+
 15.12.2015
 ---
 Mittagessen mit einem netten, ehemaligen Projektkollegen. Im Riads, einem Libanesen an der Musikhalle.

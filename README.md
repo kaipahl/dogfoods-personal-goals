@@ -19,7 +19,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Mission Statements von Hanno Shipmates durchlesen
 - [x] Evaluierung der aktuellen Homepage
 - [x] Analyse des Webauftritts von zeit.de
-- [ ] Zweite Analyse des Webauftritts von zeit.de
+- [x] Zweite Analyse des Webauftritts von zeit.de
+- [ ] Dritte Analyse des Webauftritts von zeit.de
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Weiterarbeiten an der About-Seite
 - [x] Probleme mit Video-Upload auf einer Kundenwebsite anschauen

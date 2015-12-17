@@ -20,7 +20,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Evaluierung der aktuellen Homepage
 - [x] Analyse des Webauftritts von zeit.de
 - [x] Zweite Analyse des Webauftritts von zeit.de
-- [ ] Dritte Analyse des Webauftritts von zeit.de
+- [x] Dritte Analyse des Webauftritts von zeit.de
+- [ ] Bilanz der zeit.de-Analyse
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Weiterarbeiten an der About-Seite
 - [x] Probleme mit Video-Upload auf einer Kundenwebsite anschauen
@@ -28,9 +29,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?
 - [ ] aas-DB: Definition eines MVP 0.1
 - [x] Durcharbeiten des Webkrauts-Adventskalender
-- [ ] Durcharbeiten von 24ways.org
+- [x] Durcharbeiten von 24ways.org
 - [x] [„How to avoid Work“](https://www.brainpickings.org/2012/12/14/how-to-avoid-work/)
-- [ ] Küchenmesser kaufen
+- [x] Lässt sich Blade irgendwie außerhalb von Laravel nutzen?
+- [x] Küchenmesser kaufen
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
 - [ ] ~~Analyse von AMP~~ (entfällt wg umfangreicherer Analyse von zeit.de)
 
@@ -56,7 +58,6 @@ Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 * Mocken mit sinonJS
 * Evaluierung von MODX
 * Freemarker ausprobieren
-* Lässt sich Blade irgendwie außerhalb von Laravel nutzen?
 * Evaluierung von SonarQube
 * SpeedCurve evaluieren
 * Backblaze B2 evaluieren

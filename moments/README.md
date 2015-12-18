@@ -2,17 +2,26 @@
 
 ### Sammlung der Highlights des Tages
 
+
+17.12.2015
+---
+Auf dem _#tkhh_ von @spielfeldrand und @nedfuller Dank für _allesaussersport_ bekommen. Passiert zu selten und tut der Motivation gut :-)
+
+
 16.12.2015
 ---
 Mittagessen mit Connie – sehr feine Penne mit gebratenen Rinderpsitzen im Nuestro.
+
 
 15.12.2015
 ---
 Mittagessen mit einem netten, ehemaligen Projektkollegen. Im Riads, einem Libanesen an der Musikhalle.
 
+
 14.12.2015
 ---
 8 Stunden Zeit genommen um in das Markup, CSS und den JS-Code von zeit.de einzusteigen. Tat gut mit derartiger Muße sich eine Website anzuschauen. Ich bin heute abend von den Eindrücken erschlagen und habe noch nicht einmal alle Themen angefasst.
+
 
 13.12.2015
 ---

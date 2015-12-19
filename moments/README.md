@@ -3,6 +3,10 @@
 ### Sammlung der Highlights des Tages
 
 
+18.12.2015
+---
+Das Basketball-Spiel Roter Stern – Bayern im TV. Mitreißendes Basketball-Spiel, intensive Stimmung, psychologische Minidramen in einem Do-or-Die-Spiel.
+
 17.12.2015
 ---
 Auf dem _#tkhh_ von @spielfeldrand und @nedfuller Dank für _allesaussersport_ bekommen. Passiert zu selten und tut der Motivation gut :-)

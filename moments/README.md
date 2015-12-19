@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+19.12.2015
+---
+Heute gibt es nichts. Den ganzen Tag latent angepisst gewesen. Anstregender Tag. Wird morgen auch so weitergehen.
+
+
 18.12.2015
 ---
 Das Basketball-Spiel Roter Stern – Bayern im TV. Mitreißendes Basketball-Spiel, intensive Stimmung, psychologische Minidramen in einem Do-or-Die-Spiel.

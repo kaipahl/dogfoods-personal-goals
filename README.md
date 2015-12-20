@@ -9,32 +9,22 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 51/2015, ab Montag, 14.12.2015
+# KW 52/2015, ab Montag, 20.12.2015
 
 ### This Week's Goal: eigene Website verbessern
 
 ## Things I'll Do This Week:
-- [x] Gegenlesen des eigenen Mission Statements
-- [x] Weiterarbeiten an der About-Seite
-- [x] Mission Statements von Hanno Shipmates durchlesen
-- [x] Evaluierung der aktuellen Homepage
-- [x] Analyse des Webauftritts von zeit.de
-- [x] Zweite Analyse des Webauftritts von zeit.de
-- [x] Dritte Analyse des Webauftritts von zeit.de
+- [ ] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
+- [ ] Sofa-QB-Sendung vorbereiten
+- [ ] Interview mit RC_KH vorbereiten
+- [ ] Kochrezepte für Weihnachten
 - [ ] Bilanz der zeit.de-Analyse
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Weiterarbeiten an der About-Seite
-- [x] Probleme mit Video-Upload auf einer Kundenwebsite anschauen
-- [x] aas-DB: Entscheidung über DB. MySQL oder PostgreSQL?
-- [x] aas-DB: Entscheidung über NodeJS-Framework. Express oder was?
 - [ ] aas-DB: Definition eines MVP 0.1
-- [x] Durcharbeiten des Webkrauts-Adventskalender
-- [x] Durcharbeiten von 24ways.org
-- [x] [„How to avoid Work“](https://www.brainpickings.org/2012/12/14/how-to-avoid-work/)
-- [x] Lässt sich Blade irgendwie außerhalb von Laravel nutzen?
-- [x] Küchenmesser kaufen
+- [ ] Analyse von AMP
+- [ ] Formulieren der befürchteten Probleme in tug
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
-- [ ] ~~Analyse von AMP~~ (entfällt wg umfangreicherer Analyse von zeit.de)
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

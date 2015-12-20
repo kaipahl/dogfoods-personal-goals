@@ -2,6 +2,10 @@
 
 ### Sammlung der Highlights des Tages
 
+20.12.2015
+---
+Nope, heute auch nix.
+
 
 19.12.2015
 ---

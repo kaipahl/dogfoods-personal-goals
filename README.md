@@ -19,12 +19,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Interview mit RC_KH vorbereiten
 - [ ] Kochrezepte für Weihnachten
 - [ ] Bilanz der zeit.de-Analyse
+- [ ] Schreiben der zeit.de-Analyse
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] aas-DB: Definition eines MVP 0.1
 - [ ] Analyse von AMP
 - [ ] Formulieren der befürchteten Probleme in tug
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
+- [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

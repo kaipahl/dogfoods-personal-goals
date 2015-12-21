@@ -14,8 +14,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ### This Week's Goal: eigene Website verbessern
 
 ## Things I'll Do This Week:
-- [ ] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
-- [ ] Sofa-QB-Sendung vorbereiten
+- [x] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
 - [ ] Interview mit RC_KH vorbereiten
 - [ ] Kochrezepte für Weihnachten
 - [ ] Bilanz der zeit.de-Analyse
@@ -27,6 +26,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Formulieren der befürchteten Probleme in tug
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
 - [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
+- ~Sofa-QB-Sendung vorbereiten~ (anscheinend bin ich erst nächste Woche dran)
+- [x] Formulieren der befürchteten Probleme in tug
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -36,7 +37,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 
 ### Backlog: Code Things I Want to Do/Play With
-* Formulieren der befürchteten Probleme in tug
+* auf kaipahl.de den tug-Branch auf Master mergen
 * aas-Scraper: NHL-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
 * aas-Scraper: NBA-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
 * aas-Scraper: NBA: 2h30-Trennung der Timeslots machen
@@ -56,5 +57,9 @@ Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 * JSPM evaluieren
 * Evaluierung Cucumber
 * Evaluierung Greensock
+* tug: Testcase für das Handling von Objekten innerhalb und außerhalb von Funktionen
+* tug: Einlesen ind das Handling von Objekten innerhalb und außerhalb von Funktionen
+* tug: Refactoring der Übergabe des page-Objekt
+* tug: Refactoring von Methoden die Site anreichern
 
 

@@ -21,7 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Weiterarbeiten an der About-Seite
-- [ ] aas-DB: Definition eines MVP 0.1
+- [x] aas-DB: Definition eines MVP 0.1
 - [ ] Analyse von AMP
 - [ ] Formulieren der befürchteten Probleme in tug
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen

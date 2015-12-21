@@ -2,6 +2,12 @@
 
 ### Sammlung der Highlights des Tages
 
+
+21.12.2015
+---
+Heute abend in einem spaßigen Bundesliga-Podcast dabei gewesen, heute nachmittag ein gutes Gespräch bei einem Kaffee gehabt und eine Einladung für Silvester bekommen.
+
+
 20.12.2015
 ---
 Nope, heute auch nix.

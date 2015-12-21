@@ -16,7 +16,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
 - [ ] Interview mit RC_KH vorbereiten
-- [ ] Kochrezepte für Weihnachten
+- [x] Kochrezepte für Weihnachten
 - [ ] Bilanz der zeit.de-Analyse
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Gegenlesen des eigenen Mission Statements

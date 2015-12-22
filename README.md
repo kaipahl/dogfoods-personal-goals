@@ -28,6 +28,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
 - ~Sofa-QB-Sendung vorbereiten~ (anscheinend bin ich erst nächste Woche dran)
 - [x] Formulieren der befürchteten Probleme in tug
+- [x] Support-Anfrage wg Wallaby gestellt
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

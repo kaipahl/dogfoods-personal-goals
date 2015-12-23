@@ -18,7 +18,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Interview mit RC_KH vorbereiten
 - [ ] Interview RC_KH zum Beantworten fertig machen
 - [x] Kochrezepte für Weihnachten
-- [ ] Bilanz der zeit.de-Analyse
+- [x] Bilanz der zeit.de-Analyse
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Gegenlesen des eigenen Mission Statements
 - [ ] Weiterarbeiten an der About-Seite

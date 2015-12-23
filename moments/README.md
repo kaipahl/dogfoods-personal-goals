@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+22.12.2015
+---
+Mittagessen und spannende Gespräche mit einem ehemaligen Kollegen
+
+
 21.12.2015
 ---
 Heute abend in einem spaßigen Bundesliga-Podcast dabei gewesen, heute nachmittag ein gutes Gespräch bei einem Kaffee gehabt und eine Einladung für Silvester bekommen.

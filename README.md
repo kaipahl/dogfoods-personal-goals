@@ -15,7 +15,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
-- [ ] Interview mit RC_KH vorbereiten
+- [x] Interview mit RC_KH vorbereiten
+- [ ] Interview RC_KH zum Beantworten fertig machen
 - [x] Kochrezepte für Weihnachten
 - [ ] Bilanz der zeit.de-Analyse
 - [ ] Schreiben der zeit.de-Analyse
@@ -23,7 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Weiterarbeiten an der About-Seite
 - [x] aas-DB: Definition eines MVP 0.1
 - [ ] Analyse von AMP
-- [ ] Formulieren der befürchteten Probleme in tug
+- [x] Formulieren der befürchteten Probleme in tug
 - [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
 - [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
 - ~Sofa-QB-Sendung vorbereiten~ (anscheinend bin ich erst nächste Woche dran)

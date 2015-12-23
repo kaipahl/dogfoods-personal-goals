@@ -16,12 +16,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
 - [x] Interview mit RC_KH vorbereiten
-- [ ] Interview RC_KH zum Beantworten fertig machen
+- [x] Interview RC_KH zum Beantworten fertig machen
 - [x] Kochrezepte für Weihnachten
 - [x] Bilanz der zeit.de-Analyse
 - [ ] Schreiben der zeit.de-Analyse
-- [ ] Gegenlesen des eigenen Mission Statements
-- [ ] Weiterarbeiten an der About-Seite
+- [x] Gegenlesen des eigenen Mission Statements
+- [x] Weiterarbeiten an der About-Seite
 - [x] aas-DB: Definition eines MVP 0.1
 - [ ] Analyse von AMP
 - [x] Formulieren der befürchteten Probleme in tug
@@ -39,6 +39,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 
 ### Backlog: Code Things I Want to Do/Play With
+* Weiterarbeiten an der About-Seite
 * auf kaipahl.de den tug-Branch auf Master mergen
 * aas-Scraper: NHL-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
 * aas-Scraper: NBA-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern

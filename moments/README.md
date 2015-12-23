@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+23.12.2015
+---
+Guten Interview-Text geschrieben. Beim Gemüsehändler alles für Weihnachten bekommen. Alle Getränke für Weihnachten bekommen.
+
+
 22.12.2015
 ---
 Mittagessen und spannende Gespräche mit einem ehemaligen Kollegen

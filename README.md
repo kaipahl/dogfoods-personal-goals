@@ -30,6 +30,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - ~Sofa-QB-Sendung vorbereiten~ (anscheinend bin ich erst nächste Woche dran)
 - [x] Formulieren der befürchteten Probleme in tug
 - [x] Support-Anfrage wg Wallaby gestellt
+- [x] aas-Scraper: Serie A-Scripts holen ihre Daten jetzt von der Serie A-Website
+- [x] aas-Scraper: NBA-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
+- [x] aas-Scraper: NBA: 2h30-Trennung der Timeslots machen
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -42,8 +45,6 @@ Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 * Weiterarbeiten an der About-Seite
 * auf kaipahl.de den tug-Branch auf Master mergen
 * aas-Scraper: NHL-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
-* aas-Scraper: NBA-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
-* aas-Scraper: NBA: 2h30-Trennung der Timeslots machen
 * aas-Scraper: NCAAB-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
 * aas-Scraper: NCAAB: Einzelspiele nicht als Subspiele auftreten lassen
 * Best Practice rund um `forEach`und Callbacks sammeln.

@@ -3,6 +3,17 @@
 ### Sammlung der Highlights des Tages
 
 
+25.12.2015
+---
+Eintopf mit den Kochwürsten ist gelungen und viel Spaß heute mit RocketBeans TV gehabt.
+
+
+24.12.2015
+---
+Die Kochwürste bei der Fleischrei Jacob bekommen – frühmorgens um sieben.
+
+
+
 23.12.2015
 ---
 Guten Interview-Text geschrieben. Beim Gemüsehändler alles für Weihnachten bekommen. Alle Getränke für Weihnachten bekommen.

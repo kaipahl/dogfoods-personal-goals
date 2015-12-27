@@ -9,44 +9,37 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 52/2015, ab Montag, 20.12.2015
+# KW 53/2015, ab Montag, 28.12.2015
 
-### This Week's Goal: eigene Website verbessern
+### This Week's Goal: 
+* allesaussersport verbessern, Inhalte einsetzen etc…
 
 ## Things I'll Do This Week:
-- [x] Ehemalige Stief-Verwandtschaft Postkarte wg Päckchen schreiben
-- [x] Interview mit RC_KH vorbereiten
-- [x] Interview RC_KH zum Beantworten fertig machen
-- [x] Kochrezepte für Weihnachten
-- [x] Bilanz der zeit.de-Analyse
-- [ ] Schreiben der zeit.de-Analyse
-- [x] Gegenlesen des eigenen Mission Statements
-- [x] Weiterarbeiten an der About-Seite
-- [x] aas-DB: Definition eines MVP 0.1
+- [ ] Teil 1 des Interviews mit RC_KH umsetzen
+- [ ] Sofa-QB-Sendung vorbereiten
+- [ ] Teil 2 des Interviews mit RC_KH umsetzen
+- [ ] Teil 3 des Interviews mit RC_KH umsetzen
+- [ ] Am 31.12. Fazit des Jahres auf kaipahl.de
 - [ ] Analyse von AMP
-- [x] Formulieren der befürchteten Probleme in tug
-- [ ] Gegenlesen des Dossier für Bankengespräch bzgl. Immobilien-Darlehen
-- [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
-- ~Sofa-QB-Sendung vorbereiten~ (anscheinend bin ich erst nächste Woche dran)
-- [x] Formulieren der befürchteten Probleme in tug
-- [x] Support-Anfrage wg Wallaby gestellt
-- [x] aas-Scraper: Serie A-Scripts holen ihre Daten jetzt von der Serie A-Website
-- [x] aas-Scraper: NBA-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
-- [x] aas-Scraper: NBA: 2h30-Trennung der Timeslots machen
+- [ ] Schreiben der zeit.de-Analyse
+- [ ] Lesen der .net
+- [ ] aas-Projekt planen
+- [ ] aas-Finale: Vorschau auf Sport 2016
+- [ ] aas-Finale: Vorschau auf aas
+- [ ] aas-Finale: Wie entsteht aas
+- [ ] aas-Finale: Stats von aas
+- [ ] aas-Finale: Meine Top Ten des Jahres
+
 
 ### Things I'll Do This Month: Dezember 2015
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
 
 ### Backlog: Side Projects
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
-Diese Woche wird es vermutlich den Start für das aas-DB-Projekt geben.
 
 ### Backlog: Code Things I Want to Do/Play With
 * Weiterarbeiten an der About-Seite
 * auf kaipahl.de den tug-Branch auf Master mergen
-* aas-Scraper: NHL-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
-* aas-Scraper: NCAAB-Skript bzgl „Abendspiele“ vs “Dienstagsspiele“ verbessern
-* aas-Scraper: NCAAB: Einzelspiele nicht als Subspiele auftreten lassen
 * Best Practice rund um `forEach`und Callbacks sammeln.
 * .net #275/Jan 2016 lesen
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?

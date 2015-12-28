@@ -15,7 +15,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * allesaussersport verbessern, Inhalte einsetzen etc…
 
 ## Things I'll Do This Week:
-- [ ] Teil 1 des Interviews mit RC_KH umsetzen
+- [x] Teil 1 des Interviews mit RC_KH umsetzen
 - [ ] Sofa-QB-Sendung vorbereiten
 - [ ] Teil 2 des Interviews mit RC_KH umsetzen
 - [ ] Teil 3 des Interviews mit RC_KH umsetzen
@@ -29,6 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Finale: Wie entsteht aas
 - [ ] aas-Finale: Stats von aas
 - [ ] aas-Finale: Meine Top Ten des Jahres
+- [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
 
 
 ### Things I'll Do This Month: Dezember 2015

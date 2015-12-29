@@ -35,7 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas: CSS-Workflow mit Grunt einziehen
 - [ ] aas: Notwendigkeit aller JS-Module überprüfen
 - [ ] aas: Grunt und Gruntjs putzen
-- [ ] Kundenwebsite mit zwei Stellenangeboten aktualisieren
+- [x] Kundenwebsite mit zwei Stellenangeboten aktualisieren
 
 
 ### Things I'll Do This Month: Dezember 2015

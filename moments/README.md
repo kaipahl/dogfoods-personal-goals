@@ -3,9 +3,14 @@
 ### Sammlung der Highlights des Tages
 
 
+29.12.2015
+---
+Auf Youtube eine komplette Show von Dara O'Briain angeguckt.
+
+
 28.12.2015
 ---
-Sehr gute Resonanz auf den ersten teil des Interview mit realityCheck nach Veröffentlichung auf _aas_ bekommen.
+Sehr gute Resonanz auf den ersten Teil des Interview mit realityCheck nach Veröffentlichung auf _aas_ bekommen.
 
 
 25.12.2015

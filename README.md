@@ -17,8 +17,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] Teil 1 des Interviews mit RC_KH umsetzen
 - [x] Sofa-QB-Sendung vorbereiten
-- [ ] Teil 2 des Interviews mit RC_KH umsetzen
-- [ ] Teil 3 des Interviews mit RC_KH umsetzen
+- [x] Teil 2 des Interviews mit RC_KH umsetzen
+- [x] Teil 3 des Interviews mit RC_KH umsetzen
 - [ ] Am 31.12. Fazit des Jahres auf kaipahl.de
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
@@ -29,7 +29,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Finale: Wie entsteht aas
 - [ ] aas-Finale: Stats von aas
 - [ ] aas-Finale: Meine Top Ten des Jahres
-- [ ] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
+- [x] aas: JS-Workflow mit Grunt einziehen
+- [x] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
+- [x] aas: Projekt in IntellJ aufziehen
+- [x] aas: CSS-Workflow mit Grunt einziehen
+- [ ] aas: Notwendigkeit aller JS-Module überprüfen
+- [ ] aas: Grunt und Gruntjs putzen
+- [ ] Kundenwebsite mit zwei Stellenangeboten aktualisieren
 
 
 ### Things I'll Do This Month: Dezember 2015

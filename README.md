@@ -16,7 +16,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] Teil 1 des Interviews mit RC_KH umsetzen
-- [ ] Sofa-QB-Sendung vorbereiten
+- [x] Sofa-QB-Sendung vorbereiten
 - [ ] Teil 2 des Interviews mit RC_KH umsetzen
 - [ ] Teil 3 des Interviews mit RC_KH umsetzen
 - [ ] Am 31.12. Fazit des Jahres auf kaipahl.de

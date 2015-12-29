@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+28.12.2015
+---
+Sehr gute Resonanz auf den ersten teil des Interview mit realityCheck nach Veröffentlichung auf _aas_ bekommen.
+
+
 25.12.2015
 ---
 Eintopf mit den Kochwürsten ist gelungen und viel Spaß heute mit RocketBeans TV gehabt.

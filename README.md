@@ -33,9 +33,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
 - [x] aas: Projekt in IntellJ aufziehen
 - [x] aas: CSS-Workflow mit Grunt einziehen
-- [ ] aas: Notwendigkeit aller JS-Module überprüfen
-- [ ] aas: Grunt und Gruntjs putzen
+- [x] aas: Notwendigkeit aller JS-Module überprüfen
+- [x] aas: Grunt und Gruntjs putzen
 - [x] Kundenwebsite mit zwei Stellenangeboten aktualisieren
+- [x] Kundenwebsite mit Neujahrsgrüßen versehen
 
 
 ### Things I'll Do This Month: Dezember 2015

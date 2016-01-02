@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Lesen der .net
-- [ ] aas-Projekt planen
+- [x] aas-Projekt planen
 - [ ] aas-Finale: Vorschau auf Sport 2016
 - [ ] aas-Finale: Vorschau auf aas
 - [ ] aas-Finale: Wie entsteht aas

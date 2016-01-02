@@ -3,6 +3,15 @@
 ### Sammlung der Highlights des Tages
 
 
+01.01.2016
+---
+__Kingsman: the Secret Service__ gesehen. Ein Agenten-Film der 60er-Jahre-Bond-Filme auf die Jetzt-Zeit überträgt und dabei so völlig over-the-top ist. Atemberaubende Action-Szenen – noch comic-kompatibler als die Action-Szenen der Marvel-Filme. 
+
+
+31.12.2015
+---
+Das erste Mal seit Jahrzehnten wieder Fondue gegessen
+
 29.12.2015
 ---
 Auf Youtube eine komplette Show von Dara O'Briain angeguckt.

@@ -9,39 +9,27 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 53/2015, ab Montag, 28.12.2015
+# KW 01/2016, ab Montag, 04.01.2016
 
 ### This Week's Goal: 
 * allesaussersport verbessern, Inhalte einsetzen etc…
 
 ## Things I'll Do This Week:
-- [x] Teil 1 des Interviews mit RC_KH umsetzen
-- [x] Sofa-QB-Sendung vorbereiten
-- [x] Teil 2 des Interviews mit RC_KH umsetzen
-- [x] Teil 3 des Interviews mit RC_KH umsetzen
-- [x] Am 31.12. Fazit des Jahres auf kaipahl.de
+- [ ] Analyse der Website eines potentiellen Kundens R. 
+- [ ] Besprechen der Website eines potentiellen Kundens R.
+- [ ] Zusammenstellen der Styleguide-Schwachpunkten des potentiellen Kundens C.
+- [ ] Kaufen einer Schreibtisch- und Nachttisch-Lampe bei IKEA
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Lesen der .net
-- [x] aas-Projekt planen
-- [ ] aas-Finale: Vorschau auf Sport 2016
+- [ ] aas-Scraper: Neues Script
 - [ ] aas-Finale: Vorschau auf aas
 - [ ] aas-Finale: Wie entsteht aas
 - [ ] aas-Finale: Stats von aas
 - [ ] aas-Finale: Meine Top Ten des Jahres
-- [x] aas: JS-Workflow mit Grunt einziehen
-- [x] Timing bzgl.des Bankengespräch bzgl. Immobilien-Darlehen überlegen
-- [x] aas: Projekt in IntellJ aufziehen
-- [x] aas: CSS-Workflow mit Grunt einziehen
-- [x] aas: Notwendigkeit aller JS-Module überprüfen
-- [x] aas: Grunt und Gruntjs putzen
-- [x] Kundenwebsite mit zwei Stellenangeboten aktualisieren
-- [x] Kundenwebsite mit Neujahrsgrüßen versehen
-- [x] aas: Überarbeitung des College Basketball-Skripts bei Einzelspielen
-- [x] aas: Start eines neuen Scripts für SKY-Sportübertragungen
 
 
-### Things I'll Do This Month: Dezember 2015
+### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
 
 ### Backlog: Side Projects

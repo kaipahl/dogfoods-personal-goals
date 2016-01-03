@@ -3,6 +3,12 @@
 ### Sammlung der Highlights des Tages
 
 
+02.01.2016
+---
+Zu meinem Ärger kann ich auch das zweite Skript zum Auslesen von Sportübertragungen bei SKY wegschmeissen, da es nicht die notwendigen Informationen zur Unterscheidung der einzelnen Golf-Turnier erhalten kann.
+Mein Highlight: einen weiteren (den inzwischen vierten Weg) gefunden, wo ich mir die Infos abgreifen kann.
+
+
 01.01.2016
 ---
 __Kingsman: the Secret Service__ gesehen. Ein Agenten-Film der 60er-Jahre-Bond-Filme auf die Jetzt-Zeit überträgt und dabei so völlig over-the-top ist. Atemberaubende Action-Szenen – noch comic-kompatibler als die Action-Szenen der Marvel-Filme. 

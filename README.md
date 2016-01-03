@@ -19,7 +19,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Sofa-QB-Sendung vorbereiten
 - [x] Teil 2 des Interviews mit RC_KH umsetzen
 - [x] Teil 3 des Interviews mit RC_KH umsetzen
-- [ ] Am 31.12. Fazit des Jahres auf kaipahl.de
+- [x] Am 31.12. Fazit des Jahres auf kaipahl.de
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Lesen der .net
@@ -37,6 +37,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas: Grunt und Gruntjs putzen
 - [x] Kundenwebsite mit zwei Stellenangeboten aktualisieren
 - [x] Kundenwebsite mit Neujahrsgrüßen versehen
+- [x] aas: Überarbeitung des College Basketball-Skripts bei Einzelspielen
+- [x] aas: Start eines neuen Scripts für SKY-Sportübertragungen
 
 
 ### Things I'll Do This Month: Dezember 2015

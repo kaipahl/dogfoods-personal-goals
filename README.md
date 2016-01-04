@@ -27,6 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Finale: Wie entsteht aas
 - [ ] aas-Finale: Stats von aas
 - [ ] aas-Finale: Meine Top Ten des Jahres
+- [x] Kunden-Support für Mac OS X 10.5 geleistet
 
 
 ### Things I'll Do This Month: Januar 2016

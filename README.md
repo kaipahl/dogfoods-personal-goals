@@ -15,7 +15,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * allesaussersport verbessern, Inhalte einsetzen etc…
 
 ## Things I'll Do This Week:
-- [ ] Analyse der Website eines potentiellen Kundens R. 
+- [x] Analyse der Website eines potentiellen Kundens R. 
 - [ ] Besprechen der Website eines potentiellen Kundens R.
 - [ ] Zusammenstellen der Styleguide-Schwachpunkten des potentiellen Kundens C.
 - [ ] Kaufen einer Schreibtisch- und Nachttisch-Lampe bei IKEA

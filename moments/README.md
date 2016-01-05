@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+04.01.2016
+---
+Die Mürbeteig-Orgie die ich am späten Nachmittag veranstaltete und der u.a. eine Quiche Lorraine entsprang.
+
+
 02.01.2016
 ---
 Zu meinem Ärger kann ich auch das zweite Skript zum Auslesen von Sportübertragungen bei SKY wegschmeissen, da es nicht die notwendigen Informationen zur Unterscheidung der einzelnen Golf-Turnier erhalten kann.

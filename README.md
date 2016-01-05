@@ -22,7 +22,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Lesen der .net
-- [ ] aas-Scraper: Neues Script
+- [x] aas-Scraper: Neues Script – Request kann abgefeuert werden
+- [ ] aas-Scraper: Neues Script – Response auswerten
+- [ ] aas-Scraper: Neues Script – Markup ausgeben
 - [ ] aas-Finale: Vorschau auf aas
 - [ ] aas-Finale: Wie entsteht aas
 - [ ] aas-Finale: Stats von aas

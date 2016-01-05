@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+05.01.2016
+---
+Dem HVV ein Schnippchen geschlagen. An der Hudtwalkerstraße gesehen, dass der nächste 20/25er erst in 10 Minuten kommt. Im Kopf gerechnet und zum Schluss gekommen, dass ich schneller bin, wenn ich wieder in die U1 steige, Kellinghusenstraße in die U3 umsteige und ab Hoheluft zu Fuß laufe. Nach meinen Berechnungen wäre es knapp gewesen. Der Anzeigentafel zuhause nach zu urteilen, habe ich den HVV um sechs Minuten geschlagen.
+
+
 04.01.2016
 ---
 Die Mürbeteig-Orgie die ich am späten Nachmittag veranstaltete und der u.a. eine Quiche Lorraine entsprang.

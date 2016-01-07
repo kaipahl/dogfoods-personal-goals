@@ -2,6 +2,11 @@
 
 ### Sammlung der Highlights des Tages
 
+06.01.2016
+---
+Mittags nach längerer Zeit mal wieder Fisch gegessen. Schönen _Loup de mer_ mit Zitrone und Rosmarin gefüllt und im Backofen.
+
+
 
 05.01.2016
 ---

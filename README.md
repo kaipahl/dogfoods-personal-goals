@@ -18,7 +18,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Analyse der Website eines potentiellen Kundens R. 
 - [x] Besprechen der Website eines potentiellen Kundens R.
 - [ ] Zusammenstellen der Styleguide-Schwachpunkten des potentiellen Kundens C.
-- [ ] Kaufen einer Schreibtisch- und Nachttisch-Lampe bei IKEA
+- [x] Kaufen einer Schreibtisch- und Nachttisch-Lampe bei IKEA
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Lesen der .net
@@ -31,7 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Finale: Meine Top Ten des Jahres
 - [x] Kunden-Support für Mac OS X 10.5 geleistet
 - [x] Für Kunden H. sechs Seminare aktualisiert
-- [ ] Vorbereiten einer Aufwandsschätzung für Kunden R.
+- [x] Vorbereiten einer Aufwandsschätzung für Kunden R.
 
 
 ### Things I'll Do This Month: Januar 2016

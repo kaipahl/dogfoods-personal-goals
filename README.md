@@ -9,29 +9,28 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 01/2016, ab Montag, 04.01.2016
+# KW 02/2016, ab Montag, 11.01.2016
 
 ### This Week's Goal: 
-* allesaussersport verbessern, Inhalte einsetzen etc…
+* Lesen und Analysieren von Websites und Webthemen
 
 ## Things I'll Do This Week:
-- [x] Analyse der Website eines potentiellen Kundens R. 
-- [x] Besprechen der Website eines potentiellen Kundens R.
+- [ ] Brad Frost-Vortrag auswerten
+- [ ] Performance-Analyse des potentiellen Kundens C.
+- [ ] CSS-Analyse des potentiellen Kundens C.
+- [ ] JS-Analyse des potentiellen Kundens C.
+- [ ] Markup-Analyse des potentiellen Kundens C.
 - [ ] Zusammenstellen der Styleguide-Schwachpunkten des potentiellen Kundens C.
-- [x] Kaufen einer Schreibtisch- und Nachttisch-Lampe bei IKEA
+- [ ] Umst-Voranmeldung vorbereiten
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
-- [ ] Lesen der .net
-- [x] aas-Scraper: Neues Script – Request kann abgefeuert werden
-- [x] aas-Scraper: Neues Script – Response auswerten
-- [ ] aas-Scraper: Neues Script – Markup ausgeben
-- [ ] aas-Finale: Vorschau auf aas
-- [ ] aas-Finale: Wie entsteht aas
-- [ ] aas-Finale: Stats von aas
-- [ ] aas-Finale: Meine Top Ten des Jahres
-- [x] Kunden-Support für Mac OS X 10.5 geleistet
-- [x] Für Kunden H. sechs Seminare aktualisiert
-- [x] Vorbereiten einer Aufwandsschätzung für Kunden R.
+- [ ] .net #275/Jan 2016 lesen
+- [ ] Inbox Zero
+- [ ] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
+- [ ] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
+- [ ] Bräter kaufen
+- [ ] Karaffe kaufen
+- [ ] Backblaze B2 evaluieren
 
 
 ### Things I'll Do This Month: Januar 2016
@@ -44,7 +43,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Weiterarbeiten an der About-Seite
 * auf kaipahl.de den tug-Branch auf Master mergen
 * Best Practice rund um `forEach`und Callbacks sammeln.
-* .net #275/Jan 2016 lesen
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?
 * NodeJS-Debugging mit [IronNode](http://s-a.github.io/iron-node/)
 * NodeJS-Debugging mit [TraceGL](https://github.com/traceglMPL/tracegl)
@@ -53,7 +51,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Freemarker ausprobieren
 * Evaluierung von SonarQube
 * SpeedCurve evaluieren
-* Backblaze B2 evaluieren
 * JSPM evaluieren
 * Evaluierung Cucumber
 * Evaluierung Greensock
@@ -61,5 +58,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * tug: Einlesen ind das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Refactoring der Übergabe des page-Objekt
 * tug: Refactoring von Methoden die Site anreichern
+* Eigenes Brot backen
 
 

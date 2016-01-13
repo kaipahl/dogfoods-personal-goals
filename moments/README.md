@@ -2,6 +2,25 @@
 
 ### Sammlung der Highlights des Tages
 
+
+
+12.01.2016
+---
+Habe mir die Muße genommen und die neue Ausgabe von „Brain Pickings“ durchgelesen, mit 16 inspirierenden Zitaten von Künstlern und Philosophen.
+
+
+
+11.01.2016
+---
+Das erleichterte Gefühl am späten Abend, die Krisensituation rund um den Server gelöst zu haben und ohne offene Baustelle einschlafen zu können – machte irgendwie die ganze Arbeit vergessen.
+
+
+10.01.2016
+---
+Der TD Catch von Steelers-WR Bryant gegen die Bengals. So etwas habe ich in 25 Jahren Football nicht gesehen. Inzwischen als „Butt-Catch“ in den einschlägigen Blogs bekannt geworden.
+
+
+
 06.01.2016
 ---
 Mittags nach längerer Zeit mal wieder Fisch gegessen. Schönen _Loup de mer_ mit Zitrone und Rosmarin gefüllt und im Backofen.

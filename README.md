@@ -36,7 +36,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Eigene Mailbox säubern nach kurzfristigen Wiedereinspielen eines November-Backups durch das Recovery-System des 45er-Servers
 - [x] Interface Inventory für potentiellen Kunden C.
 - [x] aas-scraper: Helper zum Mergen von zwei Objekten (ohne Überschreiben identischer Keys!)
-- [ ] aas-scraper: Refactoring der Request-Funktion zum Arbeiten mit gemergten Objekten
+- [x] aas-scraper: Refactoring der Request-Funktion zum Arbeiten mit gemergten Objekten
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

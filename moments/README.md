@@ -4,6 +4,11 @@
 
 
 
+13.01.2016
+---
+Genervt, dass ich keinen Bräter bei Karstadt gefunden habe, habe ich eine etwas umfangreichere Amazon-Bestellung durchgeführt. Bräter, Jacke (von einer Mailingliste inspiriert) und ein Buch meiner Wunschliste: [ÖPNV-Streckenpläne dieser Welt](http://transitmaps.tumblr.com/post/132403370270/review-transit-maps-of-the-world) (kein Scherz).
+
+
 12.01.2016
 ---
 Habe mir die Muße genommen und die neue Ausgabe von „Brain Pickings“ durchgelesen, mit 16 inspirierenden Zitaten von Künstlern und Philosophen.

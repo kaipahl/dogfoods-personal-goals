@@ -15,11 +15,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Lesen und Analysieren von Websites und Webthemen
 
 ## Things I'll Do This Week:
-- [ ] Brad Frost-Vortrag auswerten
-- [ ] Performance-Analyse des potentiellen Kundens C.
-- [ ] CSS-Analyse des potentiellen Kundens C.
-- [ ] JS-Analyse des potentiellen Kundens C.
-- [ ] Markup-Analyse des potentiellen Kundens C.
+- [x] Brad Frost-Vortrag auswerten
+- [x] Performance-Analyse des potentiellen Kundens C.
+- [x] CSS-Analyse des potentiellen Kundens C.
+- [x] JS-Analyse des potentiellen Kundens C.
+- [x] Markup-Analyse des potentiellen Kundens C.
 - [ ] Zusammenstellen der Styleguide-Schwachpunkten des potentiellen Kundens C.
 - [ ] Umst-Voranmeldung vorbereiten
 - [ ] Analyse von AMP
@@ -28,7 +28,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Inbox Zero
 - [ ] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
 - [ ] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
-- [ ] Bräter kaufen
+- [x] Bräter kaufen
 - [ ] Karaffe kaufen
 - [ ] Backblaze B2 evaluieren
 - [x] 45er-Server nach Inistialisierung neu mit Backup aufspielen

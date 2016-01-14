@@ -30,11 +30,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
 - [x] Bräter kaufen
 - [ ] Karaffe kaufen
-- [ ] Backblaze B2 evaluieren
+- [x] Backblaze B2 evaluieren
 - [x] 45er-Server nach Inistialisierung neu mit Backup aufspielen
 - [x] Defekte Kundenwebsite (Festplattencrash) aus anderem Backup händisch auf den 45er-Server aufspielen
 - [x] Eigene Mailbox säubern nach kurzfristigen Wiedereinspielen eines November-Backups durch das Recovery-System des 45er-Servers
-
+- [x] Interface Inventory für potentiellen Kunden C.
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -43,6 +43,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 ### Backlog: Code Things I Want to Do/Play With
+* CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
 * Weiterarbeiten an der About-Seite
 * auf kaipahl.de den tug-Branch auf Master mergen
 * Best Practice rund um `forEach`und Callbacks sammeln.

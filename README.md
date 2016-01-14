@@ -26,7 +26,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] .net #275/Jan 2016 lesen
 - [x] Inbox Zero
-- [ ] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
+- [x] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
 - [ ] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
 - [x] Bräter kaufen
 - [ ] Karaffe kaufen
@@ -35,6 +35,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Defekte Kundenwebsite (Festplattencrash) aus anderem Backup händisch auf den 45er-Server aufspielen
 - [x] Eigene Mailbox säubern nach kurzfristigen Wiedereinspielen eines November-Backups durch das Recovery-System des 45er-Servers
 - [x] Interface Inventory für potentiellen Kunden C.
+- [x] aas-scraper: Helper zum Mergen von zwei Objekten (ohne Überschreiben identischer Keys!)
+- [ ] aas-scraper: Refactoring der Request-Funktion zum Arbeiten mit gemergten Objekten
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

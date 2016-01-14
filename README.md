@@ -29,7 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
 - [ ] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
 - [x] Bräter kaufen
-- [ ] Karaffe kaufen
+- [x] Karaffe kaufen
 - [x] Backblaze B2 evaluieren
 - [x] 45er-Server nach Inistialisierung neu mit Backup aufspielen
 - [x] Defekte Kundenwebsite (Festplattencrash) aus anderem Backup händisch auf den 45er-Server aufspielen

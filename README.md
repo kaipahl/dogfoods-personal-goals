@@ -21,7 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] JS-Analyse des potentiellen Kundens C.
 - [x] Markup-Analyse des potentiellen Kundens C.
 - [ ] Zusammenstellen der Styleguide-Schwachpunkten des potentiellen Kundens C.
-- [ ] Umst-Voranmeldung vorbereiten
+- [x] Umst-Voranmeldung vorbereiten
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] .net #275/Jan 2016 lesen

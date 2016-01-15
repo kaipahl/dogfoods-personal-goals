@@ -27,7 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] .net #275/Jan 2016 lesen
 - [x] Inbox Zero
 - [x] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
-- [ ] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
+- [x] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen
 - [x] Bräter kaufen
 - [x] Karaffe kaufen
 - [x] Backblaze B2 evaluieren

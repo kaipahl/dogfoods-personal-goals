@@ -3,6 +3,16 @@
 ### Sammlung der Highlights des Tages
 
 
+16.01.2016
+---
+Das erste Brot ever ist gut geworden. 
+
+
+15.01.2016
+---
+Gut was weggeschafft: Umsatzsteuer-Voranmeldung geschafft und eine wichtige Funktion in einem aas-Scraper fertiggestellt.
+
+
 14.01.2016
 ---
 Glaskaraffe für den Zitronen/Ingwer-Tee gefunden. Mangels hitzebeständiger Glaskaraffen bei Karstadt, ist es eine 2l-Teekanne geworden. Das Teesieb eignet sich gut um Ingwer-Stücke schwimmen zu lassen und ich habe die Kanne 10,– € billiger bekommen, weil beim Vorführexemplar kein Deckel mehr da war.

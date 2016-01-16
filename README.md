@@ -37,6 +37,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Interface Inventory für potentiellen Kunden C.
 - [x] aas-scraper: Helper zum Mergen von zwei Objekten (ohne Überschreiben identischer Keys!)
 - [x] aas-scraper: Refactoring der Request-Funktion zum Arbeiten mit gemergten Objekten
+- [x] Eigenes Brot backen
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -61,9 +62,8 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Evaluierung Cucumber
 * Evaluierung Greensock
 * tug: Testcase für das Handling von Objekten innerhalb und außerhalb von Funktionen
-* tug: Einlesen ind das Handling von Objekten innerhalb und außerhalb von Funktionen
+* tug: Einlesen in das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Refactoring der Übergabe des page-Objekt
 * tug: Refactoring von Methoden die Site anreichern
-* Eigenes Brot backen
 
 

@@ -24,7 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Umst-Voranmeldung vorbereiten
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
-- [ ] .net #275/Jan 2016 lesen
+- [x] .net #275/Jan 2016 lesen
 - [x] Inbox Zero
 - [x] aas-scraper: Skript für Vorschau von 6h bis 6h mit 2 Requests versehen
 - [x] aas-scraper: Skript alles vor 6h heute und nach 6morgen ausblenden lassen

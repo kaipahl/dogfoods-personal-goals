@@ -5,7 +5,7 @@
 
 16.01.2016
 ---
-Das erste Brot ever ist gut geworden. 
+Das erste Brot ever, ist gut geworden. 
 
 
 15.01.2016

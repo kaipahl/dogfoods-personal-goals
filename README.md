@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Weiterarbeiten an der About-Seite
-- [ ] auf kaipahl.de den tug-Branch auf Master mergen
+- [x] auf kaipahl.de den tug-Branch auf Master mergen
 - [ ] aas-scraper: Setzen der korrekten Startzeiten statt Zeiten mit Vorberichten
 - [ ] aas-scraper: Setzen der Vorberichtszeiten
 - [x] Fever: Backup-Datei im Büro suchen
@@ -35,6 +35,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hotel für die BeyondTellerand buchen
 - [ ] Nächsten Steps für kaipahl.de überlegen
 - [ ] Nächsten Steps für aas.de überlegen
+- [ ] aas-scraper: Parsen soll korrekten Sendungstitel ausspucken
+- [ ] Website-Update für H.
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

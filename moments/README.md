@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+17.01.2016
+---
+Arizona – Green Bay-Playoff-Spiel vom Vortag (am Vormittag angeguckt). QB Aaron Rodgers did it again #hailmary 
+
+
 16.01.2016
 ---
 Das erste Brot ever, ist gut geworden. 

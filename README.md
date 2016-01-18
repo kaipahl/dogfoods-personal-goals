@@ -15,7 +15,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Lesen und Analysieren von Websites und Webthemen
 
 ## Things I'll Do This Week:
-- [ ] Potentielle Ansprechunternehmen herausarbeiten
+- [ ] Potentielle Unternehmen zum Ansprechen herausarbeiten
 - [ ] Über Vorgehen bei diesen Ansprechpartnern nachdenken
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse

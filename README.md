@@ -15,8 +15,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Lesen und Analysieren von Websites und Webthemen
 
 ## Things I'll Do This Week:
-- [ ] Potentielle Unternehmen zum Ansprechen herausarbeiten
-- [ ] Über Vorgehen bei diesen Ansprechpartnern nachdenken
+- [x] Potentielle Unternehmen zum Ansprechen herausarbeiten
+- [x] Über Vorgehen bei diesen Ansprechpartnern nachdenken
 - [ ] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Weiterarbeiten an der About-Seite
@@ -26,6 +26,15 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Fever: Backup-Datei im Büro suchen
 - [x] Fever: auf dem Server für Plesk konfigurieren
 - [x] Fever: zusätzliches Backup per eigenem Skript
+- [ ] Putzen des LinkedIn-Profils
+- [ ] Putzen des Xing-Profils
+- [ ] Putzen des About.me-Profils
+- [ ] Putzen der Twitter-Profile
+- [ ] Putzen der Facebook-Profile
+- [ ] BeyondTellerand in DUS anmelden
+- [ ] Hotel für die BeyondTellerand buchen
+- [ ] Nächsten Steps für kaipahl.de überlegen
+- [ ] Nächsten Steps für aas.de überlegen
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

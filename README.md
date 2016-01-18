@@ -23,9 +23,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] auf kaipahl.de den tug-Branch auf Master mergen
 - [ ] aas-scraper: Setzen der korrekten Startzeiten statt Zeiten mit Vorberichten
 - [ ] aas-scraper: Setzen der Vorberichtszeiten
-- [ ] Fever: Backup-Datei im Büro suchen
-- [ ] Fever: auf dem Server für Plesk konfigurieren
-- [ ] Fever: zusätzliches Backup per eigenem Skript
+- [x] Fever: Backup-Datei im Büro suchen
+- [x] Fever: auf dem Server für Plesk konfigurieren
+- [x] Fever: zusätzliches Backup per eigenem Skript
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -51,5 +51,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * tug: Einlesen in das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Refactoring der Übergabe des page-Objekt
 * tug: Refactoring von Methoden die Site anreichern
+* Über Ausbaubarkeit von allesaussersport bzgl. Discovery-Tool für Streams nachdenken
 
 

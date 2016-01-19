@@ -21,7 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Weiterarbeiten an der About-Seite
 - [x] auf kaipahl.de den tug-Branch auf Master mergen
-- [ ] aas-scraper: Setzen der korrekten Startzeiten statt Zeiten mit Vorberichten
+- [x] aas-scraper: Setzen der korrekten Startzeiten statt Zeiten mit Vorberichten
 - [ ] aas-scraper: Setzen der Vorberichtszeiten
 - [x] Fever: Backup-Datei im Büro suchen
 - [x] Fever: auf dem Server für Plesk konfigurieren
@@ -36,7 +36,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Nächsten Steps für kaipahl.de überlegen
 - [ ] Nächsten Steps für aas.de überlegen
 - [ ] aas-scraper: Parsen soll korrekten Sendungstitel ausspucken
-- [ ] Website-Update für H.
+- [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
+- [x] Website-Update für H.
+- [x] Kunde R.: Grober inhaltlicher Aufbau für die Website
+- [ ] Kunde R.: Deklinieren der Navigationsstruktur und Homepage-Struktur
+- [ ] Kunde R.: Installieren von Drupal8 
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

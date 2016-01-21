@@ -35,12 +35,15 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hotel für die BeyondTellerand buchen
 - [ ] Nächsten Steps für kaipahl.de überlegen
 - [ ] Nächsten Steps für aas.de überlegen
-- [ ] aas-scraper: Parsen soll korrekten Sendungstitel ausspucken
+- [x] aas-scraper: Parsen soll korrekten Sendungstitel Tennis ausspucken
+- [x] aas-scraper: Parsen soll korrekten Sendungstitel Bundesliga ausspucken
+- [x] aas-scraper: Tests für das Parsen von Bundesliga hinzugefügt
 - [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
 - [x] Website-Update für H.
+- [x] Noch ein Website-Update für H.
 - [x] Kunde R.: Grober inhaltlicher Aufbau für die Website
 - [x] Kunde R.: Deklinieren der Navigationsstruktur
-- [ ] Kunde R.: Homepage-Struktur
+- [x] Kunde R.: Homepage-Struktur
 - [ ] Kunde R.: Installieren von Drupal8 
 
 ### Things I'll Do This Month: Januar 2016

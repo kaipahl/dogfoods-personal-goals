@@ -39,7 +39,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
 - [x] Website-Update für H.
 - [x] Kunde R.: Grober inhaltlicher Aufbau für die Website
-- [ ] Kunde R.: Deklinieren der Navigationsstruktur und Homepage-Struktur
+- [x] Kunde R.: Deklinieren der Navigationsstruktur
+- [ ] Kunde R.: Homepage-Struktur
 - [ ] Kunde R.: Installieren von Drupal8 
 
 ### Things I'll Do This Month: Januar 2016

@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+20.01.2016
+---
+Nach den Problemen mit dem gewünschten Le Creuset-Bräter bei Karstadt (gewünschte Größe nicht da) und Amazon (DHL hat sich dumm angestellt, mein Büro nicht gefunden und den bräter daraufhin gleich zurück geschickt), habe ich es gestern bei [__Gebrüder Jürgens__](http://gebr-juergens.jimdo.com), einem alteingesessenen Haushaltswarenladen (seit 1889) am Mittelweg 125 versucht. Was soll ich sagen: [den Laden muss man gesehen haben](http://bit.ly/1nzGIS7). Und eine Bedienung und Beratung, die unfassbar gut ist. Das hat mir sehr viel Spaß gemacht. Und der Bräter hoffentlich auch (Coming up am Wochenende: die Mutter aller Brote) 
+
+
 17.01.2016
 ---
 Arizona – Green Bay-Playoff-Spiel vom Vortag (am Vormittag angeguckt). QB Aaron Rodgers did it again #hailmary 

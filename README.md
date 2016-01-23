@@ -17,7 +17,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] Potentielle Unternehmen zum Ansprechen herausarbeiten
 - [x] Über Vorgehen bei diesen Ansprechpartnern nachdenken
-- [ ] Analyse von AMP
+- [x] Analyse von AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Weiterarbeiten an der About-Seite
 - [x] auf kaipahl.de den tug-Branch auf Master mergen
@@ -28,8 +28,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Fever: zusätzliches Backup per eigenem Skript
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils
-- [ ] Putzen des About.me-Profils
-- [ ] Putzen der Twitter-Profile
+- [x] Putzen des About.me-Profils
+- [x] Putzen der Twitter-Profile
 - [ ] Putzen der Facebook-Profile
 - [ ] BeyondTellerand in DUS anmelden
 - [ ] Hotel für die BeyondTellerand buchen
@@ -44,7 +44,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Kunde R.: Grober inhaltlicher Aufbau für die Website
 - [x] Kunde R.: Deklinieren der Navigationsstruktur
 - [x] Kunde R.: Homepage-Struktur
-- [ ] Kunde R.: Installieren von Drupal8 
+- [x] Über AMP schreiben
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
@@ -53,6 +53,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 ### Backlog: Code Things I Want to Do/Play With
+* Neuen Avatar
 * CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
 * Best Practice rund um `forEach`und Callbacks sammeln.
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?

@@ -30,7 +30,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Putzen des Xing-Profils
 - [x] Putzen des About.me-Profils
 - [x] Putzen der Twitter-Profile
-- [ ] Putzen der Facebook-Profile
+- [x] Putzen der Facebook-Profile
 - [ ] BeyondTellerand in DUS anmelden
 - [ ] Hotel für die BeyondTellerand buchen
 - [ ] Nächsten Steps für kaipahl.de überlegen

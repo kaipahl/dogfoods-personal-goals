@@ -12,39 +12,21 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 # KW 03/2016, ab Montag, 18.01.2016
 
 ### This Week's Goal: 
-* Lesen und Analysieren von Websites und Webthemen
+* aas-scraper und Kunde R.
 
 ## Things I'll Do This Week:
-- [x] Potentielle Unternehmen zum Ansprechen herausarbeiten
-- [x] Über Vorgehen bei diesen Ansprechpartnern nachdenken
-- [x] Analyse von AMP
+- [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
+- [ ] aas-scraper: Setzen der Vorberichtszeiten
+- [ ] Nächsten Steps für aas.de überlegen
+- [ ] Kunde R.: Bestandscontent zusammentragen
+- [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Weiterarbeiten an der About-Seite
-- [x] auf kaipahl.de den tug-Branch auf Master mergen
-- [x] aas-scraper: Setzen der korrekten Startzeiten statt Zeiten mit Vorberichten
-- [ ] aas-scraper: Setzen der Vorberichtszeiten
-- [x] Fever: Backup-Datei im Büro suchen
-- [x] Fever: auf dem Server für Plesk konfigurieren
-- [x] Fever: zusätzliches Backup per eigenem Skript
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils
-- [x] Putzen des About.me-Profils
-- [x] Putzen der Twitter-Profile
-- [x] Putzen der Facebook-Profile
 - [ ] BeyondTellerand in DUS anmelden
 - [ ] Hotel für die BeyondTellerand buchen
 - [ ] Nächsten Steps für kaipahl.de überlegen
-- [ ] Nächsten Steps für aas.de überlegen
-- [x] aas-scraper: Parsen soll korrekten Sendungstitel Tennis ausspucken
-- [x] aas-scraper: Parsen soll korrekten Sendungstitel Bundesliga ausspucken
-- [x] aas-scraper: Tests für das Parsen von Bundesliga hinzugefügt
-- [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
-- [x] Website-Update für H.
-- [x] Noch ein Website-Update für H.
-- [x] Kunde R.: Grober inhaltlicher Aufbau für die Website
-- [x] Kunde R.: Deklinieren der Navigationsstruktur
-- [x] Kunde R.: Homepage-Struktur
-- [x] Über AMP schreiben
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

@@ -15,6 +15,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * aas-scraper und Kunde R.
 
 ## Things I'll Do This Week:
+- [ ] Sofa-QBs vorbereiten
 - [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
 - [ ] aas-scraper: Setzen der Vorberichtszeiten
 - [ ] Nächsten Steps für aas.de überlegen

@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+24.01.2016
+---
+Mein erstes Brot mit Mehl Typ 405 gebacken und trotz Widrigkeiten (Klebrigkeit) ein sehr gutes Ergebnis erziehlt.
+
+
 23.01.2016
 ---
 Endlich alles Material zum Thema „AMP“ durch bekommen.

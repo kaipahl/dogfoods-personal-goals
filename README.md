@@ -15,11 +15,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * aas-scraper und Kunde R.
 
 ## Things I'll Do This Week:
-- [ ] Sofa-QBs vorbereiten
+- [x] Sofa-QBs vorbereiten
 - [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
 - [ ] aas-scraper: Setzen der Vorberichtszeiten
 - [ ] Nächsten Steps für aas.de überlegen
-- [ ] Kunde R.: Bestandscontent zusammentragen
+- [x] Kunde R.: Bestandscontent zusammentragen
 - [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [ ] Weiterarbeiten an der About-Seite
@@ -28,6 +28,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] BeyondTellerand in DUS anmelden
 - [ ] Hotel für die BeyondTellerand buchen
 - [ ] Nächsten Steps für kaipahl.de überlegen
+- [x] Interview authorisiert
+- [ ] Antispam-Module für Plesk angucken
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

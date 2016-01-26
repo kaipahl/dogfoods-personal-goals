@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+254.01.2016
+---
+Letzte Aufnahme der Saison zu den Sofa-QBs abgeschlossen. Uff.
+
+
 24.01.2016
 ---
 Mein erstes Brot mit Mehl Typ 405 gebacken und trotz Widrigkeiten (Klebrigkeit) ein sehr gutes Ergebnis erziehlt.

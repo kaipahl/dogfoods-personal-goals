@@ -30,8 +30,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Nächsten Steps für kaipahl.de überlegen
 - [x] Interview authorisiert
 - [ ] Antispam-Module für Plesk angucken
-
-- [ ] Website des potentiellen Kunden CN angucken
+- [x] Website des potentiellen Kunden CN angucken
+- [x] CN: Besprechung.
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

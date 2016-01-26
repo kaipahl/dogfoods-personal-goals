@@ -31,7 +31,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Interview authorisiert
 - [ ] Antispam-Module für Plesk angucken
 - [x] Website des potentiellen Kunden CN angucken
-- [x] CN: Besprechung.
+- [x] CN: Besprechung
+- [ ] H: Website-Update
+
 
 ### Things I'll Do This Month: Januar 2016
 - [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.

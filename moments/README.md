@@ -3,7 +3,7 @@
 ### Sammlung der Highlights des Tages
 
 
-254.01.2016
+25.01.2016
 ---
 Letzte Aufnahme der Saison zu den Sofa-QBs abgeschlossen. Uff.
 

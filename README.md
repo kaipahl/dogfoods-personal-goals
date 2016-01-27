@@ -9,7 +9,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 03/2016, ab Montag, 18.01.2016
+# KW 04/2016, ab Montag, 25.01.2016
 
 ### This Week's Goal: 
 * aas-scraper und Kunde R.
@@ -32,7 +32,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Antispam-Module für Plesk angucken
 - [x] Website des potentiellen Kunden CN angucken
 - [x] CN: Besprechung
-- [ ] H: Website-Update
+- [x] H: Website-Update Buchungs-Button
+- [ ] H: Website-Update mit Messe-Text
+- [ ] R: Drupal-Installation
 
 
 ### Things I'll Do This Month: Januar 2016

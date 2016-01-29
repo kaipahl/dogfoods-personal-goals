@@ -16,7 +16,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] Sofa-QBs vorbereiten
-- [ ] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
+- [x] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
 - [ ] aas-scraper: Setzen der Vorberichtszeiten
 - [ ] Nächsten Steps für aas.de überlegen
 - [x] Kunde R.: Bestandscontent zusammentragen
@@ -44,6 +44,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 ### Backlog: Code Things I Want to Do/Play With
+* aas-scraper: Einführung des Builders in das Hauptscript
+* aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
 * Neuen Avatar
 * CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
 * Best Practice rund um `forEach`und Callbacks sammeln.

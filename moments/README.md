@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+28.01.2016
+---
+Beim Refactoring eines Tests ein sehr hilfreiches JS-Pattern erzeugt (keine Ahnung wie es heißt), das massiv die Lesbarkeit des Codes verbessert.
+
+
 25.01.2016
 ---
 Letzte Aufnahme der Saison zu den Sofa-QBs abgeschlossen. Uff.

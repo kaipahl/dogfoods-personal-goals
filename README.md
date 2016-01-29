@@ -33,7 +33,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Website des potentiellen Kunden CN angucken
 - [x] CN: Besprechung
 - [x] H: Website-Update Buchungs-Button
-- [ ] H: Website-Update mit Messe-Text
+- [x] H: Website-Update mit Messe-Text
+- [x] H: Refactoring des Mobile CSS
 - [ ] R: Drupal-Installation
 
 
@@ -46,6 +47,8 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 ### Backlog: Code Things I Want to Do/Play With
 * aas-scraper: Einführung des Builders in das Hauptscript
 * aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
+* H: Vereinheitlichung aller Media-Query-Functions in SCSS
+* H: Umsetzen aller font-size und line-height auf rem statt px
 * Neuen Avatar
 * CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
 * Best Practice rund um `forEach`und Callbacks sammeln.

@@ -9,49 +9,42 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 04/2016, ab Montag, 25.01.2016
+# KW 05/2016, ab Montag, 01.02.2016
 
 ### This Week's Goal: 
-* aas-scraper und Kunde R.
+* aas-scraper, Blogeinträge schreiben und Lesen
 
 ## Things I'll Do This Week:
-- [x] Sofa-QBs vorbereiten
-- [x] aas-Scraper: Bugfix für Sendungen über die Datumsgrenze
-- [ ] aas-scraper: Setzen der Vorberichtszeiten
+- [ ] aas-scraper: Nachgucken, was für ein Pattern ich letzte Woche verwendet habe
+- [ ] aas-scraper: Refactoring der For-Schleifen
+- [ ] aas-scraper: Einführung des Builders in das Hauptscript
+- [ ] aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
 - [ ] Nächsten Steps für aas.de überlegen
-- [x] Kunde R.: Bestandscontent zusammentragen
-- [ ] Blogeintrag über AMP
-- [ ] Schreiben der zeit.de-Analyse
+- [ ] BeyondTellerand in DUS anmelden
+- [ ] Hotel für die BeyondTellerand buchen
+- [ ] Neuen Avatar zur Selbstdarstellung überlegen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils
-- [ ] BeyondTellerand in DUS anmelden
-- [ ] Hotel für die BeyondTellerand buchen
-- [ ] Nächsten Steps für kaipahl.de überlegen
-- [x] Interview authorisiert
-- [ ] Antispam-Module für Plesk angucken
-- [x] Website des potentiellen Kunden CN angucken
-- [x] CN: Besprechung
-- [x] H: Website-Update Buchungs-Button
-- [x] H: Website-Update mit Messe-Text
-- [x] H: Refactoring des Mobile CSS
+- [ ] Blogeintrag über AMP
+- [ ] Schreiben der zeit.de-Analyse
 - [ ] R: Drupal-Installation
-- [x] CN: Server angeguckt
 - [ ] CN: FTP besorgen
+- [ ] Beratungstermin für Immobilienkredit
+- [ ] Blumentöpfe bei IEKA kaufen.
 
 
-### Things I'll Do This Month: Januar 2016
-- [ ] „Professionell Entwickeln mit Javascript“ weiter lesen.
+### Things I'll Do This Month: Februar 2016
+- [ ] aas-Scraper bei mindestens einem Sender im Parsen fertig stellen.
 
 ### Backlog: Side Projects
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 ### Backlog: Code Things I Want to Do/Play With
-* aas-scraper: Einführung des Builders in das Hauptscript
-* aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
+* aas-scraper: Setzen der Vorberichtszeiten
+* Nächsten Steps für kaipahl.de überlegen
 * H: Vereinheitlichung aller Media-Query-Functions in SCSS
 * H: Umsetzen aller font-size und line-height auf rem statt px
-* Neuen Avatar
 * CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
 * Best Practice rund um `forEach`und Callbacks sammeln.
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?

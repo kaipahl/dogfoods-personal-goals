@@ -36,6 +36,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] H: Website-Update mit Messe-Text
 - [x] H: Refactoring des Mobile CSS
 - [ ] R: Drupal-Installation
+- [x] CN: Server angeguckt
+- [ ] CN: FTP besorgen
 
 
 ### Things I'll Do This Month: Januar 2016

@@ -15,21 +15,23 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * aas-scraper, Blogeinträge schreiben und Lesen
 
 ## Things I'll Do This Week:
-- [ ] aas-scraper: Nachgucken, was für ein Pattern ich letzte Woche verwendet habe
-- [ ] aas-scraper: Refactoring der For-Schleifen
-- [ ] aas-scraper: Einführung des Builders in das Hauptscript
-- [ ] aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
-- [ ] Nächsten Steps für aas.de überlegen
+- [x] aas-scraper: Nachgucken, was für ein Pattern ich letzte Woche verwendet habe
+- [x] aas-scraper: Refactoring der For-Schleifen
+- [x] aas-scraper: Einführung des Builders in das Hauptscript
+- [x] aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
+- [x] aas-scraper: Setzen der korrekten Anstosszeiten Premier League
+- [x] Nächsten Steps für aas.de überlegen
+- [ ] Neuen Avatar zur Selbstdarstellung überlegen
 - [ ] BeyondTellerand in DUS anmelden
 - [ ] Hotel für die BeyondTellerand buchen
-- [ ] Neuen Avatar zur Selbstdarstellung überlegen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils
 - [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
+- [ ] R: PostgreSQL 9.x-Installation
 - [ ] R: Drupal-Installation
-- [ ] CN: FTP besorgen
+- [x] CN: FTP besorgen
 - [ ] Beratungstermin für Immobilienkredit
 - [ ] Blumentöpfe bei IEKA kaufen.
 
@@ -42,6 +44,8 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 ### Backlog: Code Things I Want to Do/Play With
 * aas-scraper: Setzen der Vorberichtszeiten
+* aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen
+* aas-App: Definition eines MVP und der ersten Steps
 * Nächsten Steps für kaipahl.de überlegen
 * H: Vereinheitlichung aller Media-Query-Functions in SCSS
 * H: Umsetzen aller font-size und line-height auf rem statt px

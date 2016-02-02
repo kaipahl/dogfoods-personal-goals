@@ -22,7 +22,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas-scraper: Setzen der korrekten Anstosszeiten Premier League
 - [x] Nächsten Steps für aas.de überlegen
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen
-- [ ] BeyondTellerand in DUS anmelden
+- [x] BeyondTellerand in DUS anmelden
 - [ ] Hotel für die BeyondTellerand buchen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils
@@ -34,6 +34,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: FTP besorgen
 - [ ] Beratungstermin für Immobilienkredit
 - [ ] Blumentöpfe bei IEKA kaufen.
+- [ ] Bahnticket für BeyonTellerand
+- [ ] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)
 
 
 ### Things I'll Do This Month: Februar 2016

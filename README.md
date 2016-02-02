@@ -36,6 +36,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Blumentöpfe bei IEKA kaufen.
 - [ ] Bahnticket für BeyonTellerand
 - [ ] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)
+- [ ] CN: Theme testen
 
 
 ### Things I'll Do This Month: Februar 2016

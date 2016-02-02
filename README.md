@@ -29,8 +29,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Putzen des Xing-Profils
 - [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
-- [ ] R: PostgreSQL 9.x-Installation
-- [ ] R: Drupal-Installation
+- [x] R: PostgreSQL 9.x-Installation
+- [x] R: Drupal-Installation
 - [x] CN: FTP besorgen
 - [ ] Beratungstermin für Immobilienkredit
 - [ ] Blumentöpfe bei IEKA kaufen.

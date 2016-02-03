@@ -34,9 +34,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: FTP besorgen
 - [ ] Beratungstermin für Immobilienkredit
 - [ ] Blumentöpfe bei IEKA kaufen.
-- [ ] Bahnticket für BeyonTellerand
+- [ ] Bahnticket für BeyondTellerand
 - [ ] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)
-- [ ] CN: Theme testen
+- [x] CN: Theme frontendseitig testen
+- [x] CN: Inhaltsstruktur anlegen
+- [x] CN: Homepagestruktur anlegen
 
 
 ### Things I'll Do This Month: Februar 2016

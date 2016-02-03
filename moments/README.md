@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+02.02.2016
+---
+Erfolgreich den Fokus über den Tag aufrecht gehalten. Inspiriert durch die erste Aufgabe von [„Note to Self“](http://www.wnyc.org/shows/notetoself/), wirklich nur ein Ding zur Zeit gemacht und bei kleineren Wartezeiten lieber gewartet, statt sofort auf Twitter nachzugucken, was neues passiert ist.
+
+
 28.01.2016
 ---
 Beim Refactoring eines Tests ein sehr hilfreiches JS-Pattern erzeugt (keine Ahnung wie es heißt), das massiv die Lesbarkeit des Codes verbessert.

@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Nächsten Steps für aas.de überlegen
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen
 - [x] BeyondTellerand in DUS anmelden
-- [ ] Hotel für die BeyondTellerand buchen
+- [x] Hotel für die BeyondTellerand buchen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils

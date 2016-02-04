@@ -39,7 +39,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Theme frontendseitig testen*
 - [x] CN: Inhaltsstruktur anlegen*
 - [x] CN: Homepagestruktur anlegen*
-- [ ] SBA: Aktualisierungen*
+- [x] SBA: Aktualisierungen*
 - [ ] CN: Komplette Auswertung der Logs machen*
 - [ ] R: Versuchen mit Drupal das Wireframe anzulegen*
 - [ ] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*

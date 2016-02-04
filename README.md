@@ -32,13 +32,17 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: PostgreSQL 9.x-Installation
 - [x] R: Drupal-Installation
 - [x] CN: FTP besorgen
-- [ ] Beratungstermin für Immobilienkredit
-- [ ] Blumentöpfe bei IEKA kaufen.
-- [ ] Bahnticket für BeyondTellerand
-- [ ] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)
-- [x] CN: Theme frontendseitig testen
-- [x] CN: Inhaltsstruktur anlegen
-- [x] CN: Homepagestruktur anlegen
+- [x] Beratungstermin für Immobilienkredit
+- [x] Blumentöpfe bei IEKA kaufen.
+- [ ] Bahnticket für BeyondTellerand*
+- [ ] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)*
+- [x] CN: Theme frontendseitig testen*
+- [x] CN: Inhaltsstruktur anlegen*
+- [x] CN: Homepagestruktur anlegen*
+- [ ] SBA: Aktualisierungen*
+- [ ] CN: Komplette Auswertung der Logs machen*
+- [ ] R: Versuchen mit Drupal das Wireframe anzulegen*
+- [ ] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*
 
 
 ### Things I'll Do This Month: Februar 2016

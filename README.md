@@ -35,7 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Beratungstermin für Immobilienkredit
 - [x] Blumentöpfe bei IEKA kaufen.
 - [ ] Bahnticket für BeyondTellerand*
-- [ ] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)*
+- [x] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)*
 - [x] CN: Theme frontendseitig testen*
 - [x] CN: Inhaltsstruktur anlegen*
 - [x] CN: Homepagestruktur anlegen*

@@ -34,16 +34,19 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: FTP besorgen
 - [x] Beratungstermin für Immobilienkredit
 - [x] Blumentöpfe bei IEKA kaufen.
-- [ ] Bahnticket für BeyondTellerand*
 - [x] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)*
 - [x] CN: Theme frontendseitig testen*
 - [x] CN: Inhaltsstruktur anlegen*
 - [x] CN: Homepagestruktur anlegen*
 - [x] SBA: Aktualisierungen*
 - [x] CN: Komplette Auswertung der Logs machen*
-- [ ] R: Versuchen mit Drupal das Wireframe anzulegen*
 - [x] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*
-- [ ] SBA: Noch ne Aktualisierung*
+- [x] SBA: Noch ne Aktualisierung*
+- [ ] R/Test: Wie erstelle ich in Drupal ein Theme*
+- [ ] R/Test: Workflow zur Manipulation des Theme-CSS anlegen*
+- [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur*
+- [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte*
+- [ ] R/Test: Evaluieren der nächsten Steps für Drupal
 
 
 ### Things I'll Do This Month: Februar 2016

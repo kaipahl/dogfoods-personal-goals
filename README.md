@@ -39,6 +39,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Theme frontendseitig testen
 - [x] CN: Inhaltsstruktur anlegen
 - [x] CN: Homepagestruktur anlegen
+- [ ] CN: Logdateien auswerten
 
 
 ### Things I'll Do This Month: Februar 2016

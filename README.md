@@ -42,7 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] SBA: Aktualisierungen*
 - [x] CN: Komplette Auswertung der Logs machen*
 - [ ] R: Versuchen mit Drupal das Wireframe anzulegen*
-- [ ] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*
+- [x] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*
 
 
 ### Things I'll Do This Month: Februar 2016

@@ -9,49 +9,39 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Scheiß-Ausdruck, aber: „Work-Life-Balance“ wieder auf die Gleise bekommen
 * Immobilienkauf
 
-# KW 05/2016, ab Montag, 01.02.2016
+
+# KW 06/2016, ab Montag, 08.02.2016
+
 
 ### This Week's Goal: 
-* aas-scraper, Blogeinträge schreiben und Lesen
+* Drupal kennenlernen
+
 
 ## Things I'll Do This Week:
-- [x] aas-scraper: Nachgucken, was für ein Pattern ich letzte Woche verwendet habe
-- [x] aas-scraper: Refactoring der For-Schleifen
-- [x] aas-scraper: Einführung des Builders in das Hauptscript
-- [x] aas-scraper: Tests umschreiben, so dass der Builder des Hauptscripts benützt wird.
-- [x] aas-scraper: Setzen der korrekten Anstosszeiten Premier League
-- [x] Nächsten Steps für aas.de überlegen
+- [ ] R/Test: Wie erstelle ich in Drupal ein Theme
+- [ ] R/Test: Workflow zur Manipulation des Theme-CSS anlegen
+- [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur
+- [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte
+- [ ] R/Test: Evaluieren der nächsten Steps für Drupal
+- [ ] UmSt-Voranmeldung zahlen
+- [ ] CN: Absprache vor dem Meeting
+- [ ] CN: Auswertung Meeting
+- [ ] Default: Grunt-Scripte auf Github stellen
+- [ ] Default: Anpassung package.json
+- [ ] kaipahl.de: Gestaltung des Footers
+- [ ] Papier für Beratungstermin aufbereiten
+- [ ] Beratungstermin Immobilienfinanzierung
+- [ ] Next Steps für Immobilienfinanzierung überlegen
+- [ ] Überlegen wie mit Immobiliesuche weitermachen
+- [ ] Palmen umbetten
+- [ ] aas-scraper: ARD-scraper starten
+- [ ] aas-scraper: mit RK sprechen
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen
-- [x] BeyondTellerand in DUS anmelden
-- [x] Hotel für die BeyondTellerand buchen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils
 - [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
-- [x] R: PostgreSQL 9.x-Installation
-- [x] R: Drupal-Installation
-- [x] CN: FTP besorgen
-- [x] Beratungstermin für Immobilienkredit
-- [x] Blumentöpfe bei IEKA kaufen.
-- [x] Anmeldeseite [vom IndieWebCamp einbauen](https://indiewebcamp.com/2016/Germany/Guest_List)*
-- [x] CN: Theme frontendseitig testen*
-- [x] CN: Inhaltsstruktur anlegen*
-- [x] CN: Homepagestruktur anlegen*
-- [x] SBA: Aktualisierungen*
-- [x] CN: Komplette Auswertung der Logs machen*
-- [x] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*
-- [x] SBA: Noch ne Aktualisierung*
-- [x] R: PostgreSQL 9.x-Installation aufm Laptop
-- [x] R: Drupal-Installation aufm Laptop
-- [ ] R/Test: Wie erstelle ich in Drupal ein Theme*
-- [ ] R/Test: Workflow zur Manipulation des Theme-CSS anlegen*
-- [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur*
-- [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte*
-- [ ] R/Test: Evaluieren der nächsten Steps für Drupal*
-- [ ] Default-Conf-Dateien und Grunt-Scripte als Blueprint auf Github stellen*
-- [ ] kaipahl.de: Gestaltung des Footers*
-- [x] aas-scraper: Setzen der Vorberichtszeiten*
 
 
 ### Things I'll Do This Month: Februar 2016
@@ -59,6 +49,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ### Backlog: Side Projects
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
+
 
 ### Backlog: Code Things I Want to Do/Play With
 * aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen

@@ -42,11 +42,16 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Komplette Auswertung der Logs machen*
 - [x] R: Evaluieren ob das komplette CMS in git abgelegt werden soll*
 - [x] SBA: Noch ne Aktualisierung*
+- [x] R: PostgreSQL 9.x-Installation aufm Laptop
+- [x] R: Drupal-Installation aufm Laptop
 - [ ] R/Test: Wie erstelle ich in Drupal ein Theme*
 - [ ] R/Test: Workflow zur Manipulation des Theme-CSS anlegen*
 - [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur*
 - [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte*
-- [ ] R/Test: Evaluieren der nächsten Steps für Drupal
+- [ ] R/Test: Evaluieren der nächsten Steps für Drupal*
+- [ ] Default-Conf-Dateien und Grunt-Scripte als Blueprint auf Github stellen*
+- [ ] kaipahl.de: Gestaltung des Footers*
+- [x] aas-scraper: Setzen der Vorberichtszeiten*
 
 
 ### Things I'll Do This Month: Februar 2016
@@ -56,7 +61,6 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 ### Backlog: Code Things I Want to Do/Play With
-* aas-scraper: Setzen der Vorberichtszeiten
 * aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen
 * aas-App: Definition eines MVP und der ersten Steps
 * Nächsten Steps für kaipahl.de überlegen

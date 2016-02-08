@@ -34,8 +34,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Next Steps für Immobilienfinanzierung überlegen
 - [ ] Überlegen wie mit Immobiliesuche weitermachen
 - [ ] Palmen umbetten
-- [ ] aas-scraper: ARD-scraper starten
-- [ ] aas-scraper: mit RK sprechen
+- [x] aas-scraper: ARD-scraper starten
+- [x] aas-scraper: mit RK sprechen
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils

@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur
 - [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte
 - [ ] R/Test: Evaluieren der nächsten Steps für Drupal
-- [ ] UmSt-Voranmeldung zahlen
+- [x] UmSt-Voranmeldung zahlen
 - [ ] CN: Absprache vor dem Meeting
 - [ ] CN: Auswertung Meeting
 - [ ] Default: Grunt-Scripte auf Github stellen

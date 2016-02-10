@@ -28,7 +28,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Evaluierung des Angebotes*
 - [x] CN: Vorbereiten der Unterlagen*
 - [x] CN: Absprache vor dem Meeting
-- [ ] CN: Auswertung Meeting
+- [x] CN: Auswertung Meeting
+- [ ] CN: Website auf lokal kopieren*
+- [ ] CN: Menüpunkt F löschen*
+- [ ] CN: Box WK löschen*
+- [ ] CN: Box Mt umbauen*
+- [ ] CN: Box Ab umbauen*
+- [ ] CN: Box HH-Kln einbauen*
 - [ ] Default: Grunt-Scripte auf Github stellen
 - [ ] Default: Anpassung package.json
 - [ ] kaipahl.de: Gestaltung des Footers
@@ -45,6 +51,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Putzen des Xing-Profils
 - [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
+- [x] AV: ePorta-Logo einbauen*
+- [x] SBA: Textänderung*
 
 
 ### Things I'll Do This Month: Februar 2016

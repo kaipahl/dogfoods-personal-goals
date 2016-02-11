@@ -39,7 +39,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Default: Anpassung package.json
 - [ ] kaipahl.de: Gestaltung des Footers
 - [x] Papier für Beratungstermin aufbereiten
-- [ ] Beratungstermin Immobilienfinanzierung
+- [x] Beratungstermin Immobilienfinanzierung
 - [ ] Next Steps für Immobilienfinanzierung überlegen
 - [ ] Überlegen wie mit Immobiliesuche weitermachen
 - [ ] Palmen umbetten

@@ -38,7 +38,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Default: Grunt-Scripte auf Github stellen
 - [ ] Default: Anpassung package.json
 - [ ] kaipahl.de: Gestaltung des Footers
-- [ ] Papier für Beratungstermin aufbereiten
+- [x] Papier für Beratungstermin aufbereiten
 - [ ] Beratungstermin Immobilienfinanzierung
 - [ ] Next Steps für Immobilienfinanzierung überlegen
 - [ ] Überlegen wie mit Immobiliesuche weitermachen

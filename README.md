@@ -52,7 +52,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Blogeintrag über AMP
 - [ ] Schreiben der zeit.de-Analyse
 - [x] AV: ePorta-Logo einbauen*
+- [x] AV: Korrektur*
 - [x] SBA: Textänderung*
+- [x] H: Neues Zertifikat einbauen*
+
 
 
 ### Things I'll Do This Month: Februar 2016

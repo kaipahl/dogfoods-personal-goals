@@ -29,12 +29,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Vorbereiten der Unterlagen*
 - [x] CN: Absprache vor dem Meeting
 - [x] CN: Auswertung Meeting
-- [ ] CN: Website auf lokal kopieren*
-- [ ] CN: Menüpunkt F löschen*
-- [ ] CN: Box WK löschen*
+- [x] CN: Website auf lokal kopieren*
+- [x] CN: Menüpunkt F löschen*
+- [x] CN: Box WK löschen*
 - [ ] CN: Box Mt umbauen*
 - [ ] CN: Box Ab umbauen*
-- [ ] CN: Box HH-Kln einbauen*
+- [x] CN: Box HH-Kln einbauen*
 - [ ] Default: Grunt-Scripte auf Github stellen
 - [ ] Default: Anpassung package.json
 - [ ] kaipahl.de: Gestaltung des Footers

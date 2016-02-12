@@ -19,7 +19,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] R/Test: Einlesen in Drupals Theme- und Cache-Mechanismus*
-- [ ] R/Test: Wie erstelle ich in Drupal ein Theme
+- [x] R/Test: Wie erstelle ich in Drupal ein Theme
 - [ ] R/Test: Workflow zur Manipulation des Theme-CSS anlegen
 - [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur
 - [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte
@@ -39,9 +39,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Default: Anpassung package.json
 - [ ] kaipahl.de: Gestaltung des Footers
 - [x] Papier für Beratungstermin aufbereiten
-- [ ] Beratungstermin Immobilienfinanzierung
-- [ ] Next Steps für Immobilienfinanzierung überlegen
-- [ ] Überlegen wie mit Immobiliesuche weitermachen
+- [x] Beratungstermin Immobilienfinanzierung
+- [x] Next Steps für Immobilienfinanzierung überlegen
+- [ ] Immobiliesuche neu starten
 - [ ] Palmen umbetten
 - [x] aas-scraper: ARD-scraper starten
 - [x] aas-scraper: mit RK sprechen

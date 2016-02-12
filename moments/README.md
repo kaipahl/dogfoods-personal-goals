@@ -3,6 +3,12 @@
 ### Sammlung der Highlights des Tages
 
 
+11.02.2016
+---
+Um mal wieder was positives einzustreuen: guten Beratungstermin in Sachen Immobilienfinanzierung gehabt. Damit kann ich jetzt langsam wieder die Suche aufdrehen.
+Zudem gab es im Fernsehen eine Tennis-Kommentierung von Sascha Bandermann, abends um 21h30, die ich wegen seiner Entspanntheit sehr, sehr angenehm empfand und gut zum Ausklingen des Tages war.
+
+
 04.02.2016
 ---
 Der Donnerstag war vom ganzen Ablauf her, angenehm smooth. Eines der Dinge angepackt, die ich nun schon länger vor mich hingeschoben habe und um ein Beratungstermin bzgl. der Immobilienfinanzierung angefragt und bekommen. Dazu spontan zum Zoll gegangen um meine langersehnte isländische Jacke dort rauszuholen (was mit kaum Wartezeit gut klappte). Brot-Teig angesetzt, gearbeitet, das letzte Viertel Bamberg – Barcelona in Ruhe & konzentriert angesehen und früh ins Bett gekommen.

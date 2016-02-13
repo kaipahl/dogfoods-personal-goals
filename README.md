@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] R/Test: Einlesen in Drupals Theme- und Cache-Mechanismus*
 - [x] R/Test: Wie erstelle ich in Drupal ein Theme
-- [ ] R/Test: Workflow zur Manipulation des Theme-CSS anlegen
+- [x] R/Test: Workflow zur Manipulation des Theme-CSS anlegen
 - [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur
 - [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte
 - [ ] R/Test: Evaluieren der nächsten Steps für Drupal

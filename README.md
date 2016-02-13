@@ -35,8 +35,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] CN: Box Mt umbauen*
 - [ ] CN: Box Ab umbauen*
 - [x] CN: Box HH-Kln einbauen*
-- [ ] Default: Grunt-Scripte auf Github stellen
-- [ ] Default: Anpassung package.json
+- [x] Default: Grunt-Scripte auf Github stellen
+- [x] Default: Anpassung package.json
 - [ ] kaipahl.de: Gestaltung des Footers
 - [x] Papier für Beratungstermin aufbereiten
 - [x] Beratungstermin Immobilienfinanzierung

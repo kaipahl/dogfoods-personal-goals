@@ -10,7 +10,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 06/2016, ab Montag, 08.02.2016
+# KW 07/2016, ab Montag, 15.02.2016
 
 
 ### This Week's Goal: 
@@ -18,43 +18,21 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [x] R/Test: Einlesen in Drupals Theme- und Cache-Mechanismus*
-- [x] R/Test: Wie erstelle ich in Drupal ein Theme
-- [x] R/Test: Workflow zur Manipulation des Theme-CSS anlegen
-- [ ] R/Test: Anpassen des Headers an gewünschter Menü-Struktur
-- [ ] R/Test: Anlegen von Dummy-Content für Hauptmenü-Punkte
-- [ ] R/Test: Evaluieren der nächsten Steps für Drupal
-- [x] UmSt-Voranmeldung zahlen
-- [x] CN: Evaluierung des Angebotes*
-- [x] CN: Vorbereiten der Unterlagen*
-- [x] CN: Absprache vor dem Meeting
-- [x] CN: Auswertung Meeting
-- [x] CN: Website auf lokal kopieren*
-- [x] CN: Menüpunkt F löschen*
-- [x] CN: Box WK löschen*
-- [ ] CN: Box Mt umbauen*
-- [ ] CN: Box Ab umbauen*
-- [x] CN: Box HH-Kln einbauen*
-- [x] Default: Grunt-Scripte auf Github stellen
-- [x] Default: Anpassung package.json
-- [ ] kaipahl.de: Gestaltung des Footers
-- [x] Papier für Beratungstermin aufbereiten
-- [x] Beratungstermin Immobilienfinanzierung
-- [x] Next Steps für Immobilienfinanzierung überlegen
+- [ ] R/Test: Dummy-Seiten für Home, HVW, Wel, Zu, Ve
+- [ ] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
+- [ ] R/Test: Um Absprache der nächsten Steps kümmern
+- [ ] CN: Text für Box Mt besorgen
+- [ ] CN: Box Mt umbauen
+- [ ] CN: Box Ab umbauen
 - [ ] Immobiliesuche neu starten
+- [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
-- [x] aas-scraper: ARD-scraper starten
-- [x] aas-scraper: mit RK sprechen
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen
 - [ ] Weiterarbeiten an der About-Seite
 - [ ] Putzen des LinkedIn-Profils
 - [ ] Putzen des Xing-Profils
-- [ ] Blogeintrag über AMP
-- [ ] Schreiben der zeit.de-Analyse
-- [x] AV: ePorta-Logo einbauen*
-- [x] AV: Korrektur*
-- [x] SBA: Textänderung*
-- [x] H: Neues Zertifikat einbauen*
+- [ ] .net/Jan lesen
+- [ ] Interviewfragen für SPORT1
 
 
 
@@ -66,6 +44,8 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* Blogeintrag über AMP
+* Schreiben der zeit.de-Analyse
 * aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen
 * aas-App: Definition eines MVP und der ersten Steps
 * Nächsten Steps für kaipahl.de überlegen

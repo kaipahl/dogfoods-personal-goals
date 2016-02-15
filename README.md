@@ -21,7 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R/Test: Dummy-Seiten für Home, HVW, Wel, Zu, Ve
 - [x] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
 - [ ] R/Test: Um Absprache der nächsten Steps kümmern
-- [ ] CN: Text für Box Mt besorgen
+- [x] CN: Text für Box Mt besorgen
 - [ ] CN: Box Mt umbauen
 - [ ] CN: Box Ab umbauen
 - [ ] Immobiliesuche neu starten

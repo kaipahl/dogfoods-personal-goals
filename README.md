@@ -18,8 +18,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] R/Test: Dummy-Seiten für Home, HVW, Wel, Zu, Ve
-- [ ] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
+- [x] R/Test: Dummy-Seiten für Home, HVW, Wel, Zu, Ve
+- [x] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
 - [ ] R/Test: Um Absprache der nächsten Steps kümmern
 - [ ] CN: Text für Box Mt besorgen
 - [ ] CN: Box Mt umbauen

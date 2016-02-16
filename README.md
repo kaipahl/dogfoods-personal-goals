@@ -22,9 +22,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
 - [ ] R/Test: Um Absprache der nächsten Steps kümmern
 - [x] CN: Text für Box Mt besorgen
-- [ ] CN: Box Mt umbauen
-- [ ] CN: Box Ab umbauen
-- [ ] Immobiliesuche neu starten
+- [x] CN: Box Mt umbauen
+- [x] CN: Box Ab umbauen
+- [ ] Immnonet neu starten
+- [x] Immowelt neu starten
+- [ ] Immoscout24 neu starten
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen

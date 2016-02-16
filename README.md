@@ -24,9 +24,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Text für Box Mt besorgen
 - [x] CN: Box Mt umbauen
 - [x] CN: Box Ab umbauen
-- [ ] Immnonet neu starten
+- [x] Immnonet neu starten
 - [x] Immowelt neu starten
-- [ ] Immoscout24 neu starten
+- [x] Immoscout24 neu starten
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen

@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+15.02.2016
+---
+Gestern um die Laune gekämpft und es geschafft das Steuer umzureißen. Den Tag über immer besser in den Fokus gekommen und letztendlich zufrieden ins Bett gestiegen, weil einiges weggeschafft. Und der Zucchini-Pasta-Auflauf war auch okay.
+
+
 11.02.2016
 ---
 Um mal wieder was positives einzustreuen: guten Beratungstermin in Sachen Immobilienfinanzierung gehabt. Damit kann ich jetzt langsam wieder die Suche aufdrehen.

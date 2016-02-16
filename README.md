@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] R/Test: Dummy-Seiten für Home, HVW, Wel, Zu, Ve
 - [x] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
-- [ ] R/Test: Um Absprache der nächsten Steps kümmern
+- [x] R/Test: Um Absprache der nächsten Steps kümmern
 - [x] CN: Text für Box Mt besorgen
 - [x] CN: Box Mt umbauen
 - [x] CN: Box Ab umbauen
@@ -35,6 +35,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Putzen des Xing-Profils
 - [ ] .net/Jan lesen
 - [ ] Interviewfragen für SPORT1
+- [ ] Evaluierung von flywayDB*
+- [ ] Evaluierung von liquibase*
+- [ ] Workflow für DB-Migration angucken*
+- [ ] UmSt-Voranmeldung schreiben*
+- [x] aas-Scraper: Handball-CL*
+- [ ] Glinde besuchen*
 
 
 

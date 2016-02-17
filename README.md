@@ -40,7 +40,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Workflow für DB-Migration angucken*
 - [ ] UmSt-Voranmeldung schreiben*
 - [x] aas-Scraper: Handball-CL*
-- [ ] Glinde besuchen*
+- [x] Glinde besuchen*
 
 
 

@@ -24,10 +24,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Text für Box Mt besorgen
 - [x] CN: Box Mt umbauen
 - [x] CN: Box Ab umbauen
-- [ ] CN: Neue Box Ab*
-- [ ] CN: Verzierung für Box Mt und Ab*
-- [ ] CN: „Gallerie“ korrigieren*
-- [ ] CN: „Aktuelles“-Verwendung ändern*
+- [x] CN: Neue Box Ab*
+- [x] CN: Verzierung für Box Mt und Ab*
+- [x] CN: „Gallerie“ korrigieren*
+- [x] CN: Neues Eingabefeld Ab*
 - [x] Immnonet neu starten
 - [x] Immowelt neu starten
 - [x] Immoscout24 neu starten

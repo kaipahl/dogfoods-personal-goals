@@ -3,6 +3,13 @@
 ### Sammlung der Highlights des Tages
 
 
+16.02.2016
+---
+Ich bin gestern Nachmittag nach Glinde gefahren um mir die Stadt anzugucken und ein Gefühl zu bekommen, ob es sinnvoll ist, sich Immobilienangebote anzusehen. Es gab Ecken die ihren Charme hatten. Das Zentrum gehörte leider nicht dazu und das ist angesichts der mässigen ÖPNV-Anbindung ziemlich nahe an einem KO-Argument dran.
+Gestern eine sehr interessante Immobilie entdeckt. Vielleicht die erste die ich besichtigen werden
+Und zudem mein vielleicht bestes Brot bislang gebacken.
+
+
 15.02.2016
 ---
 Gestern um die Laune gekämpft und es geschafft das Steuer umzureißen. Den Tag über immer besser in den Fokus gekommen und letztendlich zufrieden ins Bett gestiegen, weil einiges weggeschafft. Und der Zucchini-Pasta-Auflauf war auch okay.

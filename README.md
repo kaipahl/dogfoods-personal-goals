@@ -28,6 +28,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] CN: Verzierung für Box Mt und Ab*
 - [x] CN: „Gallerie“ korrigieren*
 - [x] CN: Neues Eingabefeld Ab*
+- [x] CN: KK Linkfarbe*
+- [x] CN: KK Verzierung*
+- [x] CN: KK Box Ab*
 - [x] Immnonet neu starten
 - [x] Immowelt neu starten
 - [x] Immoscout24 neu starten
@@ -46,6 +49,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] UmSt-Voranmeldung schreiben*
 - [x] aas-Scraper: Handball-CL*
 - [x] Glinde besuchen*
+- [x] HM: fix typo*
 
 
 

@@ -31,6 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Immnonet neu starten
 - [x] Immowelt neu starten
 - [x] Immoscout24 neu starten
+- [ ] kaipahl.de: Social Media-Icon als SVG-Sprites*
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
 - [ ] Neuen Avatar zur Selbstdarstellung überlegen

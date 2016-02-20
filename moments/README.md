@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+19.02.2016
+---
+Sehr produktiver Tag. Viel über DevOps-Tätigkeiten im Zusammenhang mit Datenbank-Management gelesen. Spaß mit Cities:Skyline Snowfall und Fußball gehabt.
+
+
 16.02.2016
 ---
 Ich bin gestern Nachmittag nach Glinde gefahren um mir die Stadt anzugucken und ein Gefühl zu bekommen, ob es sinnvoll ist, sich Immobilienangebote anzusehen. Es gab Ecken die ihren Charme hatten. Das Zentrum gehörte leider nicht dazu und das ist angesichts der mässigen ÖPNV-Anbindung ziemlich nahe an einem KO-Argument dran.

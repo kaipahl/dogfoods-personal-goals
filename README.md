@@ -43,8 +43,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Putzen des Xing-Profils
 - [ ] .net/Jan lesen
 - [ ] Interviewfragen für SPORT1
-- [ ] Evaluierung von flywayDB*
-- [ ] Evaluierung von liquibase*
+- [x] Evaluierung von flywayDB*
+- [x] Evaluierung von liquibase*
 - [ ] Workflow für DB-Migration angucken*
 - [ ] UmSt-Voranmeldung schreiben*
 - [x] aas-Scraper: Handball-CL*

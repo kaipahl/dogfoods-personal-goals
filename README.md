@@ -18,7 +18,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] UmSt-Voranmeldung schreiben
+- [x] UmSt-Voranmeldung schreiben
 - [ ] Informationen zu DB-Migration durchlesen
 - [ ] Workflow für DB-Migration vorschlagen
 - [ ] flywayDB-Workflow bei irgendeinem Projekt zum Testen einziehen

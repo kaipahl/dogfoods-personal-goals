@@ -10,57 +10,43 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 07/2016, ab Montag, 15.02.2016
+# KW 08/2016, ab Montag, 22.02.2016
 
 
 ### This Week's Goal: 
-* Drupal kennenlernen
+* Workflows rund um Datenbanken
 
 
 ## Things I'll Do This Week:
-- [x] R/Test: Dummy-Seiten für Home, HVW, Wel, Zu, Ve
-- [x] R/Test: Menü-Bauen für Home, HVW, Wel, Zu, Ve, P, Kontakt, Impr, Sitemap, Suche 
-- [x] R/Test: Um Absprache der nächsten Steps kümmern
-- [x] CN: Text für Box Mt besorgen
-- [x] CN: Box Mt umbauen
-- [x] CN: Box Ab umbauen
-- [x] CN: Neue Box Ab*
-- [x] CN: Verzierung für Box Mt und Ab*
-- [x] CN: „Gallerie“ korrigieren*
-- [x] CN: Neues Eingabefeld Ab*
-- [x] CN: KK Linkfarbe*
-- [x] CN: KK Verzierung*
-- [x] CN: KK Box Ab*
-- [x] Immnonet neu starten
-- [x] Immowelt neu starten
-- [x] Immoscout24 neu starten
-- [ ] kaipahl.de: Social Media-Icon als SVG-Sprites*
+- [ ] UmSt-Voranmeldung schreiben
+- [ ] Informationen zu DB-Migration durchlesen
+- [ ] Workflow für DB-Migration vorschlagen
+- [ ] flywayDB-Workflow bei irgendeinem Projekt zum Testen einziehen
+- [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
+- [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
-- [ ] Neuen Avatar zur Selbstdarstellung überlegen
-- [ ] Weiterarbeiten an der About-Seite
-- [ ] Putzen des LinkedIn-Profils
-- [ ] Putzen des Xing-Profils
 - [ ] .net/Jan lesen
 - [ ] Interviewfragen für SPORT1
-- [x] Evaluierung von flywayDB*
-- [x] Evaluierung von liquibase*
-- [ ] Workflow für DB-Migration angucken*
-- [ ] UmSt-Voranmeldung schreiben*
-- [x] aas-Scraper: Handball-CL*
-- [x] Glinde besuchen*
-- [x] HM: fix typo*
+- [ ] SBA: Grafik mit Sketch umsetzen
+- [ ] 3 lokal Makler kontaktieren
+- [ ] Mail an Joel schreiben
 
 
 
 ### Things I'll Do This Month: Februar 2016
 - [ ] aas-Scraper bei mindestens einem Sender im Parsen fertig stellen.
 
+
 ### Backlog: Side Projects
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* Neuen Avatar zur Selbstdarstellung überlegen
+* Weiterarbeiten an der About-Seite
+* Putzen des LinkedIn-Profils
+* Putzen des Xing-Profils
 * Blogeintrag über AMP
 * Schreiben der zeit.de-Analyse
 * aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen

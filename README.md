@@ -21,7 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] UmSt-Voranmeldung schreiben
 - [x] Informationen zu DB-Migration durchlesen
 - [ ] Workflow für DB-Migration vorschlagen
-- [ ] flywayDB-Workflow bei irgendeinem Projekt zum Testen einziehen
+- [ ] Arbeit mit drush-Aliases antesten
 - [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
@@ -29,9 +29,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] .net/Jan lesen
 - [ ] Interviewfragen für SPORT1
 - [ ] SBA: Grafik mit Sketch umsetzen
-- [ ] 3 lokal Makler kontaktieren
-- [ ] Mail an Joel schreiben
-- [ ] Bundesbank kontaktieren*
+- [ ] 3 lokale Makler kontaktieren
+- [x] Mail an Joel schreiben
+- [x] Bundesbank kontaktieren*
 
 
 

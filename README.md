@@ -31,6 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Grafik mit Sketch umsetzen
 - [ ] 3 lokal Makler kontaktieren
 - [ ] Mail an Joel schreiben
+- [ ] Bundesbank kontaktieren*
 
 
 

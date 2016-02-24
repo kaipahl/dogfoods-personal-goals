@@ -28,7 +28,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Palmen umbetten
 - [ ] .net/Jan lesen
 - [ ] Interviewfragen für SPORT1
-- [ ] SBA: Grafik mit Sketch umsetzen
+- [x] SBA: Grafik mit Sketch umsetzen
 - [ ] 3 lokale Makler kontaktieren
 - [x] Mail an Joel schreiben
 - [x] Bundesbank kontaktieren*

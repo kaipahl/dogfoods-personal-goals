@@ -20,8 +20,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] UmSt-Voranmeldung schreiben
 - [x] Informationen zu DB-Migration durchlesen
-- [ ] Workflow für DB-Migration vorschlagen
-- [ ] Arbeit mit drush-Aliases antesten
+- [x] Workflow für DB-Migration vorschlagen
+- [x] Arbeit mit drush-Aliases antesten
 - [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers

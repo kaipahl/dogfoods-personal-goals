@@ -29,6 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] .net/Jan lesen
 - [ ] Interviewfragen für SPORT1
 - [x] SBA: Grafik mit Sketch umsetzen
+- [ ] Widerrufsbelehrung Makler abschicken*
 - [ ] 3 lokale Makler kontaktieren
 - [x] Mail an Joel schreiben
 - [x] Bundesbank kontaktieren*

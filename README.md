@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
 - [ ] .net/Jan lesen
-- [ ] Widerrufsbelehrung Makler abschicken
+- [x] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
 
 

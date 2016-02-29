@@ -10,29 +10,21 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 08/2016, ab Montag, 22.02.2016
+# KW 09/2016, ab Montag, 29.02.2016
 
 
 ### This Week's Goal: 
-* Workflows rund um Datenbanken
+* Refactoring/Ausbau aas-scraper
 
 
 ## Things I'll Do This Week:
-- [x] UmSt-Voranmeldung schreiben
-- [x] Informationen zu DB-Migration durchlesen
-- [x] Workflow für DB-Migration vorschlagen
-- [x] Arbeit mit drush-Aliases antesten
 - [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
 - [ ] .net/Jan lesen
-- [ ] Interviewfragen für SPORT1
-- [x] SBA: Grafik mit Sketch umsetzen
-- [ ] Widerrufsbelehrung Makler abschicken*
+- [ ] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
-- [x] Mail an Joel schreiben
-- [x] Bundesbank kontaktieren*
 
 
 

@@ -3,6 +3,11 @@
 ### Sammlung der Highlights des Tages
 
 
+29.02.2016
+---
+Dank der drei eingeworfenen Silomat-Tabletten zum ersten Mal seit fünf Tagen auf sieben Stunden Schlaf gekommen. Fühlt sich gut an.
+
+
 19.02.2016
 ---
 Sehr produktiver Tag. Viel über DevOps-Tätigkeiten im Zusammenhang mit Datenbank-Management gelesen. Spaß mit Cities:Skyline Snowfall und Fußball gehabt.

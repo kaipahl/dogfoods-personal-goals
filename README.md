@@ -33,7 +33,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
 - [ ] aas-scraper: Refactoring des Parsings der Übertragungen fortführen*
-- [ ] Angebote der Immo-Portale aktualisieren*
+- [x] Angebote der Immo-Portale aktualisieren*
 - [ ] UmSt-Voranmeldung Jan zahlen*
 
 

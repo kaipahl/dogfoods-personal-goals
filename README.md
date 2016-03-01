@@ -29,7 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten
-- [ ] .net/Jan lesen
+- [x] .net/Jan lesen
 - [x] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
 - [ ] aas-scraper: Refactoring des Parsings der Übertragungen fortführen*

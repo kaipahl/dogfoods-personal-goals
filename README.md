@@ -18,6 +18,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
+- [ ] R: Doku zu Drupal-Workflow überarbeiten*
+- [ ] R: Diskussionsgrundlage für Workflow erstellen*
 - [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
@@ -25,6 +27,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] .net/Jan lesen
 - [x] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
+- [ ] aas-scraper: Refactoring des Parsings der Übertragungen fortführen*
+- [ ] Angebote der Immo-Portale aktualisieren*
 
 
 

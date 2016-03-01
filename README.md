@@ -18,8 +18,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] R: Doku zu Drupal-Workflow überarbeiten*
+- [x] R: Doku zu Drupal-Workflow überarbeiten*
+- [ ] R: Wie die Files kopieren? drush rsync?*
+- [ ] R: Wie die DB kopieren? drush sql-sync?*
+- [ ] R: Vorteile der drush-Aliases?*
+- [ ] R: Vorteile der Environments ?*
 - [ ] R: Diskussionsgrundlage für Workflow erstellen*
+- [ ] R: Doku zu Drupal-Workflow überarbeiten*
 - [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers

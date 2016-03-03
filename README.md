@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Wie die DB kopieren? drush sql-sync?*
 - [x] R: Vorteile der drush-Aliases?*
 - [x] R: Vorteile der Environments?*
-- [ ] R: Wie STAGE und PROD auf einen Server installieren (DBs!)*
+- [x] R: Wie STAGE und PROD auf einen Server installieren (DBs!)*
 - [ ] R: Diskussionsgrundlage für Workflow erstellen*
 - [ ] R: Doku zu Drupal-Workflow überarbeiten*
 - [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow

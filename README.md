@@ -26,7 +26,6 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Wie STAGE und PROD auf einen Server installieren (DBs!)*
 - [ ] R: Diskussionsgrundlage für Workflow erstellen*
 - [ ] R: Doku zu Drupal-Workflow überarbeiten*
-- [ ] R: Absprache wie es weitergeht: welche Inhalte wie im Theme rein, welchen Workflow
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] Palmen umbetten

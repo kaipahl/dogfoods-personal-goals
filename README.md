@@ -32,7 +32,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] .net/Jan lesen
 - [x] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
-- [ ] aas-scraper: Refactoring des Parsings der Übertragungen fortführen*
+- [x] aas-scraper: Refactoring des Parsings der Übertragungen fortführen*
+- [x] aas-scraper: ARD-Scraper basteln*
+- [x] aas-scraper: Refactoring des NHL-Scrapers*
 - [x] Angebote der Immo-Portale aktualisieren*
 - [ ] UmSt-Voranmeldung Jan zahlen*
 

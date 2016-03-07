@@ -31,6 +31,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] UmSt-Voranmeldung Jan zahlen
 - [ ] Server-Umzug
 - [ ] Biometrisches Passfoto machen
+- [ ] eT: Termin*
+- [ ] AG: Export aller Dateien*
 
 
 

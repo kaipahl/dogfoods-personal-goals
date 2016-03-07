@@ -29,6 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Palmen umbetten
 - [ ] 3 lokale Makler kontaktieren
 - [ ] UmSt-Voranmeldung Jan zahlen
+- [ ] Server-Umzug
 
 
 

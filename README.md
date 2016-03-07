@@ -10,7 +10,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 09/2016, ab Montag, 29.02.2016
+# KW 10/2016, ab Montag, 07.03.2016
 
 
 ### This Week's Goal: 
@@ -18,30 +18,22 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [x] R: Doku zu Drupal-Workflow überarbeiten*
-- [x] R: Wie die Files kopieren? drush rsync?*
-- [x] R: Wie die DB kopieren? drush sql-sync?*
-- [x] R: Vorteile der drush-Aliases?*
-- [x] R: Vorteile der Environments?*
-- [x] R: Wie STAGE und PROD auf einen Server installieren (DBs!)*
-- [ ] R: Diskussionsgrundlage für Workflow erstellen*
-- [ ] R: Doku zu Drupal-Workflow überarbeiten*
+- [ ] R: Doku zu Drupal-Workflow überarbeiten
+- [ ] R: Diskussionsgrundlage für Workflow erstellen
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
+- [ ] aas-Scraper: Gruppierung der NHL-Spiele vornehmen
+- [ ] aas-Scraper: Sommerzeit-Tauglichkeit checken
+- [ ] aas-Scraper: MLB-Preseason
+- [ ] aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 - [ ] Palmen umbetten
-- [x] .net/Jan lesen
-- [x] Widerrufsbelehrung Makler abschicken
 - [ ] 3 lokale Makler kontaktieren
-- [x] aas-scraper: Refactoring des Parsings der Übertragungen fortführen*
-- [x] aas-scraper: ARD-Scraper basteln*
-- [x] aas-scraper: Refactoring des NHL-Scrapers*
-- [x] Angebote der Immo-Portale aktualisieren*
-- [ ] UmSt-Voranmeldung Jan zahlen*
+- [ ] UmSt-Voranmeldung Jan zahlen
 
 
 
-### Things I'll Do This Month: Februar 2016
-- [ ] aas-Scraper bei mindestens einem Sender im Parsen fertig stellen.
+### Things I'll Do This Month: März 2016
+- [ ] MVP für aasDB auf die Beine stelle
 
 
 ### Backlog: Side Projects

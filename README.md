@@ -30,6 +30,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] 3 lokale Makler kontaktieren
 - [ ] UmSt-Voranmeldung Jan zahlen
 - [ ] Server-Umzug
+- [ ] Biometrisches Passfoto machen
 
 
 

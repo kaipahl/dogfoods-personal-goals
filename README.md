@@ -18,8 +18,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] R: Doku zu Drupal-Workflow überarbeiten
-- [ ] R: Diskussionsgrundlage für Workflow erstellen
+- [x] R: Doku zu Drupal-Workflow überarbeiten
+- [x] R: Diskussionsgrundlage für Workflow erstellen
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
 - [ ] aas-Scraper: Gruppierung der NHL-Spiele vornehmen

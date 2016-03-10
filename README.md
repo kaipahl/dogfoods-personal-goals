@@ -28,12 +28,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 - [ ] Palmen umbetten
 - [ ] 3 lokale Makler kontaktieren
-- [ ] UmSt-Voranmeldung Jan zahlen
+- [x] UmSt-Voranmeldung Jan zahlen
 - [ ] Server-Umzug
-- [ ] Biometrisches Passfoto machen
+- [x] Biometrisches Passfoto machen
 - [x] eT: Termin*
 - [x] AG: Export aller Dateien*
-- [ ] HaS: Dossier vorbereiten*
+- [x] HaS: Dossier vorbereiten*
 - [ ] HaS: Dossier schreiben*
 - [ ] IE: Berlin-Termin*
 

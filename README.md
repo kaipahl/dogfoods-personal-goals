@@ -34,7 +34,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] eT: Termin*
 - [x] AG: Export aller Dateien*
 - [x] HaS: Dossier vorbereiten*
-- [ ] HaS: Dossier schreiben*
+- [x] HaS: Dossier schreiben*
 - [ ] IE: Berlin-Termin*
 
 

@@ -22,7 +22,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Diskussionsgrundlage für Workflow erstellen
 - [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
-- [ ] aas-Scraper: Gruppierung der NHL-Spiele vornehmen
+- [x] aas-Scraper: Gruppierung der NHL-Spiele vornehmen
 - [ ] aas-Scraper: Sommerzeit-Tauglichkeit checken
 - [ ] aas-Scraper: MLB-Preseason
 - [ ] aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)

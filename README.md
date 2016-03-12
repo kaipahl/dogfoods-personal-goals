@@ -26,7 +26,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Scraper: Sommerzeit-Tauglichkeit checken
 - [ ] aas-Scraper: MLB-Preseason
 - [ ] aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
-- [ ] Palmen umbetten
+- [x] Palmen umbetten
 - [ ] 3 lokale Makler kontaktieren
 - [x] UmSt-Voranmeldung Jan zahlen
 - [x] Server-Umzug

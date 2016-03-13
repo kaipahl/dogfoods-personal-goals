@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] R: Doku zu Drupal-Workflow überarbeiten
 - [x] R: Diskussionsgrundlage für Workflow erstellen
-- [ ] kaipahl.de: Social Media-Icon als SVG-Sprites
+- [x] kaipahl.de: Social Media-Icon als SVG-Sprites
 - [ ] kaipahl.de: Gestaltung des Footers
 - [x] aas-Scraper: Gruppierung der NHL-Spiele vornehmen
 - [ ] aas-Scraper: Sommerzeit-Tauglichkeit checken
@@ -35,7 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] AG: Export aller Dateien*
 - [x] HaS: Dossier vorbereiten*
 - [x] HaS: Dossier schreiben*
-- [ ] IE: Berlin-Termin*
+- [x] IE: Berlin-Termin*
 
 
 

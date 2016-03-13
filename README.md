@@ -10,32 +10,25 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 10/2016, ab Montag, 07.03.2016
+# KW 11/2016, ab Montag, 14.03.2016
 
 
 ### This Week's Goal: 
-* Refactoring/Ausbau aas-scraper
+* Integration in die Arbeitsprozesse von IE
+* Grobe Planung für R
 
 
 ## Things I'll Do This Week:
-- [x] R: Doku zu Drupal-Workflow überarbeiten
-- [x] R: Diskussionsgrundlage für Workflow erstellen
-- [x] kaipahl.de: Social Media-Icon als SVG-Sprites
+- [ ] IE: Überprüfen der Funktionsfähigkeit der Entwicklungsumgebung
+- [ ] IE: Erstes Ticket nehmen
+- [ ] IE: Ersten Commit machen
+- [ ] R: Absprechen, was der nächste Schritt nach der Server-Installation ist
+- [ ] R: Groben Zeitplan für die nächsten 3-4 Wochen entwickeln. Zumindest Abstecken, was in der Pipeline ist.
+- [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] kaipahl.de: Gestaltung des Footers
-- [x] aas-Scraper: Gruppierung der NHL-Spiele vornehmen
-- [ ] aas-Scraper: Sommerzeit-Tauglichkeit checken
-- [ ] aas-Scraper: MLB-Preseason
-- [ ] aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
-- [x] Palmen umbetten
-- [ ] 3 lokale Makler kontaktieren
-- [x] UmSt-Voranmeldung Jan zahlen
-- [x] Server-Umzug
-- [x] Biometrisches Passfoto machen
-- [x] eT: Termin*
-- [x] AG: Export aller Dateien*
-- [x] HaS: Dossier vorbereiten*
-- [x] HaS: Dossier schreiben*
-- [x] IE: Berlin-Termin*
+- [ ] 1 lokale Makler kontaktieren
+- [ ] aas-Scraper: grundsätzliche Überlegungen was für Datums-/Zeit-Objekte ich im Show-Objekt brauche
+- [ ] aas-Scraper: konzeptionelle Frage ob und wie das AasDate-Objekt aufgebohrt werden sollte.
 
 
 
@@ -48,6 +41,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 * Neuen Avatar zur Selbstdarstellung überlegen
 * Weiterarbeiten an der About-Seite
 * Putzen des LinkedIn-Profils

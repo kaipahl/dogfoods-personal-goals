@@ -19,10 +19,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] IE: Überprüfen der Funktionsfähigkeit der Entwicklungsumgebung
-- [ ] IE: Erstes Ticket nehmen
+- [x] IE: Überprüfen der Funktionsfähigkeit der Entwicklungsumgebung
+- [x] IE: Erstes Ticket nehmen
 - [ ] IE: Ersten Commit machen
-- [ ] R: Absprechen, was der nächste Schritt nach der Server-Installation ist
+- [x] R: Absprechen, was der nächste Schritt nach der Server-Installation ist
 - [ ] R: Groben Zeitplan für die nächsten 3-4 Wochen entwickeln. Zumindest Abstecken, was in der Pipeline ist.
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] kaipahl.de: Gestaltung des Footers

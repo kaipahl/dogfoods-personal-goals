@@ -25,10 +25,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Absprechen, was der nächste Schritt nach der Server-Installation ist
 - [ ] R: Groben Zeitplan für die nächsten 3-4 Wochen entwickeln. Zumindest Abstecken, was in der Pipeline ist.
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
-- [ ] kaipahl.de: Gestaltung des Footers
+- [x] kaipahl.de: Gestaltung des Footers
+- [ ] kaipahl.de: Basteln des Footers*
 - [ ] 1 lokale Makler kontaktieren
 - [ ] aas-Scraper: grundsätzliche Überlegungen was für Datums-/Zeit-Objekte ich im Show-Objekt brauche
 - [ ] aas-Scraper: konzeptionelle Frage ob und wie das AasDate-Objekt aufgebohrt werden sollte.
+- [ ] BeyondComm? S&P?*
 
 
 

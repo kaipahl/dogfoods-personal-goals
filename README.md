@@ -31,6 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Scraper: grundsätzliche Überlegungen was für Datums-/Zeit-Objekte ich im Show-Objekt brauche
 - [ ] aas-Scraper: konzeptionelle Frage ob und wie das AasDate-Objekt aufgebohrt werden sollte.
 - [ ] BeyondComm? S&P?*
+- [ ] Evaluierung von Prototype in JS für aas-Scraper*
 
 
 

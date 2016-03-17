@@ -27,7 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [x] kaipahl.de: Gestaltung des Footers
 - [x] kaipahl.de: Basteln des Footers*
-- [ ] 1 lokale Makler kontaktieren
+- [x] 1 lokale Makler kontaktieren
 - [ ] aas-Scraper: grundsätzliche Überlegungen was für Datums-/Zeit-Objekte ich im Show-Objekt brauche
 - [ ] aas-Scraper: konzeptionelle Frage ob und wie das AasDate-Objekt aufgebohrt werden sollte.
 - [ ] BeyondComm? S&P?*

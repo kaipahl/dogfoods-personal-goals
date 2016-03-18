@@ -28,10 +28,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] kaipahl.de: Gestaltung des Footers
 - [x] kaipahl.de: Basteln des Footers*
 - [x] 1 lokale Makler kontaktieren
+- [ ] aas-Scraper: Evaluierung von Prototype in JS*
 - [ ] aas-Scraper: grundsätzliche Überlegungen was für Datums-/Zeit-Objekte ich im Show-Objekt brauche
 - [ ] aas-Scraper: konzeptionelle Frage ob und wie das AasDate-Objekt aufgebohrt werden sollte.
 - [ ] BeyondComm? S&P?*
-- [ ] Evaluierung von Prototype in JS für aas-Scraper*
 
 
 

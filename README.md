@@ -10,30 +10,25 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 11/2016, ab Montag, 14.03.2016
+# KW 12/2016, ab Montag, 21.03.2016
 
 
 ### This Week's Goal: 
-* Integration in die Arbeitsprozesse von IE
-* Grobe Planung für R
+* R: Hauptwebsite bzgl. Templates und CMS-konfiguration fertig bekommen
+* IE: Bestandsaufnahme
 
 
 ## Things I'll Do This Week:
-- [x] IE: Überprüfen der Funktionsfähigkeit der Entwicklungsumgebung
-- [x] IE: Erstes Ticket nehmen
-- [x] IE: Ersten Commit machen
-- [x] R: Absprechen, was der nächste Schritt nach der Server-Installation ist
-- [ ] R: Groben Zeitplan für die nächsten 3-4 Wochen entwickeln. Zumindest Abstecken, was in der Pipeline ist.
+- [ ] IE: Beide Alternativen für Ticket #90 ausprobieren
+- [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
+- [ ] R: Multimandaten-Fähigkeit evaluieren
+- [ ] R: Tamples und CMS-Konfiguration für Hauptwebsite
+- [ ] aas-Scraper: Einlesen in Prototype in JS
+- [ ] aas-Scraper: Anforderung an show-Prototype aufschreiben
+- [ ] Bahnticket für BeyondTellerand kaufen
+- [ ] UmSt-Voranmeldung Februar schreiben
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
-- [x] kaipahl.de: Gestaltung des Footers
-- [x] kaipahl.de: Basteln des Footers*
-- [x] 1 lokale Makler kontaktieren
-- [ ] aas-Scraper: Evaluierung von Prototype in JS*
-- [ ] aas-Scraper: grundsätzliche Überlegungen was für Datums-/Zeit-Objekte ich im Show-Objekt brauche
-- [ ] aas-Scraper: konzeptionelle Frage ob und wie das AasDate-Objekt aufgebohrt werden sollte.
-- [ ] BeyondComm? S&P?*
-- [x] R: Formulare auf neuen Server umziehen.*
-- [ ] IE: Beide Alternativen für Ticket #90 ausprobieren*
+- [ ] Zwei weitere Makler kontaktieren
 
 
 

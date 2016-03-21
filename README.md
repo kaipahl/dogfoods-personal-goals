@@ -21,14 +21,15 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [ ] IE: Beide Alternativen für Ticket #90 ausprobieren
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
-- [ ] R: Multimandaten-Fähigkeit evaluieren
-- [ ] R: Tamples und CMS-Konfiguration für Hauptwebsite
+- [x] R: Multimandaten-Fähigkeit evaluieren
+- [ ] R: Templates und CMS-Konfiguration für Hauptwebsite
 - [ ] aas-Scraper: Einlesen in Prototype in JS
 - [ ] aas-Scraper: Anforderung an show-Prototype aufschreiben
 - [ ] Bahnticket für BeyondTellerand kaufen
 - [ ] UmSt-Voranmeldung Februar schreiben
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] Zwei weitere Makler kontaktieren
+- [x] R: Weiteres Notfall-Formular einrichten*
 
 
 

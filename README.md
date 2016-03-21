@@ -25,7 +25,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] R: Templates und CMS-Konfiguration für Hauptwebsite
 - [ ] aas-Scraper: Einlesen in Prototype in JS
 - [ ] aas-Scraper: Anforderung an show-Prototype aufschreiben
-- [ ] Bahnticket für BeyondTellerand kaufen
+- [x] Bahnticket für BeyondTellerand kaufen
 - [ ] UmSt-Voranmeldung Februar schreiben
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] Zwei weitere Makler kontaktieren

@@ -19,7 +19,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] IE: Beide Alternativen für Ticket #90 ausprobieren
+- [x] IE: Beide Alternativen für Ticket #90 ausprobieren
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] R: Multimandaten-Fähigkeit evaluieren
 - [ ] R: Templates und CMS-Konfiguration für Hauptwebsite

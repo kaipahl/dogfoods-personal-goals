@@ -30,6 +30,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] Zwei weitere Makler kontaktieren
 - [x] R: Weiteres Notfall-Formular einrichten*
+- [x] IE: Ticket #91/Neues Projekt responsiv machen*
+- [x] IE: Ticket #86/Passwort-Request responsiv machen*
+- [ ] R: Header in Templates erstellen*
+- [ ] R: Menü in Templates erstellen*
+- [ ] R: Seitenleiste/Home in Templates erstellen*
+- [ ] R: Clean-URL einschalten*
 
 
 

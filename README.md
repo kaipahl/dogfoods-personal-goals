@@ -23,8 +23,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] R: Multimandaten-Fähigkeit evaluieren
 - [ ] R: Templates und CMS-Konfiguration für Hauptwebsite
-- [ ] aas-Scraper: Einlesen in Prototype in JS
-- [ ] aas-Scraper: Anforderung an show-Prototype aufschreiben
+- [x] aas-Scraper: Einlesen in Prototype in JS
+- [x] aas-Scraper: Anforderung an show-Prototype aufschreiben
 - [x] Bahnticket für BeyondTellerand kaufen
 - [x] UmSt-Voranmeldung Februar schreiben
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte

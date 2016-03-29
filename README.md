@@ -32,7 +32,8 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] IE: Ticket #60 fertig machen
 - [ ] IE: Ticket #86 fertig machen
 - [ ] Zwei weitere Makler kontaktieren
-- [ ] Perso abholen
+- [x] Perso abholen
+- [ ] S: Neue Ausschreibung einpflegen*
 
 
 

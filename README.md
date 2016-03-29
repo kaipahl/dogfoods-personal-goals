@@ -10,32 +10,29 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 12/2016, ab Montag, 21.03.2016
+# KW 13/2016, ab Montag, 28.03.2016
 
 
 ### This Week's Goal: 
-* R: Hauptwebsite bzgl. Templates und CMS-konfiguration fertig bekommen
-* IE: Bestandsaufnahme
+Diesmal kann ich mich nicht auf einen Fokus reduzieren:
+* R: Hauptwebsite muss frontendseitig stehen
+* IE: Bestandsaufnahme muss fertig werden
 
 
 ## Things I'll Do This Week:
-- [x] IE: Beide Alternativen für Ticket #90 ausprobieren
-- [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
-- [x] R: Multimandaten-Fähigkeit evaluieren
-- [x] R: Templates und CMS-Konfiguration für Hauptwebsite
-- [x] aas-Scraper: Einlesen in Prototype in JS
-- [x] aas-Scraper: Anforderung an show-Prototype aufschreiben
-- [x] Bahnticket für BeyondTellerand kaufen
-- [x] UmSt-Voranmeldung Februar schreiben
+- [ ] R: Clean-URL einschalten
+- [ ] R: Konfiguration der Bild-Pfade für Server und Dev-Umgebung
+- [ ] R: Umschalten des Headers, je nach Bereich
+- [ ] R: Artikel-Styles anlegen
+- [ ] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
+- [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
+- [ ] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
+- [ ] IE: Ticket #91 reviewen lassen
+- [ ] IE: Ticket #60 fertig machen
+- [ ] IE: Ticket #86 fertig machen
 - [ ] Zwei weitere Makler kontaktieren
-- [x] R: Weiteres Notfall-Formular einrichten*
-- [x] IE: Ticket #91/Neues Projekt responsiv machen*
-- [x] IE: Ticket #86/Passwort-Request responsiv machen*
-- [x] R: Header in Templates erstellen*
-- [x] R: Menü in Templates erstellen*
-- [x] R: Seitenleiste/Home in Templates erstellen*
-- [ ] R: Clean-URL einschalten*
+- [ ] Perso abholen
 
 
 
@@ -48,6 +45,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* JS: Tests rund um Classes/Prototype-Pattern, Properties anstellen
 * aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 * Neuen Avatar zur Selbstdarstellung überlegen
 * Weiterarbeiten an der About-Seite
@@ -61,7 +59,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * H: Vereinheitlichung aller Media-Query-Functions in SCSS
 * H: Umsetzen aller font-size und line-height auf rem statt px
 * CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
-* Best Practice rund um `forEach`und Callbacks sammeln.
+* Best Practice rund um `forEach` und Callbacks sammeln.
 * Welche Best Practices vom _Functional Programming_ können in die JS/NodeJS-Programmierung einfließen?
 * NodeJS-Debugging mit [IronNode](http://s-a.github.io/iron-node/)
 * NodeJS-Debugging mit [TraceGL](https://github.com/traceglMPL/tracegl)

@@ -22,7 +22,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Beide Alternativen für Ticket #90 ausprobieren
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] R: Multimandaten-Fähigkeit evaluieren
-- [ ] R: Templates und CMS-Konfiguration für Hauptwebsite
+- [x] R: Templates und CMS-Konfiguration für Hauptwebsite
 - [x] aas-Scraper: Einlesen in Prototype in JS
 - [x] aas-Scraper: Anforderung an show-Prototype aufschreiben
 - [x] Bahnticket für BeyondTellerand kaufen
@@ -32,9 +32,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Weiteres Notfall-Formular einrichten*
 - [x] IE: Ticket #91/Neues Projekt responsiv machen*
 - [x] IE: Ticket #86/Passwort-Request responsiv machen*
-- [ ] R: Header in Templates erstellen*
-- [ ] R: Menü in Templates erstellen*
-- [ ] R: Seitenleiste/Home in Templates erstellen*
+- [x] R: Header in Templates erstellen*
+- [x] R: Menü in Templates erstellen*
+- [x] R: Seitenleiste/Home in Templates erstellen*
 - [ ] R: Clean-URL einschalten*
 
 

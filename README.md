@@ -24,6 +24,7 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] R: Konfiguration der Bild-Pfade für Server und Dev-Umgebung
 - [ ] R: Umschalten des Headers, je nach Bereich
 - [ ] R: Artikel-Styles anlegen
+- [ ] R: Facebook-Button*
 - [ ] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben

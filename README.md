@@ -28,13 +28,13 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
 - [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
-- [ ] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
-- [ ] IE: Ticket #91 reviewen lassen
+- [x] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
+- [x] IE: Ticket #91 reviewen lassen
 - [ ] IE: Ticket #60 fertig machen
-- [ ] IE: Ticket #86 fertig machen
+- [ ] IE: Ticket #86 reviewen lassen
 - [ ] Zwei weitere Makler kontaktieren
 - [x] Perso abholen
-- [ ] S: Neue Ausschreibung einpflegen*
+- [x] S: Neue Ausschreibung einpflegen*
 
 
 

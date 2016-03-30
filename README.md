@@ -25,13 +25,18 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] R: Umschalten des Headers, je nach Bereich
 - [ ] R: Artikel-Styles anlegen
 - [ ] R: Facebook-Button*
-- [ ] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
-- [ ] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
+- [x] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
+- [ ] aas-Scraper: Bugfix für das Grouping (4.4., 5.4.)*
+- [ ] aas-Scraper: Handling für Spring Training (30.3.)*
+- [ ] aas-Scraper: Handling für Free Game (noch keine Termine)*
+- [ ] aas-Scraper: Handling fürErkennung wenn noch keine Broadcaster*
+- [x] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
 - [x] IE: Ticket #91 reviewen lassen
-- [ ] IE: Ticket #60 fertig machen
 - [ ] IE: Ticket #86 reviewen lassen
+- [ ] IE: Ticket #274 bearbeiten
+- [ ] IE: Ticket #60 fertig machen
 - [ ] Zwei weitere Makler kontaktieren
 - [x] Perso abholen
 - [x] S: Neue Ausschreibung einpflegen*

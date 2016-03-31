@@ -26,6 +26,7 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] R: Artikel-Styles anlegen
 - [ ] R: Facebook-Button*
 - [x] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
+- [ ] aas-Scraper: Grundsätzliche Überlegungen zu Datum nach Mitternacht/US-Sport*
 - [ ] aas-Scraper: Bugfix für das Grouping (4.4., 5.4.)*
 - [ ] aas-Scraper: Handling für Spring Training (30.3.)*
 - [ ] aas-Scraper: Handling für Free Game (noch keine Termine)*

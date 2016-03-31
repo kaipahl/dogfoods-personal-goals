@@ -34,7 +34,7 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
 - [x] IE: Ticket #91 reviewen lassen
-- [ ] IE: Ticket #86 reviewen lassen
+- [x] IE: Ticket #86 reviewen lassen
 - [ ] IE: Ticket #274 bearbeiten
 - [ ] IE: Ticket #60 fertig machen
 - [ ] Zwei weitere Makler kontaktieren

@@ -21,16 +21,16 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 
 ## Things I'll Do This Week:
 - [ ] R: Clean-URL einschalten
-- [ ] R: Konfiguration der Bild-Pfade für Server und Dev-Umgebung
+- [x] R: Konfiguration der Bild-Pfade für Server und Dev-Umgebung
 - [ ] R: Umschalten des Headers, je nach Bereich
 - [ ] R: Artikel-Styles anlegen
 - [ ] R: Facebook-Button*
 - [x] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
-- [ ] aas-Scraper: Grundsätzliche Überlegungen zu Datum nach Mitternacht/US-Sport*
-- [ ] aas-Scraper: Bugfix für das Grouping (4.4., 5.4.)*
+- [x] aas-Scraper: Grundsätzliche Überlegungen zu Datum nach Mitternacht/US-Sport*
+- [x] aas-Scraper: Bugfix für das Grouping (4.4., 5.4.)*
 - [ ] aas-Scraper: Handling für Spring Training (30.3.)*
 - [ ] aas-Scraper: Handling für Free Game (noch keine Termine)*
-- [ ] aas-Scraper: Handling fürErkennung wenn noch keine Broadcaster*
+- [ ] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster*
 - [x] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
 - [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] IE: Konfiguration der Dev-Umgebung für den secure-Bereich

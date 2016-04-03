@@ -10,44 +10,34 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 13/2016, ab Montag, 28.03.2016
+# KW 14/2016, ab Montag, 04.04.2016
 
 
 ### This Week's Goal: 
-Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 * R: Hauptwebsite muss frontendseitig stehen
-* IE: Bestandsaufnahme muss fertig werden
+* R: Multimandanten-Sites starten
 
 
 ## Things I'll Do This Week:
 - [ ] R: Clean-URL einschalten
-- [x] R: Konfiguration der Bild-Pfade für Server und Dev-Umgebung
 - [ ] R: Umschalten des Headers, je nach Bereich
 - [ ] R: Artikel-Styles anlegen
-- [ ] R: Facebook-Button*
-- [x] aas-Scraper: Refactoring MLB-Script vor Saisonbeginn
-- [x] aas-Scraper: Grundsätzliche Überlegungen zu Datum nach Mitternacht/US-Sport*
-- [x] aas-Scraper: Bugfix für das Grouping (4.4., 5.4.)*
-- [ ] aas-Scraper: Handling für Spring Training (30.3.)*
-- [ ] aas-Scraper: Handling für Free Game (noch keine Termine)*
-- [ ] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster*
-- [ ] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen*
-- [ ] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen*
-- [x] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
-- [x] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
-- [x] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
-- [x] IE: Ticket #91 reviewen lassen
-- [x] IE: Ticket #86 reviewen lassen
+- [ ] R: Facebook-Button
+- [ ] aas-Scraper: Handling für Spring Training (30.3.)
+- [ ] aas-Scraper: Handling für Free Game (noch keine Termine)
+- [ ] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster
+- [ ] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen
+- [ ] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen
+- [ ] IE: Bestandsaufnahme präsentieren
+- [ ] IE: Ahnung über den groben Rahmen in nächster Zeit
 - [ ] IE: Ticket #274 bearbeiten
-- [ ] IE: Ticket #60 fertig machen
 - [ ] Zwei weitere Makler kontaktieren
-- [x] Perso abholen
-- [x] S: Neue Ausschreibung einpflegen*
+- [ ] Urlaub klären
 
 
 
-### Things I'll Do This Month: März 2016
-- [ ] MVP für aasDB auf die Beine stelle
+### Things I'll Do This Month: April 2016
+- [ ] 5-6x pro Woche 30-60 Minuten an aas-Scraper arbeiten
 
 
 ### Backlog: Side Projects

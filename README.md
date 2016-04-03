@@ -31,8 +31,10 @@ Diesmal kann ich mich nicht auf einen Fokus reduzieren:
 - [ ] aas-Scraper: Handling für Spring Training (30.3.)*
 - [ ] aas-Scraper: Handling für Free Game (noch keine Termine)*
 - [ ] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster*
+- [ ] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen*
+- [ ] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen*
 - [x] HaS: Zeitpuffer, falls eine Evaluierung nötig sein sollte
-- [ ] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
+- [x] IE: Bestandsaufnahme für interne Zwecke fertig schreiben
 - [x] IE: Konfiguration der Dev-Umgebung für den secure-Bereich
 - [x] IE: Ticket #91 reviewen lassen
 - [x] IE: Ticket #86 reviewen lassen

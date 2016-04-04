@@ -26,8 +26,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas-Scraper: Handling für Spring Training (30.3.)
 - [x] aas-Scraper: Handling für Free Game (noch keine Termine)
 - [x] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster
-- [ ] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen
-- [ ] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen
+- [x] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen
+- [x] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen
 - [ ] IE: Bestandsaufnahme präsentieren
 - [ ] IE: Ahnung über den groben Rahmen in nächster Zeit
 - [ ] IE: Ticket #274 bearbeiten

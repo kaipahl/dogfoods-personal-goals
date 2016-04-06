@@ -19,8 +19,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] R: Clean-URL einschalten
-- [ ] R: Umschalten des Headers, je nach Bereich
+- [x] R: Clean-URL einschalten
+- [x] R: Bereiche mit URL-Aliase ausgestattet*
+- [x] R: Umschalten des Headers, je nach Bereich
 - [ ] R: Artikel-Styles anlegen
 - [ ] R: Facebook-Button
 - [ ] aas-Scraper: Handling für Spring Training (30.3.)
@@ -28,8 +29,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster
 - [x] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen
 - [x] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen
-- [ ] IE: Bestandsaufnahme präsentieren
-- [ ] IE: Ahnung über den groben Rahmen in nächster Zeit
+- [x] aas-Scraper: es-1 fertig*
+- [x] aas-Scraper: at-1 fertig*
+- [x] aas-Scraper: at-2 fertig*
+- [x] IE: Bestandsaufnahme präsentieren
+- [x] IE: Ahnung über den groben Rahmen in nächster Zeit
 - [ ] IE: Ticket #274 bearbeiten
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Urlaub klären

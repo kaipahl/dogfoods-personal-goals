@@ -32,6 +32,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas-Scraper: es-1 fertig*
 - [x] aas-Scraper: at-1 fertig*
 - [x] aas-Scraper: at-2 fertig*
+- [x] aas-Scraper: de-1 fertig*
+- [x] aas-Scraper: de-2 fertig*
 - [x] IE: Bestandsaufnahme präsentieren
 - [x] IE: Ahnung über den groben Rahmen in nächster Zeit
 - [ ] IE: Ticket #274 bearbeiten

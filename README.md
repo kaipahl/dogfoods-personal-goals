@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Bereiche mit URL-Aliase ausgestattet*
 - [x] R: Umschalten des Headers, je nach Bereich
 - [ ] R: Artikel-Styles anlegen
-- [ ] R: Facebook-Button
+- [x] R: Facebook-Button
 - [ ] aas-Scraper: Handling für Spring Training (30.3.)
 - [x] aas-Scraper: Handling für Free Game (noch keine Termine)
 - [x] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster

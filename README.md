@@ -24,6 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Umgang mit LESS-variables.less überlegen
 - [ ] IE: Umbau des Widgets in JS
 - [ ] IE: jsHint in Grunt einziehen
+- [ ] IE: Minifizierung/JS in Grunt einziehen
 - [ ] R: Bug mit doppelter H2 klären
 - [ ] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
 - [ ] R: Multimandaten-Sites anlegen

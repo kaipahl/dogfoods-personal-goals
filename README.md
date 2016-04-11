@@ -20,6 +20,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: Ticket #274 bearbeiten
+- [ ] IE: DEV/PROD in Gruntfile einziehen
+- [ ] IE: Umgang mit LESS-variables.less überlegen
+- [ ] IE: Umbau des Widgets in JS
+- [ ] IE: jsHint in Grunt einziehen
 - [ ] R: Bug mit doppelter H2 klären
 - [ ] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
 - [ ] R: Multimandaten-Sites anlegen

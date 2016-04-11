@@ -10,35 +10,24 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 14/2016, ab Montag, 04.04.2016
+# KW 15/2016, ab Montag, 11.04.2016
 
 
 ### This Week's Goal: 
-* R: Hauptwebsite muss frontendseitig stehen
 * R: Multimandanten-Sites starten
+* IE: Fucking produktiv werden.
 
 
 ## Things I'll Do This Week:
-- [x] R: Clean-URL einschalten
-- [x] R: Bereiche mit URL-Aliase ausgestattet*
-- [x] R: Umschalten des Headers, je nach Bereich
-- [ ] R: Artikel-Styles anlegen
-- [x] R: Facebook-Button
-- [ ] aas-Scraper: Handling für Spring Training (30.3.)
-- [x] aas-Scraper: Handling für Free Game (noch keine Termine)
-- [x] aas-Scraper: Handling für Erkennung wenn noch keine Broadcaster
-- [x] aas-Scraper: Bei einer Gruppe, den Namen auf "Mittwochsspiele" setzen
-- [x] aas-Scraper: Bei einer Gruppe, den Namen "Abendspiele" auf MEZ setzen setzen
-- [x] aas-Scraper: es-1 fertig*
-- [x] aas-Scraper: at-1 fertig*
-- [x] aas-Scraper: at-2 fertig*
-- [x] aas-Scraper: de-1 fertig*
-- [x] aas-Scraper: de-2 fertig*
-- [x] IE: Bestandsaufnahme präsentieren
-- [x] IE: Ahnung über den groben Rahmen in nächster Zeit
 - [ ] IE: Ticket #274 bearbeiten
+- [ ] R: Bug mit doppelter H2 klären
+- [ ] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
+- [ ] R: Multimandaten-Sites anlegen
+- [ ] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Urlaub klären
+- [ ] aas-Scraper: NBA refactoring
+- [ ] aas-Scraper: Laola1.tv starten
 
 
 

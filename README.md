@@ -28,7 +28,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: jsHint in Grunt einziehen
 - [ ] IE: Minifizierung/JS in Grunt einziehen
 - [ ] IE: Wie das CSS in long-form-aprtial verlinken?*
-- [ ] R: Bug mit doppelter H2 klären
+- [x] R: Bug mit doppelter H2 klären
 - [ ] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
 - [ ] R: Multimandaten-Sites anlegen
 - [ ] Bei zwei Angeboten nachfragen

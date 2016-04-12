@@ -29,7 +29,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Minifizierung/JS in Grunt einziehen
 - [ ] IE: Wie das CSS in long-form-aprtial verlinken?*
 - [x] R: Bug mit doppelter H2 klären
-- [ ] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
+- [x] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
+- [ ] R: Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)*
+- [ ] R: Liste darstellen (Upload der exportierten .htm)*
+- [ ] R: Imagemap für Unterverbände*
 - [ ] R: Multimandaten-Sites anlegen
 - [ ] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren

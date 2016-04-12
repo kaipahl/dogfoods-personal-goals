@@ -32,7 +32,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
 - [ ] R: Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)*
 - [ ] R: Liste darstellen (Upload der exportierten .htm)*
-- [ ] R: Imagemap für Untergliederung*
+- [x] R: Imagemap für Untergliederung*
 - [ ] R: Multimandaten-Sites anlegen
 - [ ] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren

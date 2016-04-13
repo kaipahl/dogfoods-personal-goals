@@ -23,10 +23,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: DEV/PROD in Gruntfile einziehen
 - [x] IE: Fix Sourcemap
 - [x] IE: Finish LESS/CSS
-- [ ] IE: Umgang mit LESS-variables.less überlegen
-- [ ] IE: Umbau des Widgets in JS
+- [x] IE: Umgang mit LESS-variables.less überlegen
+- [x] IE: Umbau des Widgets in JS
 - [ ] IE: jsHint in Grunt einziehen
-- [ ] IE: Minifizierung/JS in Grunt einziehen
+- [x] IE: Minifizierung/JS in Grunt einziehen
 - [ ] IE: Wie das CSS in long-form-aprtial verlinken?*
 - [x] R: Bug mit doppelter H2 klären
 - [x] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden

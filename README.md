@@ -35,7 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Imagemap für Untergliederung*
 - [ ] R: Multimandaten-Sites anlegen
 - [ ] SBA: Neuen Serverzugang testen*
-- [ ] Bei zwei Angeboten nachfragen
+- [x] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Hausbesichtigung*
 - [x] Urlaub klären*

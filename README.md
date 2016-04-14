@@ -31,6 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Standalone-CSS putzen*
 - [ ] IE: Abhängigkeit im Partial von externer Bootstrapdatei rausnehmen*
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?*
+- [ ] IE: widget-autocite.js aus generierten globalen JS rausnehmen*
 - [x] R: Bug mit doppelter H2 klären
 - [x] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
 - [ ] R: Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)*

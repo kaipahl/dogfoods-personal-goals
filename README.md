@@ -34,9 +34,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] R: Liste darstellen (Upload der exportierten .htm)*
 - [x] R: Imagemap für Untergliederung*
 - [ ] R: Multimandaten-Sites anlegen
+- [ ] SBA: Neuen Serverzugang testen*
 - [ ] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren
-- [ ] Urlaub klären
+- [ ] Hausbesichtigung*
+- [x] Urlaub klären*
 - [ ] aas-Scraper: NBA refactoring
 - [ ] aas-Scraper: Laola1.tv starten
 

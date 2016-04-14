@@ -28,10 +28,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: jsHint in Grunt einziehen
 - [x] IE: Minifizierung/JS in Grunt einziehen
 - [ ] IE: Wie das CSS in long-form-aprtial verlinken?*
-- [ ] IE: Standalone-CSS putzen*
+- [x] IE: Standalone-CSS putzen*
 - [ ] IE: Abhängigkeit im Partial von externer Bootstrapdatei rausnehmen*
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?*
-- [ ] IE: widget-autocite.js aus generierten globalen JS rausnehmen*
+- [x] IE: widget-autocite.js aus generierten globalen JS rausnehmen*
+- [ ] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen*
 - [x] R: Bug mit doppelter H2 klären
 - [x] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
 - [ ] R: Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)*

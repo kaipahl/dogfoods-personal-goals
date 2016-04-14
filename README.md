@@ -29,7 +29,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Minifizierung/JS in Grunt einziehen
 - [ ] IE: Wie das CSS in long-form-aprtial verlinken?*
 - [x] IE: Standalone-CSS putzen*
-- [ ] IE: Abhängigkeit im Partial von externer Bootstrapdatei rausnehmen*
+- [ ] IE: Ansicht der Reference/Preface-Seite kontrollieren*
+- [ ] IE: Dependency von Bootstraps Popover rausnehmen*
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?*
 - [x] IE: widget-autocite.js aus generierten globalen JS rausnehmen*
 - [ ] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen*

@@ -40,7 +40,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] R: Liste darstellen (Upload der exportierten .htm)*
 - [x] R: Imagemap für Untergliederung*
 - [ ] R: Multimandaten-Sites anlegen
-- [ ] SBA: Neuen Serverzugang testen*
+- [x] SBA: Neuen Serverzugang testen*
+- [ ] SBA: Hoster wg SFTP-Zugang fragen*
 - [x] H: Website-Aktualisierung*
 - [x] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren

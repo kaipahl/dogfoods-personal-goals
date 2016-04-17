@@ -10,45 +10,34 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 15/2016, ab Montag, 11.04.2016
+# KW 16/2016, ab Montag, 18.04.2016
 
 
 ### This Week's Goal: 
-* R: Multimandanten-Sites starten
-* IE: Fucking produktiv werden.
+* Projektstart HS
+* IE: Ticket #274 abschließen
+* R: Multimandanten
+
 
 
 ## Things I'll Do This Week:
-- [ ] IE: Ticket #274 bearbeiten
-- [x] IE: DEV/PROD in Gruntfile einziehen
-- [x] IE: Fix Sourcemap
-- [x] IE: Finish LESS/CSS
-- [x] IE: Umgang mit LESS-variables.less überlegen
-- [x] IE: Umbau des Widgets in JS
-- [ ] IE: jsHint in Grunt einziehen
-- [x] IE: Minifizierung/JS in Grunt einziehen
-- [ ] IE: Wie das CSS in long-form-aprtial verlinken?*
-- [x] IE: Standalone-CSS putzen*
-- [ ] IE: Ansicht der Reference/Preface-Seite kontrollieren*
-- [ ] IE: Dependency von Bootstraps Popover rausnehmen*
-- [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?*
-- [x] IE: widget-autocite.js aus generierten globalen JS rausnehmen*
-- [ ] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen*
-- [x] R: Bug mit doppelter H2 klären
-- [x] R: Klären ob für die Hauptwebsites weitere Inhalts-Typen gebraucht werden
-- [ ] R: Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)*
-- [ ] R: Liste darstellen (Upload der exportierten .htm)*
-- [x] R: Imagemap für Untergliederung*
+- [ ] SBA: Hoster wg SFTP-Zugang fragen
+- [ ] HS: Website ansehen
+- [ ] IE: Für Ticket #274 Definition of Done überlegen
+- [ ] IE: Ticket #274 beenden
+- [ ] IE: Handling von Bootstraps Popover-Modul klären
+- [ ] IE: Mit F klären: Link auf CSS-Datei in externer JS-Datei setzen
+- [ ] IE: Mit F klären: Link auf JS-Datei im Partial setzen
+- [ ] IE: Ansicht der Reference/Preface-Seite kontrollieren
+- [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?
+- [ ] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
+- [ ] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
 - [ ] R: Multimandaten-Sites anlegen
-- [x] SBA: Neuen Serverzugang testen*
-- [ ] SBA: Hoster wg SFTP-Zugang fragen*
-- [x] H: Website-Aktualisierung*
-- [x] Bei zwei Angeboten nachfragen
 - [ ] Zwei weitere Makler kontaktieren
-- [x] Hausbesichtigung*
-- [x] Urlaub klären*
+- [ ] Suche auf Norderstedt, Bergedorf, Ahrensburg, Wedel ausweiten.
 - [ ] aas-Scraper: NBA refactoring
-- [ ] aas-Scraper: Laola1.tv starten
+- [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
+- [ ] UmSt-Voranmeldung
 
 
 

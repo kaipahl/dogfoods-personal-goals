@@ -31,7 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Ansicht der Reference/Preface-Seite kontrollieren
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?
 - [ ] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
-- [ ] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
+- [x] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
 - [ ] R: Multimandaten-Sites anlegen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Suche auf Norderstedt, Bergedorf, Ahrensburg, Wedel ausweiten.

@@ -23,14 +23,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] SBA: Hoster wg SFTP-Zugang fragen
 - [ ] HS: Website ansehen
-- [ ] IE: Für Ticket #274 Definition of Done überlegen
+- [x] IE: Für Ticket #274 Definition of Done überlegen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären
 - [ ] IE: Mit F klären: Link auf CSS-Datei in externer JS-Datei setzen
 - [ ] IE: Mit F klären: Link auf JS-Datei im Partial setzen
-- [ ] IE: Ansicht der Reference/Preface-Seite kontrollieren
+- [x] IE: Ansicht der Reference/Preface-Seite kontrollieren
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?
-- [ ] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
+- [x] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
 - [x] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
 - [ ] R: Multimandaten-Sites anlegen
 - [ ] Zwei weitere Makler kontaktieren

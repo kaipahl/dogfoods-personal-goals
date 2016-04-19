@@ -22,7 +22,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] SBA: Hoster wg SFTP-Zugang fragen
-- [ ] HS: Website ansehen
+- [ ] SBA: Neuen SFTP-Zugang testen*
+- [x] HS: Website ansehen
 - [x] IE: Für Ticket #274 Definition of Done überlegen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären

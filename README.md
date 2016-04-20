@@ -22,12 +22,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] SBA: Hoster wg SFTP-Zugang fragen
-- [ ] SBA: Neuen SFTP-Zugang testen*
+- [x] SBA: Neuen SFTP-Zugang testen*
 - [x] HS: Website ansehen
 - [x] IE: Für Ticket #274 Definition of Done überlegen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären
-- [ ] IE: Mit F klären: Link auf CSS-Datei in externer JS-Datei setzen
+- [x] IE: Mit F klären: Link auf CSS-Datei in externer JS-Datei setzen
 - [ ] IE: Mit F klären: Link auf JS-Datei im Partial setzen
 - [x] IE: Ansicht der Reference/Preface-Seite kontrollieren
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?

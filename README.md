@@ -25,6 +25,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] SBA: Neuen SFTP-Zugang testen*
 - [x] Hs: Website ansehen
 - [x] Hs: Onboarding-Meeting*
+- [x] Hs: Projektvertrag prüfen*
 - [x] IE: Für Ticket #274 Definition of Done überlegen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären

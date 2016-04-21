@@ -23,7 +23,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] SBA: Hoster wg SFTP-Zugang fragen
 - [x] SBA: Neuen SFTP-Zugang testen*
-- [x] HS: Website ansehen
+- [x] Hs: Website ansehen
+- [x] Hs: Onboarding-Meeting*
 - [x] IE: Für Ticket #274 Definition of Done überlegen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären
@@ -34,6 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
 - [x] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
 - [ ] R: Multimandaten-Sites anlegen
+- [x] Berufshaftpflichtversicherung prüfen*
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Suche auf Norderstedt, Bergedorf, Ahrensburg, Wedel ausweiten.
 - [ ] aas-Scraper: NBA refactoring

@@ -23,6 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [x] SBA: Hoster wg SFTP-Zugang fragen
 - [x] SBA: Neuen SFTP-Zugang testen*
+- [ ] SBA: Okay für eMail-Transfer holen*
 - [x] Hs: Website ansehen
 - [x] Hs: Onboarding-Meeting*
 - [x] Hs: Projektvertrag prüfen*
@@ -34,14 +35,20 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Ansicht der Reference/Preface-Seite kontrollieren
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?
 - [x] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
+- [x] IE: Stundenzettel ausfüllen*
 - [x] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
-- [ ] R: Multimandaten-Sites anlegen
+- [x] R: Multimandaten-Sites anlegen
+- [ ] R: CSS für leere Seite*
+- [ ] R: Grunt für die anderen Mandaten einziehen*
+- [ ] R: Backup-Skripts anpassen*
+- [ ] R: Workflow für Entwicklungsumgebung verbessern*
 - [x] Berufshaftpflichtversicherung prüfen*
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Suche auf Norderstedt, Bergedorf, Ahrensburg, Wedel ausweiten.
 - [ ] aas-Scraper: NBA refactoring
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
-- [ ] UmSt-Voranmeldung
+- [x] UmSt-Voranmeldung
+- [ ] UmSt-Voranmeldung abgeben*
 
 
 

@@ -27,6 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Hs: Website ansehen
 - [x] Hs: Onboarding-Meeting*
 - [x] Hs: Projektvertrag prüfen*
+- [ ] Hs: Vagrant-Maschine bauen*
 - [x] IE: Für Ticket #274 Definition of Done überlegen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären
@@ -40,7 +41,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: Multimandaten-Sites anlegen
 - [ ] R: CSS für leere Seite*
 - [ ] R: Grunt für die anderen Mandaten einziehen*
-- [ ] R: Backup-Skripts anpassen*
+- [x] R: Backup-Skripts anpassen*
 - [ ] R: Workflow für Entwicklungsumgebung verbessern*
 - [x] Berufshaftpflichtversicherung prüfen*
 - [ ] Zwei weitere Makler kontaktieren

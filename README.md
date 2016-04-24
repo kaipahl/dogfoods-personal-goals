@@ -10,46 +10,30 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 16/2016, ab Montag, 18.04.2016
+# KW 17/2016, ab Montag, 25.04.2016
 
 
 ### This Week's Goal: 
-* Projektstart HS
 * IE: Ticket #274 abschließen
-* R: Multimandanten
+* Hs: Vagrant-Entwicklungsumgebung aufbauen
 
 
 
 ## Things I'll Do This Week:
-- [x] SBA: Hoster wg SFTP-Zugang fragen
-- [x] SBA: Neuen SFTP-Zugang testen*
-- [ ] SBA: Okay für eMail-Transfer holen*
-- [x] Hs: Website ansehen
-- [x] Hs: Onboarding-Meeting*
-- [x] Hs: Projektvertrag prüfen*
-- [ ] Hs: Vagrant-Maschine bauen*
-- [x] IE: Für Ticket #274 Definition of Done überlegen
+- [ ] UmSt-Voranmeldung abgeben
+- [ ] SBA: Okay für eMail-Transfer holen
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Handling von Bootstraps Popover-Modul klären
-- [x] IE: Mit F klären: Link auf CSS-Datei in externer JS-Datei setzen
 - [ ] IE: Mit F klären: Link auf JS-Datei im Partial setzen
-- [x] IE: Ansicht der Reference/Preface-Seite kontrollieren
 - [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?
-- [x] IE: Media-Query durch JS-Browser-Breite-Abfrage/Element-Query ersetzen
-- [x] IE: Stundenzettel ausfüllen*
-- [x] R: CSS für Online-Archiv der Zeitschrift (PDF, Thumbnail, Titel)
-- [x] R: Multimandaten-Sites anlegen
-- [ ] R: CSS für leere Seite*
-- [ ] R: Grunt für die anderen Mandaten einziehen*
-- [x] R: Backup-Skripts anpassen*
-- [ ] R: Workflow für Entwicklungsumgebung verbessern*
-- [x] Berufshaftpflichtversicherung prüfen*
+- [ ] IE: F den neuen Grunt-Workflow absegnen lassen
+- [ ] R: CSS für leere Seite
+- [ ] R: Grunt für die anderen Mandaten einziehen
+- [ ] R: Workflow für Entwicklungsumgebung verbessern
+- [ ] R: LG-Seiten einziehen
+- [ ] Hs: Vagrant-Maschine bauen
 - [ ] Zwei weitere Makler kontaktieren
-- [x] Suche auf Norderstedt, Bergedorf, Ahrensburg, Wedel ausweiten.
-- [x] aas-Scraper: NBA refactoring
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
-- [x] UmSt-Voranmeldung
-- [ ] UmSt-Voranmeldung abgeben*
 
 
 

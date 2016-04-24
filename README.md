@@ -46,7 +46,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Berufshaftpflichtversicherung prüfen*
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] Suche auf Norderstedt, Bergedorf, Ahrensburg, Wedel ausweiten.
-- [ ] aas-Scraper: NBA refactoring
+- [x] aas-Scraper: NBA refactoring
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
 - [x] UmSt-Voranmeldung
 - [ ] UmSt-Voranmeldung abgeben*

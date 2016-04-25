@@ -20,12 +20,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] UmSt-Voranmeldung abgeben
-- [ ] SBA: Okay für eMail-Transfer holen
+- [x] UmSt-Voranmeldung abgeben
+- [x] SBA: Okay für eMail-Transfer holen
 - [ ] IE: Ticket #274 beenden
-- [ ] IE: Handling von Bootstraps Popover-Modul klären
-- [ ] IE: Mit F klären: Link auf JS-Datei im Partial setzen
-- [ ] IE: Wohin mit den lokalen JS-Methoden im PHTML?
+- [x] IE: Handling von Bootstraps Popover-Modul klären
+- [x] IE: Mit F klären: Link auf JS-Datei im Partial setzen
+- [x] IE: Wohin mit den lokalen JS-Methoden im PHTML?
 - [ ] IE: F den neuen Grunt-Workflow absegnen lassen
 - [ ] R: CSS für leere Seite
 - [ ] R: Grunt für die anderen Mandaten einziehen

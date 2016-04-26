@@ -26,7 +26,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Handling von Bootstraps Popover-Modul klären
 - [x] IE: Mit F klären: Link auf JS-Datei im Partial setzen
 - [x] IE: Wohin mit den lokalen JS-Methoden im PHTML?
-- [ ] IE: F den neuen Grunt-Workflow absegnen lassen
+- [x] IE: F den neuen Grunt-Workflow absegnen lassen
+- [x] IE: Beschreibung im Pull Request schreiben*
+- [x] IE: Pull Request weiter geben*
 - [ ] R: CSS für leere Seite
 - [ ] R: Grunt für die anderen Mandaten einziehen
 - [ ] R: Workflow für Entwicklungsumgebung verbessern

@@ -29,6 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: F den neuen Grunt-Workflow absegnen lassen
 - [x] IE: Beschreibung im Pull Request schreiben*
 - [x] IE: Pull Request weiter geben*
+- [x] IE: Pull Request kommentieren*
 - [ ] R: CSS für leere Seite
 - [ ] R: Grunt für die anderen Mandaten einziehen
 - [ ] R: Workflow für Entwicklungsumgebung verbessern

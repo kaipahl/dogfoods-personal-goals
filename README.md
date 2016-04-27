@@ -31,7 +31,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Pull Request weiter geben*
 - [x] IE: Pull Request kommentieren*
 - [ ] R: CSS für leere Seite
-- [ ] R: Grunt für die anderen Mandaten einziehen
+- [x] R: Entwicklungsumgebung auf Bürorechner installieren*
+- [x] R: Grunt für die anderen Mandaten einziehen
 - [ ] R: Workflow für Entwicklungsumgebung verbessern
 - [ ] R: LG-Seiten einziehen
 - [ ] Hs: Vagrant-Maschine bauen

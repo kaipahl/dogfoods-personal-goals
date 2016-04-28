@@ -39,6 +39,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: LESS-weite Konsolidierung der Farben*
 - [ ] IE: CSS-Linting: PostCSS oder Grunt?*
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs*
+- [ ] IE: Ticket #107, Form*
+- [ ] IE: Ticket #110, Drodowns*
 - [ ] R: CSS für leere Seite
 - [x] R: Entwicklungsumgebung auf Bürorechner installieren*
 - [x] R: Grunt für die anderen Mandaten einziehen

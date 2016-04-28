@@ -30,6 +30,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Beschreibung im Pull Request schreiben*
 - [x] IE: Pull Request weiter geben*
 - [x] IE: Pull Request kommentieren*
+- [ ] IE: Abnahme einiger Site-Metriken*
 - [ ] IE: package.json fixen wg Versionsnummern der Plug-Ins*
 - [ ] IE: Absprache mit Nils wg Partial*
 - [ ] IE: Auflistung der per Rebrush veränderten UX-Elemente*

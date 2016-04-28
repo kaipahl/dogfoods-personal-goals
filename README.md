@@ -34,13 +34,15 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: package.json fixen wg Versionsnummern der Plug-Ins*
 - [ ] IE: Absprache mit Nils wg Partial*
 - [ ] IE: Auflistung der per Rebrush veränderten UX-Elemente*
-- [ ] IE: Aufsetzen einer privaten Patternlab-Instanz*
+- [x] IE: Aufsetzen einer privaten Patternlab-Instanz*
+- [ ] IE: Einziehen eines SCSS Grunt-Tasks*
 - [ ] IE: Einhängen von LESS in den Grunt-v2-Flow*
 - [ ] IE: LESS-weite Konsolidierung der Farben*
 - [ ] IE: CSS-Linting: PostCSS oder Grunt?*
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs*
 - [ ] IE: Ticket #107, Form*
-- [ ] IE: Ticket #110, Drodowns*
+- [ ] IE: Ticket #110, Dropdowns*
+- [ ] IE: API signup page*
 - [ ] R: CSS für leere Seite
 - [x] R: Entwicklungsumgebung auf Bürorechner installieren*
 - [x] R: Grunt für die anderen Mandaten einziehen

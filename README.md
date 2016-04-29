@@ -46,6 +46,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] R: CSS für leere Seite
 - [x] R: Entwicklungsumgebung auf Bürorechner installieren*
 - [x] R: Grunt für die anderen Mandaten einziehen
+- [x] R: Grunt für das Verteilen der Templates auf die Multimandaten*
+- [x] R: Grunt für das Optimieren + Verteilen von Bildern auf die Multimandaten*
 - [ ] R: Workflow für Entwicklungsumgebung verbessern
 - [ ] R: LG-Seiten einziehen
 - [ ] Hs: Vagrant-Maschine bauen

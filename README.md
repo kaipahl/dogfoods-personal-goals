@@ -35,15 +35,18 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Absprache mit Nils wg Partial*
 - [ ] IE: Auflistung der per Rebrush veränderten UX-Elemente*
 - [x] IE: Aufsetzen einer privaten Patternlab-Instanz*
-- [ ] IE: Einziehen eines SCSS Grunt-Tasks*
-- [ ] IE: Einhängen von LESS in den Grunt-v2-Flow*
 - [ ] IE: LESS-weite Konsolidierung der Farben*
 - [ ] IE: CSS-Linting: PostCSS oder Grunt?*
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs*
 - [ ] IE: Ticket #107, Form*
+- [ ] IE: Einhängen von LESS in den Grunt-v2-Flow*
+- [ ] IE: Delete-Icon als SVG*
+- [ ] IE: SVG-Task (für CSS) in Grunt einziehen*
+- [ ] IE: Delete-Icon ins Markup*
+- [ ] IE: Class ins Markup einsetzen*
 - [ ] IE: Ticket #110, Dropdowns*
 - [ ] IE: API signup page*
-- [ ] R: CSS für leere Seite
+- [x] R: CSS für leere Seite
 - [x] R: Entwicklungsumgebung auf Bürorechner installieren*
 - [x] R: Grunt für die anderen Mandaten einziehen
 - [x] R: Grunt für das Verteilen der Templates auf die Multimandaten*

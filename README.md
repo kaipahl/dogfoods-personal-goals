@@ -33,14 +33,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Abnahme einiger Site-Metriken*
 - [ ] IE: package.json fixen wg Versionsnummern der Plug-Ins*
 - [ ] IE: Absprache mit Nils wg Partial*
-- [ ] IE: Auflistung der per Rebrush veränderten UX-Elemente*
+- [x] IE: Auflistung der per Rebrush veränderten UX-Elemente*
 - [x] IE: Aufsetzen einer privaten Patternlab-Instanz*
 - [ ] IE: LESS-weite Konsolidierung der Farben*
 - [ ] IE: CSS-Linting: PostCSS oder Grunt?*
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs*
 - [ ] IE: Ticket #107, Form*
 - [ ] IE: Einhängen von LESS in den Grunt-v2-Flow*
-- [ ] IE: Delete-Icon als SVG*
+- [x] IE: Delete-Icon als SVG*
 - [ ] IE: SVG-Task (für CSS) in Grunt einziehen*
 - [ ] IE: Delete-Icon ins Markup*
 - [ ] IE: Class ins Markup einsetzen*

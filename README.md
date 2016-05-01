@@ -31,19 +31,19 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Pull Request weiter geben*
 - [x] IE: Pull Request kommentieren*
 - [x] IE: Abnahme einiger Site-Metriken*
-- [ ] IE: package.json fixen wg Versionsnummern der Plug-Ins*
+- [x] IE: package.json fixen wg Versionsnummern der Plug-Ins*
 - [ ] IE: Absprache mit Nils wg Partial*
 - [x] IE: Auflistung der per Rebrush veränderten UX-Elemente*
 - [x] IE: Aufsetzen einer privaten Patternlab-Instanz*
+- [ ] IE: Ticket #107, Form*
+- [x] IE: #107: Delete-Icon als SVG*
+- [ ] IE: #107: Einhängen von LESS in den Grunt-v2-Flow*
+- [ ] IE: #107: SVG-Task (für CSS) in Grunt einziehen*
+- [ ] IE: #107: Delete-Icon ins Markup*
+- [ ] IE: #107: Class ins Markup einsetzen*
 - [ ] IE: LESS-weite Konsolidierung der Farben*
 - [ ] IE: CSS-Linting: PostCSS oder Grunt?*
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs*
-- [ ] IE: Ticket #107, Form*
-- [ ] IE: Einhängen von LESS in den Grunt-v2-Flow*
-- [x] IE: Delete-Icon als SVG*
-- [ ] IE: SVG-Task (für CSS) in Grunt einziehen*
-- [ ] IE: Delete-Icon ins Markup*
-- [ ] IE: Class ins Markup einsetzen*
 - [ ] IE: Ticket #110, Dropdowns*
 - [ ] IE: API signup page*
 - [x] R: CSS für leere Seite

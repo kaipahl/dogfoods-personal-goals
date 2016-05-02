@@ -10,58 +10,37 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 17/2016, ab Montag, 25.04.2016
+# KW 18/2016, ab Montag, 02.05.2016
 
 
 ### This Week's Goal: 
+* Hs: Entwicklungsumgebung zum Laufen bekommen
 * IE: Ticket #274 abschließen
-* Hs: Vagrant-Entwicklungsumgebung aufbauen
 
 
 
 ## Things I'll Do This Week:
-- [x] UmSt-Voranmeldung abgeben
-- [x] SBA: Okay für eMail-Transfer holen
 - [ ] IE: Ticket #274 beenden
-- [x] IE: Handling von Bootstraps Popover-Modul klären
-- [x] IE: Mit F klären: Link auf JS-Datei im Partial setzen
-- [x] IE: Wohin mit den lokalen JS-Methoden im PHTML?
-- [x] IE: F den neuen Grunt-Workflow absegnen lassen
-- [x] IE: Beschreibung im Pull Request schreiben*
-- [x] IE: Pull Request weiter geben*
-- [x] IE: Pull Request kommentieren*
-- [x] IE: Abnahme einiger Site-Metriken*
-- [x] IE: package.json fixen wg Versionsnummern der Plug-Ins*
-- [ ] IE: Absprache mit Nils wg Partial*
-- [x] IE: Auflistung der per Rebrush veränderten UX-Elemente*
-- [x] IE: Aufsetzen einer privaten Patternlab-Instanz*
-- [ ] IE: Ticket #107, Form*
-- [x] IE: #107: Delete-Icon als SVG*
-- [ ] IE: #107: Einhängen von LESS in den Grunt-v2-Flow*
-- [ ] IE: #107: SVG-Task (für CSS) in Grunt einziehen*
-- [ ] IE: #107: Delete-Icon ins Markup*
-- [ ] IE: #107: Class ins Markup einsetzen*
-- [ ] IE: LESS-weite Konsolidierung der Farben*
-- [ ] IE: CSS-Linting: PostCSS oder Grunt?*
-- [ ] IE: Säubern des LESS/CSS für Syntax-Probs*
-- [ ] IE: Ticket #110, Dropdowns*
-- [ ] IE: API signup page*
-- [x] R: CSS für leere Seite
-- [x] R: Entwicklungsumgebung auf Bürorechner installieren*
-- [x] R: Grunt für die anderen Mandaten einziehen
-- [x] R: Grunt für das Verteilen der Templates auf die Multimandaten*
-- [x] R: Grunt für das Optimieren + Verteilen von Bildern auf die Multimandaten*
+- [ ] IE: Absprache mit Nils wg Partial
+- [ ] IE: Ticket #107, Form
+- [ ] IE: #107: Einhängen von LESS in den Grunt-v2-Flow
+- [ ] IE: #107: SVG-Task (für CSS) in Grunt einziehen
+- [ ] IE: #107: Delete-Icon ins Markup
+- [ ] IE: #107: Class ins Markup einsetzen
+- [ ] IE: LESS-weite Konsolidierung der Farben
+- [ ] IE: CSS-Linting: PostCSS oder Grunt?
+- [ ] IE: Säubern des LESS/CSS für Syntax-Probs
 - [ ] R: Workflow für Entwicklungsumgebung verbessern
 - [ ] R: LG-Seiten einziehen
-- [ ] Hs: Vagrant-Maschine bauen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
-- [x] aas auf github umgezogen*
+- [ ] Workshop für IndieWeb
+- [ ] Überlegen wie IndieWeb für aas genutzt werden kann
 
 
 
-### Things I'll Do This Month: April 2016
-- [ ] 5-6x pro Woche 30-60 Minuten an aas-Scraper arbeiten
+### Things I'll Do This Month: Mai 2016
+- [ ] Pocket-Links lesen
 
 
 ### Backlog: Side Projects
@@ -69,6 +48,9 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* Zwei weitere Makler kontaktieren
+* IE: Ticket #110, Dropdowns
+* IE: API signup page
 * JS: Tests rund um Classes/Prototype-Pattern, Properties anstellen
 * aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 * Neuen Avatar zur Selbstdarstellung überlegen

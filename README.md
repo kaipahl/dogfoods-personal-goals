@@ -56,6 +56,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hs: Vagrant-Maschine bauen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
+- [x] aas auf github umgezogen*
 
 
 

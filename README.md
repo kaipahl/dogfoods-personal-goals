@@ -23,13 +23,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Ticket #274 beenden
 - [ ] IE: Absprache mit Nils wg Partial
 - [ ] IE: Ticket #107, Form
-- [ ] IE: #107: Einhängen von LESS in den Grunt-v2-Flow
-- [ ] IE: #107: SVG-Task (für CSS) in Grunt einziehen
+- [x] IE: #107: Einhängen von LESS in den Grunt-v2-Flow
+- [x] IE: #107: SVG-Task (für CSS) in Grunt einziehen
 - [ ] IE: #107: Delete-Icon ins Markup
 - [ ] IE: #107: Class ins Markup einsetzen
 - [ ] IE: LESS-weite Konsolidierung der Farben
 - [ ] IE: CSS-Linting: PostCSS oder Grunt?
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs
+- [x] IE/Hs: Klärung wie in modularisierten Grunt Pfad-Configs einziehen*
 - [ ] R: Workflow für Entwicklungsumgebung verbessern
 - [ ] R: LG-Seiten einziehen
 - [ ] Zwei weitere Makler kontaktieren

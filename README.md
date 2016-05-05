@@ -32,7 +32,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Säubern des LESS/CSS für Syntax-Probs
 - [x] IE/Hs: Klärung wie in modularisierten Grunt Pfad-Configs einziehen*
 - [ ] R: Workflow für Entwicklungsumgebung verbessern
-- [ ] R: LG-Seiten einziehen
+- [x] R: LG-Seiten einziehen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
 - [ ] Workshop für IndieWeb

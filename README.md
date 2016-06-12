@@ -10,37 +10,34 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 18/2016, ab Montag, 02.05.2016
+# KW 24/2016, ab Montag, 13.06.2016
 
 
 ### This Week's Goal: 
-* Hs: Entwicklungsumgebung zum Laufen bekommen
-* IE: Ticket #274 abschließen
+* 
 
 
 
 ## Things I'll Do This Week:
-- [ ] IE: Ticket #274 beenden
-- [x] IE: Absprache mit Nils wg Partial
-- [ ] IE: Ticket #107, Form
-- [x] IE: #107: Einhängen von LESS in den Grunt-v2-Flow
-- [x] IE: #107: SVG-Task (für CSS) in Grunt einziehen
-- [ ] IE: #107: Delete-Icon ins Markup
-- [ ] IE: #107: Class ins Markup einsetzen
-- [ ] IE: LESS-weite Konsolidierung der Farben
-- [ ] IE: CSS-Linting: PostCSS oder Grunt?
-- [ ] IE: Säubern des LESS/CSS für Syntax-Probs
-- [x] IE/Hs: Klärung wie in modularisierten Grunt Pfad-Configs einziehen*
-- [ ] R: Workflow für Entwicklungsumgebung verbessern
-- [x] R: LG-Seiten einziehen
-- [ ] Zwei weitere Makler kontaktieren
-- [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
-- [x] Workshop für IndieWeb
-- [ ] Überlegen wie IndieWeb für aas genutzt werden kann
+- [ ] IE: Schlachtplan für Refactoring überlegen
+- [ ] IE: Tickets mit Florian besprechen
+- [ ] MM: Besprechung mit Cora
+- [ ] MM: Refactoring des Backup-Prozesses
+- [ ] MM: Schriftfarben-Problem auf Homepage lösen
+- [ ] MM: Audioplayer aussuchen
+- [ ] MM: Audioplayer in JS einbauen
+- [ ] MM: Audioplayer als Admin-Panel einbauen
+- [ ] SBA: Abgleich Installation Bürorechner/Laptop
+- [ ] SBA: Einbau Test gg Assets & 404
+- [ ] SBA: Bugfix PDF-Icon auf Bürorechner
+- [ ] aas: Bugfix für Verweis auf aasaas
+- [ ] R: Connie fragen, wie es weiter geht
+- [ ] Makler aufschreiben
+- [ ] Makler aufsuchen
 
 
 
-### Things I'll Do This Month: Mai 2016
+### Things I'll Do This Month: Juni 2016
 - [ ] Pocket-Links lesen
 
 
@@ -52,6 +49,8 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Zwei weitere Makler kontaktieren
 * IE: Ticket #110, Dropdowns
 * IE: API signup page
+* IE: Säubern des LESS/CSS für Syntax-Probs
+* IE: Konsolidieren der Farben
 * JS: Tests rund um Classes/Prototype-Pattern, Properties anstellen
 * aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 * Neuen Avatar zur Selbstdarstellung überlegen
@@ -84,7 +83,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Angucken von The Great Discontent für Weblayouts (alte und neue Version)
 * Evaluierung Cucumber
 * Evaluierung Greensock
-* tug für SBA aktualisieren
 * tug: Testcase für das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Einlesen in das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Refactoring der Übergabe des page-Objekt

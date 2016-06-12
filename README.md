@@ -21,7 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: Ticket #274 beenden
-- [ ] IE: Absprache mit Nils wg Partial
+- [x] IE: Absprache mit Nils wg Partial
 - [ ] IE: Ticket #107, Form
 - [x] IE: #107: Einhängen von LESS in den Grunt-v2-Flow
 - [x] IE: #107: SVG-Task (für CSS) in Grunt einziehen
@@ -35,7 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] R: LG-Seiten einziehen
 - [ ] Zwei weitere Makler kontaktieren
 - [ ] aas-Scraper: Laola1.tv, weitere Properties auswerten
-- [ ] Workshop für IndieWeb
+- [x] Workshop für IndieWeb
 - [ ] Überlegen wie IndieWeb für aas genutzt werden kann
 
 
@@ -63,6 +63,9 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen
 * aas-App: Definition eines MVP und der ersten Steps
 * Nächsten Steps für kaipahl.de überlegen
+* Ausprobieren der UnrealEngine
+* Ausprobieren von unreal.js
+* Wie kann man SSIM verwenden, z.B. in Coremedia?
 * H: Vereinheitlichung aller Media-Query-Functions in SCSS
 * H: Umsetzen aller font-size und line-height auf rem statt px
 * CrashPlan kaufen + installieren. Evtl. Backblaze B2 als Cloud-Storage
@@ -76,8 +79,12 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Evaluierung von SonarQube
 * SpeedCurve evaluieren
 * JSPM evaluieren
+* Angucken des NY Times Magazine für Weblayouts
+* Angucken von Vox für Weblayouts
+* Angucken von The Great Discontent für Weblayouts (alte und neue Version)
 * Evaluierung Cucumber
 * Evaluierung Greensock
+* tug für SBA aktualisieren
 * tug: Testcase für das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Einlesen in das Handling von Objekten innerhalb und außerhalb von Funktionen
 * tug: Refactoring der Übergabe des page-Objekt

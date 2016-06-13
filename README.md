@@ -31,6 +31,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] aas: Bugfix für Verweis auf aasaas
+- [ ] aas: Dazn
 - [ ] R: Connie fragen, wie es weiter geht
 - [ ] Makler aufschreiben
 - [ ] Makler aufsuchen

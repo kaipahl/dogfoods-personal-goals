@@ -21,7 +21,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [ ] IE: Schlachtplan für Refactoring überlegen
 - [ ] IE: Tickets mit Florian besprechen
-- [ ] MM: Besprechung mit Cora
+- [x] IE: #410 Bugfix (960px width in mobile view)*
+- [x] IE: #107 auf den aktuellen Stand gebracht*
+- [x] MM: Besprechung mit Cora
 - [ ] MM: Refactoring des Backup-Prozesses
 - [ ] MM: Schriftfarben-Problem auf Homepage lösen
 - [ ] MM: Audioplayer aussuchen
@@ -31,7 +33,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] aas: Bugfix für Verweis auf aasaas
-- [ ] aas: Dazn
+- [ ] aas: Dazn*
 - [ ] R: Connie fragen, wie es weiter geht
 - [ ] Makler aufschreiben
 - [ ] Makler aufsuchen

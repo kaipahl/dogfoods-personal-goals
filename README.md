@@ -20,9 +20,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: Schlachtplan für Refactoring überlegen
-- [ ] IE: Tickets mit Florian besprechen
+- [x] IE: Tickets mit Florian besprechen
 - [x] IE: #410 Bugfix (960px width in mobile view)*
 - [x] IE: #107 auf den aktuellen Stand gebracht*
+- [ ] IE: #107 Makefile aktualisieren*
+- [ ] IE: Besprechung mit Anne wg Form-API*
 - [x] MM: Besprechung mit Cora
 - [ ] MM: Refactoring des Backup-Prozesses
 - [ ] MM: Schriftfarben-Problem auf Homepage lösen
@@ -32,13 +34,29 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
+- [ ] Hs: poll-to-session.js-Ticket fertig machen*
+- [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)*
+- [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?*
+- [ ] Hs: Grunt Tasks schreiben*
 - [ ] aas: Bugfix für Verweis auf aasaas
 - [ ] aas: Dazn*
 - [x] R: Connie fragen, wie es weiter geht
 - [ ] Makler aufschreiben
 - [ ] Makler aufsuchen
-- [x] UmSt-Voranmeldung
+- [x] UmSt-Voranmeldung*
 
+- Konfig-Button/#595 (nur auf Mobile ausblenden oder auch Tablet?, Ticket lesen)
+- Tracking-Task bewerten (#859 ggf #860) wie kann es vereinfacht werden
+- Grunt schreiben
+- Dienstag Anwesenheit anpeilen
+- Do. 16 Uhr Nav-Struktur, Seb Ahlen-Thema. 
+- Navigatuon wird doppelt asgespielt
+
+- Fr 13h30 Easybib
+
+- JS umhängen
+	- nur im Patternlab-Bereich. Noch nicht im Studio
+	
 
 
 ### Things I'll Do This Month: Juni 2016

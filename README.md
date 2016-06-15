@@ -34,9 +34,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] aas: Bugfix für Verweis auf aasaas
 - [ ] aas: Dazn*
-- [ ] R: Connie fragen, wie es weiter geht
+- [x] R: Connie fragen, wie es weiter geht
 - [ ] Makler aufschreiben
 - [ ] Makler aufsuchen
+- [x] UmSt-Voranmeldung
 
 
 

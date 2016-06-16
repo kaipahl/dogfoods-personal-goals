@@ -34,7 +34,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] Hs: Markup Navigation angucken*
+- [x] Hs: Markup Navigation angucken*
 - [ ] Hs: poll-to-session.js-Ticket fertig machen*
 - [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)*
 - [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?*

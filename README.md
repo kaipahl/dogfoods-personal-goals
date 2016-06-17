@@ -24,7 +24,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #410 Bugfix (960px width in mobile view)*
 - [x] IE: #107 auf den aktuellen Stand gebracht*
 - [ ] IE: #107 Makefile aktualisieren*
-- [ ] IE: Besprechung mit Anne wg Form-API*
+- [x] IE: Besprechung mit Anne wg Form-API*
+- [ ] IE: #399 Werbung auf Registrierungs- und Loginseite*
+- [ ] IE: Markup und Wünsche an Forms-API aufschreiben*
 - [x] MM: Besprechung mit Cora
 - [ ] MM: Refactoring des Backup-Prozesses
 - [ ] MM: Schriftfarben-Problem auf Homepage lösen
@@ -35,12 +37,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [x] Hs: Markup Navigation angucken*
+- [ ] Hs: Evaluierung neue mobile Navigation*
 - [ ] Hs: poll-to-session.js-Ticket fertig machen*
 - [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)*
 - [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?*
 - [ ] Hs: Grunt Tasks schreiben*
 - [ ] aas: Bugfix für Verweis auf aasaas
-- [ ] aas: Dazn*
+- [x] aas: Dazn*
 - [x] R: Connie fragen, wie es weiter geht
 - [ ] Makler aufschreiben
 - [ ] Makler aufsuchen

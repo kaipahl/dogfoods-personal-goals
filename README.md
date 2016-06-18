@@ -29,7 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben*
 - [ ] IE: Neuer A/B-Test*
 - [x] MM: Besprechung mit Cora
-- [ ] MM: Refactoring des Backup-Prozesses
+- [x] MM: Refactoring des Backup-Prozesses
 - [ ] MM: Schriftfarben-Problem auf Homepage lösen
 - [ ] MM: Audioplayer aussuchen
 - [ ] MM: Audioplayer in JS einbauen

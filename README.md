@@ -27,6 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Besprechung mit Anne wg Form-API*
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite*
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben*
+- [ ] IE: Neuer A/B-Test*
 - [x] MM: Besprechung mit Cora
 - [ ] MM: Refactoring des Backup-Prozesses
 - [ ] MM: Schriftfarben-Problem auf Homepage lösen
@@ -37,7 +38,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [x] Hs: Markup Navigation angucken*
-- [ ] Hs: Evaluierung neue mobile Navigation*
+- [x] Hs: Evaluierung neue mobile Navigation*
 - [ ] Hs: poll-to-session.js-Ticket fertig machen*
 - [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)*
 - [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?*

@@ -27,13 +27,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Besprechung mit Anne wg Form-API*
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite*
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben*
-- [ ] IE: Neuer A/B-Test*
+- [ ] IE: #425 Neuer A/B-Test*
 - [x] MM: Besprechung mit Cora
 - [x] MM: Refactoring des Backup-Prozesses
-- [ ] MM: Schriftfarben-Problem auf Homepage lösen
-- [ ] MM: Audioplayer aussuchen
-- [ ] MM: Audioplayer in JS einbauen
-- [ ] MM: Audioplayer als Admin-Panel einbauen
+- [x] MM: Schriftfarben-Problem auf Homepage lösen
+- [x] MM: Audioplayer aussuchen
+- [x] MM: Audioplayer in JS einbauen
+- [x] MM: Audioplayer als Admin-Panel einbauen
+- [ ] MM: Anleitung für Cora schreiben*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
@@ -46,7 +47,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas: Bugfix für Verweis auf aasaas
 - [x] aas: Dazn*
 - [x] R: Connie fragen, wie es weiter geht
-- [ ] Makler aufschreiben
+- [x] Makler aufschreiben
 - [ ] Makler aufsuchen
 - [x] UmSt-Voranmeldung*
 

@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben
 - [ ] IE: #425 Neuer A/B-Test
-- [ ] MM: Anleitung für Cora schreiben
+- [x] MM: Anleitung für Cora schreiben
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

@@ -10,46 +10,32 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 24/2016, ab Montag, 13.06.2016
+# KW 25/2016, ab Montag, 20.06.2016
 
 
 ### This Week's Goal: 
-* 
+* IE: Schlachtplan für Refactoring überlegen
 
 
 
 ## Things I'll Do This Week:
-- [ ] IE: Schlachtplan für Refactoring überlegen
-- [x] IE: Tickets mit Florian besprechen
-- [x] IE: #410 Bugfix (960px width in mobile view)*
-- [x] IE: #107 auf den aktuellen Stand gebracht*
-- [ ] IE: #107 Makefile aktualisieren*
-- [x] IE: Besprechung mit Anne wg Form-API*
-- [ ] IE: #399 Werbung auf Registrierungs- und Loginseite*
-- [ ] IE: Markup und Wünsche an Forms-API aufschreiben*
-- [ ] IE: #425 Neuer A/B-Test*
-- [x] MM: Besprechung mit Cora
-- [x] MM: Refactoring des Backup-Prozesses
-- [x] MM: Schriftfarben-Problem auf Homepage lösen
-- [x] MM: Audioplayer aussuchen
-- [x] MM: Audioplayer in JS einbauen
-- [x] MM: Audioplayer als Admin-Panel einbauen
-- [ ] MM: Anleitung für Cora schreiben*
+- [ ] IE: #107 Makefile aktualisieren
+- [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
+- [ ] IE: Markup und Wünsche an Forms-API aufschreiben
+- [ ] IE: #425 Neuer A/B-Test
+- [ ] MM: Anleitung für Cora schreiben
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] Hs: Markup Navigation angucken*
-- [x] Hs: Evaluierung neue mobile Navigation*
-- [ ] Hs: poll-to-session.js-Ticket fertig machen*
-- [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)*
-- [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?*
-- [ ] Hs: Grunt Tasks schreiben*
+- [ ] Hs: Mobile Navigation anpassen
+- [ ] Hs: poll-to-session.js-Ticket fertig machen
+- [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)
+- [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?
+- [ ] Hs: Grunt Tasks schreiben
 - [ ] aas: Bugfix für Verweis auf aasaas
-- [x] aas: Dazn*
-- [x] R: Connie fragen, wie es weiter geht
-- [x] Makler aufschreiben
-- [ ] Makler aufsuchen
-- [x] UmSt-Voranmeldung*
+- [ ] Makler #1 anschreiben
+- [ ] Makler #2 anschreiben
+- [ ] Makler #3 besuchen
 	
 
 
@@ -62,9 +48,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
-* Zwei weitere Makler kontaktieren
 * IE: Ticket #110, Dropdowns
-* IE: API signup page
 * IE: Säubern des LESS/CSS für Syntax-Probs
 * IE: Konsolidieren der Farben
 * JS: Tests rund um Classes/Prototype-Pattern, Properties anstellen

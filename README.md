@@ -19,11 +19,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] IE: #107 Makefile aktualisieren
+- [x] IE: #107 Makefile aktualisieren
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben
 - [ ] IE: #425 Neuer A/B-Test
 - [x] MM: Anleitung für Cora schreiben
+- [ ] MM: Cora wg File-Länge ansprechen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
@@ -33,7 +34,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?
 - [ ] Hs: Grunt Tasks schreiben
 - [ ] aas: Bugfix für Verweis auf aasaas
-- [ ] Makler #1 anschreiben
+- [x] Makler #1 anschreiben
 - [ ] Makler #2 anschreiben
 - [ ] Makler #3 besuchen
 	

@@ -50,18 +50,6 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Makler aufschreiben
 - [ ] Makler aufsuchen
 - [x] UmSt-Voranmeldung*
-
-- Konfig-Button/#595 (nur auf Mobile ausblenden oder auch Tablet?, Ticket lesen)
-- Tracking-Task bewerten (#859 ggf #860) wie kann es vereinfacht werden
-- Grunt schreiben
-- Dienstag Anwesenheit anpeilen
-- Do. 16 Uhr Nav-Struktur, Seb Ahlen-Thema. 
-- Navigatuon wird doppelt asgespielt
-
-- Fr 13h30 Easybib
-
-- JS umhängen
-	- nur im Patternlab-Bereich. Noch nicht im Studio
 	
 
 

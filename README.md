@@ -24,7 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben
 - [ ] IE: #425 Neuer A/B-Test
 - [x] MM: Anleitung für Cora schreiben
-- [ ] MM: Cora wg File-Länge ansprechen*
+- [x] MM: Cora wg File-Länge ansprechen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

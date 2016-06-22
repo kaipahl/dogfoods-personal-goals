@@ -29,8 +29,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] Hs: Mobile Navigation anpassen
-- [ ] Hs: poll-to-session.js-Ticket fertig machen
-- [ ] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)
+- [ ] Hs: Release Notes angucken*
+- [x] Hs: poll-to-session.js-Ticket fertig machen
+- [x] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)
 - [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?
 - [ ] Hs: Grunt Tasks schreiben
 - [ ] aas: Bugfix für Verweis auf aasaas

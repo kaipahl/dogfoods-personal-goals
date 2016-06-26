@@ -10,33 +10,30 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 25/2016, ab Montag, 20.06.2016
+# KW 26/2016, ab Montag, 27.06.2016
 
 
 ### This Week's Goal: 
-* IE: Schlachtplan für Refactoring überlegen
+* IE: Frontend-Konzept für Form-API
 
 
 
 ## Things I'll Do This Week:
-- [x] IE: #107 Makefile aktualisieren
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
-- [ ] IE: Markup und Wünsche an Forms-API aufschreiben
+- [ ] IE: Forms-Markup in Patternlab anlegen
 - [ ] IE: #425 Neuer A/B-Test
-- [x] IE: Fitmachen des EB-Patternlabs*
-- [x] MM: Anleitung für Cora schreiben
-- [x] MM: Cora wg File-Länge ansprechen*
+- [ ] IE: Stundenzettel klar machen
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] Hs: Mobile Navigation anpassen
-- [x] Hs: Release Notes angucken*
-- [x] Hs: poll-to-session.js-Ticket fertig machen
-- [x] Hs: #595 Konfig-Btn ausblenden (Ticket lesen: nur Mobile oder auch Tablet?)
-- [ ] Hs: #859 und ggf #860: Tracking-Tickets bewerten. Skripts vereinfachbar?
-- [ ] Hs: Grunt Tasks schreiben
+- [ ] Hs: Muss AJAX-Call zur Persistierung wieder raus?
+- [ ] Hs: Grunt Task (SCSS) schreiben
+- [ ] Hs: Grunt Task (Copy) schreiben
+- [ ] Hs: Grunt Task (Patternlab) schreiben
+- [ ] Hs: Vorbereitung Sprint Planning
+- [ ] Hs: Sprint Planning
+- [ ] Hs: Stundenzettel klar machen
 - [ ] aas: Bugfix für Verweis auf aasaas
-- [x] Makler #1 anschreiben
 - [ ] Makler #2 anschreiben
 - [ ] Makler #3 besuchen
 	

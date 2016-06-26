@@ -23,7 +23,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
 - [ ] IE: Markup und Wünsche an Forms-API aufschreiben
 - [ ] IE: #425 Neuer A/B-Test
-- [ ] IE: Fitmachen des EB-Patternlabs*
+- [x] IE: Fitmachen des EB-Patternlabs*
 - [x] MM: Anleitung für Cora schreiben
 - [x] MM: Cora wg File-Länge ansprechen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop

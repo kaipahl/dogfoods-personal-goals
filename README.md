@@ -21,6 +21,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 ## Things I'll Do This Week:
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
 - [ ] IE: Forms-Markup in Patternlab anlegen
+- [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] IE: #425 Neuer A/B-Test
 - [ ] IE: Stundenzettel klar machen
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop

@@ -27,7 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] Hs: Muss AJAX-Call zur Persistierung wieder raus?
+- [x] Hs: Muss AJAX-Call zur Persistierung wieder raus?
 - [ ] Hs: Grunt Task (SCSS) schreiben
 - [ ] Hs: Grunt Task (Copy) schreiben
 - [ ] Hs: Grunt Task (Patternlab) schreiben

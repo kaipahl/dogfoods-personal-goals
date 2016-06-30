@@ -19,7 +19,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
+- [x] IE: #399 Werbung auf Registrierungs- und Loginseite
 - [x] IE: #399 Keine leere Ad-DIVs ausspielen*
 - [x] IE: #399 Tracking nur bei ausgespielter Werbung triggern*
 - [x] IE: #399 Klärung ob $this->seesAds richtige Flag ist*

@@ -20,9 +20,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: #399 Werbung auf Registrierungs- und Loginseite
-- [ ] IE: #399 Keine leere Ad-DIVs ausspielen*
-- [ ] IE: #399 Tracking nur bei ausgespielter Werbung triggern*
-- [ ] IE: #399 Klärung ob $this->seesAds richtige Flag ist*
+- [x] IE: #399 Keine leere Ad-DIVs ausspielen*
+- [x] IE: #399 Tracking nur bei ausgespielter Werbung triggern*
+- [x] IE: #399 Klärung ob $this->seesAds richtige Flag ist*
 - [ ] IE: #399 Klärung ob ein oder zwei Leaderboards*
 - [x] IE: Forms-Markup in Patternlab anlegen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente

@@ -29,8 +29,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Einrichten der neuen Office-Accounts*
 - [x] IE: Forms-Markup in Patternlab anlegen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: Stundenzettel klar machen
-- [ ] IE: Rechnung*
+- [x] IE: Stundenzettel klar machen
+- [x] IE: Rechnung*
 - [ ] IE: #399 Re-Positionierung des Ad-Slots*
 - [ ] IE: #399 Report this Ad hinzufügen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop

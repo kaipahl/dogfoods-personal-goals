@@ -24,7 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #399 Tracking nur bei ausgespielter Werbung triggern*
 - [x] IE: #399 Klärung ob $this->seesAds richtige Flag ist*
 - [x] IE: #399 Klärung ob ein oder zwei Leaderboards*
-- [ ] IE: #425 400x300er-Video-Ad (Fat Rect) auf view-Page
+- [ ] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen*
 - [x] IE: Forms-Markup in Patternlab anlegen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente

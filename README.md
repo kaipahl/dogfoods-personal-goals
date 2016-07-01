@@ -36,8 +36,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hs: Grunt Task (SCSS) schreiben
 - [ ] Hs: Grunt Task (Copy) schreiben
 - [ ] Hs: Grunt Task (Patternlab) schreiben
-- [ ] Hs: Vorbereitung Sprint Planning
-- [ ] Hs: Sprint Planning
+- [x] Hs: Vorbereitung Sprint Planning
+- [x] Hs: Sprint Planning
 - [ ] Hs: Stundenzettel klar machen
 - [ ] aas: Bugfix für Verweis auf aasaas
 - [ ] Makler #2 anschreiben

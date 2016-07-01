@@ -26,9 +26,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #399 Klärung ob ein oder zwei Leaderboards*
 - [ ] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen*
+- [x] IE: Einrichten der neuen Office-Accounts*
 - [x] IE: Forms-Markup in Patternlab anlegen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] IE: Stundenzettel klar machen
+- [ ] IE: Rechnung*
+- [ ] IE: #399 Re-Positionierung des Ad-Slots*
+- [ ] IE: #399 Report this Ad hinzufügen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets & 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
@@ -38,7 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hs: Grunt Task (Patternlab) schreiben
 - [x] Hs: Vorbereitung Sprint Planning
 - [x] Hs: Sprint Planning
-- [ ] Hs: Stundenzettel klar machen
+- [x] Hs: Stundenzettel klar machen
 - [ ] aas: Bugfix für Verweis auf aasaas
 - [ ] Makler #2 anschreiben
 - [ ] Makler #3 besuchen

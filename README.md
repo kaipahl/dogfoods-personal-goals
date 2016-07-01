@@ -43,6 +43,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Hs: Vorbereitung Sprint Planning
 - [x] Hs: Sprint Planning
 - [x] Hs: Stundenzettel klar machen
+- [x] Hs: #422 Untersuchen warum ping-to-session durch QA gefallen*
+- [x] Hs: #595 Bugfix Konfigbutton auf beiden Seiten, DE und EN*
 - [ ] aas: Bugfix für Verweis auf aasaas
 - [ ] Makler #2 anschreiben
 - [ ] Makler #3 besuchen

@@ -10,49 +10,29 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 26/2016, ab Montag, 27.06.2016
+# KW 27/2016, ab Montag, 04.07.2016
 
 
 ### This Week's Goal: 
-* IE: Frontend-Konzept für Form-API
+* Für IE alle drei Ad-Tickets erledigen
 
 
 
 ## Things I'll Do This Week:
-- [x] IE: #399 Werbung auf Registrierungs- und Loginseite
-- [x] IE: #399 Keine leere Ad-DIVs ausspielen*
-- [x] IE: #399 Tracking nur bei ausgespielter Werbung triggern*
-- [x] IE: #399 Klärung ob $this->seesAds richtige Flag ist*
-- [x] IE: #399 Klärung ob ein oder zwei Leaderboards*
 - [ ] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
-- [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen*
-- [x] IE: Einrichten der neuen Office-Accounts*
-- [x] IE: Forms-Markup in Patternlab anlegen
+- [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
+- [ ] IE: #399 Re-Positionierung des Ad-Slots
+- [ ] IE: #399 Report this Ad hinzufügen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] IE: Stundenzettel klar machen
-- [x] IE: Rechnung*
-- [ ] IE: #399 Re-Positionierung des Ad-Slots*
-- [ ] IE: #399 Report this Ad hinzufügen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
-- [ ] SBA: Einbau Test gg Assets & 404
+- [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] Hs: Muss AJAX-Call zur Persistierung wieder raus?
-- [ ] Hs: Grunt Task (SCSS) schreiben
-- [ ] Hs: Grunt Task (Copy) schreiben
-- [ ] Hs: Grunt Task (Patternlab) schreiben
-- [x] Hs: Vorbereitung Sprint Planning
-- [x] Hs: Sprint Planning
-- [x] Hs: Stundenzettel klar machen
-- [x] Hs: #422 Untersuchen warum ping-to-session durch QA gefallen*
-- [x] Hs: #595 Bugfix Konfigbutton auf beiden Seiten, DE und EN*
 - [ ] aas: Bugfix für Verweis auf aasaas
-- [ ] Makler #2 anschreiben
-- [ ] Makler #3 besuchen
 	
 
 
-### Things I'll Do This Month: Juni 2016
-- [ ] Pocket-Links lesen
+### Things I'll Do This Month: Juli 2016
+- [ ] Zwei .net-Ausgaben lesen
 
 
 ### Backlog: Side Projects
@@ -60,10 +40,14 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* Makler #2 anschreiben
+* Makler #3 besuchen
 * IE: Ticket #110, Dropdowns
 * IE: Säubern des LESS/CSS für Syntax-Probs
 * IE: Konsolidieren der Farben
 * JS: Tests rund um Classes/Prototype-Pattern, Properties anstellen
+* aas: Eurosport-Scraper umbauen
+* aas: Multisport-Grouping
 * aasDB: MVP für DB-Projekt erstellen (welche Liga, welche Middleware)
 * Neuen Avatar zur Selbstdarstellung überlegen
 * Weiterarbeiten an der About-Seite

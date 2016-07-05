@@ -24,7 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [ ] IE: #399 Report this Ad hinzufügen
 - [ ] IE: #486 anschauen*
-- [ ] IE: Steuerformular ausfüllen*
+- [x] IE: Steuerformular ausfüllen*
 - [ ] IE: Workflow für Ad-Slot-Bestückung geradeziehen*
 - [x] Hs: Event-Tracking Lasche, Megadrawer*
 - [ ] Hs: Stundenzettel abgleichen*

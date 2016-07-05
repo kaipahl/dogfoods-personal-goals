@@ -24,6 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [ ] IE: #399 Report this Ad hinzufügen
 - [ ] IE: #486 anschauen*
+- [x] Hs: Event-Tracking Lasche, Megadrawer*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

@@ -24,7 +24,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [ ] IE: #399 Report this Ad hinzufügen
 - [ ] IE: #486 anschauen*
+- [ ] IE: Steuerformular ausfüllen*
+- [ ] IE: Workflow für Ad-Slot-Bestückung geradeziehen*
 - [x] Hs: Event-Tracking Lasche, Megadrawer*
+- [ ] Hs: Stundenzettel abgleichen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

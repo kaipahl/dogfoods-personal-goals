@@ -27,7 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Steuerformular ausfüllen*
 - [ ] IE: Workflow für Ad-Slot-Bestückung geradeziehen*
 - [x] Hs: Event-Tracking Lasche, Megadrawer*
-- [ ] Hs: Stundenzettel abgleichen*
+- [x] Hs: Stundenzettel abgleichen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

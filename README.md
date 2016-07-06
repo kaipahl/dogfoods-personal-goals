@@ -20,12 +20,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
+- [ ] IE: #425 Dummy-Screenshot für DC*
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #399 "Report this Ad" hinzufügen
+- [ ] IE: #399 "Report this Ad" (bei allen Ads) hinzufügen
 - [x] IE: #486 anschauen*
-- [ ] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*
-- [ ] IE: #486 Verzögert sich durch AA Aufbau der Seite (Screenshots)?*
+- [x] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*
+- [x] IE: #486 Verzögert sich durch AA Aufbau der Seite (Screenshots)?*
 - [ ] IE: #486 Kann man Effekt von AA auf Werbung absehen?*
 - [x] IE: Steuerformular ausfüllen*
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*

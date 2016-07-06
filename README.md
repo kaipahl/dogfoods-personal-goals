@@ -22,12 +22,16 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #399 Report this Ad hinzufügen
-- [ ] IE: #486 anschauen*
+- [ ] IE: #399 "Report this Ad" hinzufügen
+- [x] IE: #486 anschauen*
+- [ ] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*
+- [ ] IE: #486 Verzögert sich durch AA Aufbau der Seite (Screenshots)?*
+- [ ] IE: #486 Kann man Effekt von AA auf Werbung absehen?*
 - [x] IE: Steuerformular ausfüllen*
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
 - [x] Hs: Event-Tracking Lasche, Megadrawer*
 - [x] Hs: Stundenzettel abgleichen*
+- [ ] Hs: Fix vertikale Abstände SELECT-Boxen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

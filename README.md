@@ -41,7 +41,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aas: Bugfix für Verweis auf aasaas
 
 	
-
+\*: Im Laufe der Woche dazu gekommen. 
 
 ### Things I'll Do This Month: Juli 2016
 - [ ] Zwei .net-Ausgaben lesen

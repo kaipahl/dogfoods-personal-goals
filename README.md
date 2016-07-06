@@ -23,7 +23,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #425 Dummy-Screenshot für DC*
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #399 "Report this Ad" (bei allen Ads) hinzufügen
+- [ ] IE: Ticket für "Report this Ad" schreiben*
+- [ ] IE: #xxx "Report this Ad" (bei allen Ads) hinzufügen*
 - [x] IE: #486 anschauen*
 - [x] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*
 - [x] IE: #486 Verzögert sich durch AA Aufbau der Seite (Screenshots)?*

@@ -24,11 +24,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [ ] IE: Ticket für "Report this Ad" schreiben*
-- [ ] IE: #xxx "Report this Ad" (bei allen Ads) hinzufügen*
+- [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen*
 - [x] IE: #486 anschauen*
 - [x] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*
 - [x] IE: #486 Verzögert sich durch AA Aufbau der Seite (Screenshots)?*
-- [ ] IE: #486 Kann man Effekt von AA auf Werbung absehen?*
+- [x] IE: #486 Kann man Effekt von AA auf Werbung absehen?*
 - [x] IE: Steuerformular ausfüllen*
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
 - [x] Hs: Event-Tracking Lasche, Megadrawer*

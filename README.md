@@ -19,11 +19,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [ ] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
-- [ ] IE: #425 Dummy-Screenshot für DC*
+- [x] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
+- [ ] IE: #425 Video-Ad: neuer Ad slot code*
+- [x] IE: #425 Dummy-Screenshot für DC*
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: Ticket für "Report this Ad" schreiben*
+- [x] IE: Ticket für "Report this Ad" schreiben*
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen*
 - [x] IE: #486 anschauen*
 - [x] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*

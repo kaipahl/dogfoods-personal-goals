@@ -32,10 +32,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #486 Kann man Effekt von AA auf Werbung absehen?*
 - [x] IE: Steuerformular ausfüllen*
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
+- [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads*
+- [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] Hs: Event-Tracking Lasche, Megadrawer*
 - [x] Hs: Stundenzettel abgleichen*
-- [ ] Hs: Fix vertikale Abstände SELECT-Boxen*
-- [ ] IE: Screenshots aller bestehenden Form-Elemente
+- [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
+- [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
+- [ ] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

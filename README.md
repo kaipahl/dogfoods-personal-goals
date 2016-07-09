@@ -42,6 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
+- [x] H: Website-Aktualisierung*
 - [ ] aas: Bugfix für Verweis auf aasaas
 
 	

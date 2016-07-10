@@ -10,7 +10,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 27/2016, ab Montag, 04.07.2016
+# KW 28/2016, ab Montag, 114.07.2016
 
 
 ### This Week's Goal: 
@@ -19,31 +19,20 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [x] IE: #425 400x300er-Video-Ad (VidRect) auf view-Page
 - [ ] IE: #425 Video-Ad: neuer Ad slot code*
-- [x] IE: #425 Dummy-Screenshot für DC*
 - [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [x] IE: Ticket für "Report this Ad" schreiben*
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen*
-- [x] IE: #486 anschauen*
-- [x] IE: #486 Wann wird AA geladen, verzögert es das Lade-Timing?*
-- [x] IE: #486 Verzögert sich durch AA Aufbau der Seite (Screenshots)?*
-- [x] IE: #486 Kann man Effekt von AA auf Werbung absehen?*
-- [x] IE: Steuerformular ausfüllen*
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] Hs: Event-Tracking Lasche, Megadrawer*
-- [x] Hs: Stundenzettel abgleichen*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
 - [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
 - [ ] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
+- [ ] Hs: Rechnung schreiben*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] H: Website-Aktualisierung*
-- [x] aas: Bugfix für Verweis auf aasaas
 
 	
 \*: Im Laufe der Woche dazu gekommen. 

@@ -71,7 +71,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * Putzen des LinkedIn-Profils
 * Putzen des Xing-Profils
 * Blogeintrag über AMP
-* Schreiben der zeit.de-Analyse
 * aas-App: Entscheiden welches MVC-Framework nehmen, siehe Notizen
 * aas-App: Definition eines MVP und der ersten Steps
 * Nächsten Steps für kaipahl.de überlegen

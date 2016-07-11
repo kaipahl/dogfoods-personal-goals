@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: #425 Video-Ad: neuer Ad slot code*
-- [ ] IE: #396 Sidebar-Ads _permanent_ hochziehen
+- [x] IE: #396 Sidebar-Ads _permanent_ hochziehen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen*
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*

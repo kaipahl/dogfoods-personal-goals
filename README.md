@@ -26,6 +26,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
+- [ ] IE: ED/#520 main page*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
 - [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
 - [ ] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*

@@ -29,7 +29,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: ED/#520 main page*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
 - [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
-- [ ] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
+- [x] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
 - [ ] Hs: Rechnung schreiben*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

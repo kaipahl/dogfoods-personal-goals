@@ -38,6 +38,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
 - [ ] Hs: #983 .inline-link fixen*
 - [ ] Hs: Rechnung schreiben*
+- [ ] Hs: WPD-PoC anfertigen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

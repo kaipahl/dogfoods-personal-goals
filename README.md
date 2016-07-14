@@ -26,10 +26,17 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: ED/#520 main page*
+- [x] IE: ED/#519 Grunt-Prozess eingezogen*
+- [ ] IE: ED/#519 Grunt: autoprefixer einbauen*
+- [ ] IE: ED/#519 Grunt: PROD-Target bauen*
+- [ ] IE: ED/#519 Neue Buttons erstellen*
+- [ ] IE: ED/#519 Seitenleiste einbauen*
+- [ ] IE: ED/#519 Footer einbauen*
+- [ ] IE: #486 Performance Tests mit AA wiederholen*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
 - [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
 - [x] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
+- [ ] Hs: #983 .inline-link fixen*
 - [ ] Hs: Rechnung schreiben*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

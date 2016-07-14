@@ -27,11 +27,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] IE: ED/#519 Grunt-Prozess eingezogen*
-- [ ] IE: ED/#519 Grunt: autoprefixer einbauen*
-- [ ] IE: ED/#519 Grunt: PROD-Target bauen*
-- [ ] IE: ED/#519 Neue Buttons erstellen*
+- [x] IE: ED/#519 Grunt: autoprefixer einbauen*
+- [x] IE: ED/#519 Grunt: PROD-Target bauen*
+- [x] IE: ED/#519 Neue Buttons erstellen*
 - [ ] IE: ED/#519 Seitenleiste einbauen*
 - [ ] IE: ED/#519 Footer einbauen*
+- [x] IE: ED/#519 Refactoring des CSS quick'n'dirty*
 - [ ] IE: #486 Performance Tests mit AA wiederholen*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
 - [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*

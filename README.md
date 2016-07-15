@@ -35,11 +35,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: ED/#519 Refactoring des CSS quick'n'dirty*
 - [ ] IE: #486 Performance Tests mit AA wiederholen*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
-- [ ] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
+- [x] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
 - [x] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
 - [ ] Hs: #983 .inline-link fixen*
+- [x] Hs: #859 Tracking deployed*
 - [ ] Hs: Rechnung schreiben*
-- [ ] Hs: WPD-PoC anfertigen*
+- [ ] Hs: #1059 WPD-PoC anfertigen*
 - [x] Hs: Übergabe FE-Paket*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

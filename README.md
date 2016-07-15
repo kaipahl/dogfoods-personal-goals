@@ -33,7 +33,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: ED/#519 Seitenleiste einbauen*
 - [ ] IE: ED/#519 Footer einbauen*
 - [x] IE: ED/#519 Refactoring des CSS quick'n'dirty*
-- [ ] IE: #486 Performance Tests mit AA wiederholen*
+- [x] IE: #486 Performance Tests mit AA wiederholen*
 - [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
 - [x] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
 - [x] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*

@@ -40,7 +40,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Hs: #983 .inline-link fixen*
 - [x] Hs: #859 Tracking deployed*
 - [ ] Hs: Rechnung schreiben*
-- [ ] Hs: #1059 WPD-PoC anfertigen*
+- [x] Hs: #1059 WPD-PoC anfertigen*
 - [x] Hs: Übergabe FE-Paket*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

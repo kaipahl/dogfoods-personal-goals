@@ -10,38 +10,24 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 28/2016, ab Montag, 114.07.2016
+# KW 29/2016, ab Montag, 18.07.2016
 
 
 ### This Week's Goal: 
-* Für IE alle drei Ad-Tickets erledigen
+* Entscheidung wie es mit Ads in IE weiter geht
 
 
 
 ## Things I'll Do This Week:
-- [ ] IE: #425 Video-Ad: neuer Ad slot code*
-- [x] IE: #396 Sidebar-Ads _permanent_ hochziehen
+- [ ] IE: #425 Video-Ad: neuer Ad slot code
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen*
-- [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen*
-- [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads*
+- [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
+- [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
+- [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
+- [ ] IE: ED/#519 Seitenleiste einbauen
+- [ ] IE: ED/#519 Footer einbauen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] IE: ED/#519 Grunt-Prozess eingezogen*
-- [x] IE: ED/#519 Grunt: autoprefixer einbauen*
-- [x] IE: ED/#519 Grunt: PROD-Target bauen*
-- [x] IE: ED/#519 Neue Buttons erstellen*
-- [ ] IE: ED/#519 Seitenleiste einbauen*
-- [ ] IE: ED/#519 Footer einbauen*
-- [x] IE: ED/#519 Refactoring des CSS quick'n'dirty*
-- [x] IE: #486 Performance Tests mit AA wiederholen*
-- [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen*
-- [x] Hs: #170 Absprache wg Aufwände für SELECT-Box-Fix*
-- [x] Hs: #983 Absprache wg Aufwände für .inline-link-Fix*
-- [x] Hs: #983 .inline-link fixen*
-- [x] Hs: #859 Tracking deployed*
-- [x] Hs: Rechnung schreiben*
-- [x] Hs: #1059 WPD-PoC anfertigen*
-- [x] Hs: Übergabe FE-Paket*
+- [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

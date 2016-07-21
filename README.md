@@ -27,10 +27,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: ED/#519 Seitenleiste einbauen
 - [ ] IE: ED/#519 Footer einbauen
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] Hs: #170 Fix vertikale Abstände SELECT-Boxen
+- [x] Hs: #170 Fix vertikale Abstände SELECT-Boxen
+- [ ] Hs: Evaluierung Patternlab*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
+- [ ] aasScraper: at-2 auf 2016/17 umstellen*
+- [ ] aasScraper: at-1 auf 2016/17 umstellen*
 
 	
 \*: Im Laufe der Woche dazu gekommen. 
@@ -44,9 +47,9 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
+* Hs: #1051 Pfeil-Icons zur Tabellensortierung
 * Makler #2 anschreiben
 * Makler #3 besuchen
-* IE: Ticket #110, Dropdowns
 * IE: Säubern des LESS/CSS für Syntax-Probs
 * IE: Konsolidieren der Farben
 * JS: Tests rund um Classes/Prototype-Pattern, Properties anstellen

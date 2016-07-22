@@ -32,9 +32,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] aasScraper: at-2 auf 2016/17 umstellen*
+- [x] aasScraper: at-2 auf 2016/17 umstellen*
 - [ ] aasScraper: at-1 auf 2016/17 umstellen*
 - [ ] aasScraper: Doppelspieltage at-2 einbauen*
+- [ ] aasScraper: Vorberichte at-2 einbauen*
 
 	
 \*: Im Laufe der Woche dazu gekommen. 

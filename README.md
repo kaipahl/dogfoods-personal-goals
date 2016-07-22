@@ -24,8 +24,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
-- [ ] IE: ED/#519 Seitenleiste einbauen
+- [x] IE: ED/#519 Seitenleiste einbauen
+- [ ] IE: ED/#519 Header einbauen*
 - [ ] IE: ED/#519 Footer einbauen
+- [ ] IE: ED/#519 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] Hs: #170 Fix vertikale Abstände SELECT-Boxen
 - [ ] Hs: Evaluierung Patternlab*

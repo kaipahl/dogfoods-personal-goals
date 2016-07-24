@@ -10,11 +10,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 29/2016, ab Montag, 18.07.2016
+# KW 30/2016, ab Montag, 25.07.2016
 
 
-### This Week's Goal: 
-* Entscheidung wie es mit Ads in IE weiter geht
+### This Week's Goal:
+* Paket für IE schnüren
 
 
 
@@ -24,23 +24,21 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
-- [x] IE: ED/#519 Seitenleiste einbauen
-- [ ] IE: ED/#519 Header einbauen*
-- [ ] IE: ED/#519 Footer einbauen
 - [ ] IE: ED/#519 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] Hs: #170 Fix vertikale Abstände SELECT-Boxen
-- [ ] Hs: Evaluierung Patternlab*
+- [ ] Hs: #1051 Pfeil-Icons zur Tabellensortierung
+- [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
+- [ ] Hs: #1042 Overlay schließt bei Abklicken nicht
+- [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] aasScraper: at-2 auf 2016/17 umstellen*
 - [ ] aasScraper: at-1 auf 2016/17 umstellen*
 - [ ] aasScraper: Doppelspieltage at-2 einbauen*
 - [ ] aasScraper: Vorberichte at-2 einbauen*
 
-	
-\*: Im Laufe der Woche dazu gekommen. 
+
+\*: Im Laufe der Woche dazu gekommen.
 
 ### Things I'll Do This Month: Juli 2016
 - [ ] Zwei .net-Ausgaben lesen
@@ -51,8 +49,10 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
-* Hs: #1051 Pfeil-Icons zur Tabellensortierung
-* Makler #2 anschreiben
+* aasScraper: de-1 auf 2016/17 umstellen
+* aasScraper: de-2 auf 2016/17 umstellen
+* aasScraper: en-1 auf 2016/17 umstellen
+* aasToggler: Junioren-Turniere BBall nicht unter Teamsport
 * Makler #3 besuchen
 * IE: Säubern des LESS/CSS für Syntax-Probs
 * IE: Konsolidieren der Farben

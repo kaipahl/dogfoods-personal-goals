@@ -34,6 +34,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] aasScraper: at-1 auf 2016/17 umstellen*
+- [ ] aasScraper: broadcastDate in DateTimeHelper einführen*
+- [ ] aasScraper: Auswertung broadcastDate in print-Routine*
 - [ ] aasScraper: Doppelspieltage at-2 einbauen*
 - [ ] aasScraper: Vorberichte at-2 einbauen*
 

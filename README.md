@@ -38,7 +38,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aasScraper: Auswertung broadcastDate in print-Routine*
 - [ ] aasScraper: Doppelspieltage at-2 einbauen*
 - [ ] aasScraper: Vorberichte at-2 einbauen*
-- [ ] h: Seminar-Update*
+- [x] h: Seminar-Update*
 - [ ] SBA: Update*
 - [ ] Franz. Konsulat anrufen*
 - [ ] Zum franz. Konsulat gehen*

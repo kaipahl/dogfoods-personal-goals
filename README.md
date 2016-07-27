@@ -26,11 +26,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: ED/#519 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] Hs: #1051 Pfeil-Icons zur Tabellensortierung
+- [x] Hs: #1051 Pfeil-Icons zur Tabellensortierung
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1042 Overlay schließt bei Abklicken nicht
 - [ ] Hs: #1034 Kontext-Links schließen nicht
-- [ ] Hs: PoC für iFrame-Umleitung*
+- [ ] Hs: #1061: PoC für iFrame-Umleitung*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

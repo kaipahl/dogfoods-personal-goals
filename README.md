@@ -24,7 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
-- [ ] IE: ED/#519 Formulare einbauen*
+- [ ] IE: ED/#578 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] Hs: #1051 Pfeil-Icons zur Tabellensortierung
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
@@ -40,7 +40,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aasScraper: Doppelspieltage at-2 einbauen*
 - [ ] aasScraper: Vorberichte at-2 einbauen*
 - [x] h: Seminar-Update*
-- [ ] SBA: Update*
+- [x] SBA: Update*
 - [ ] Franz. Konsulat anrufen*
 - [ ] Zum franz. Konsulat gehen*
 - [ ] Procuration verschicken*

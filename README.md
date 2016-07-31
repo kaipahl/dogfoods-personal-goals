@@ -26,9 +26,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: ED/#578 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
+- [ ] IE: Neuen Vertrag durchlesen*
+- [ ] IE: Neuen Styleguide durchlesen*
 - [x] Hs: #1051 Pfeil-Icons zur Tabellensortierung
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
-- [ ] Hs: #1042 Overlay schließt bei Abklicken nicht
+- [x] Hs: #1042 Overlay schließt bei Abklicken nicht
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [x] Hs: #1061: PoC für iFrame-Umleitung*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
@@ -40,6 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aasScraper: Doppelspieltage at-2 einbauen*
 - [ ] aasScraper: Vorberichte at-2 einbauen*
 - [x] h: Seminar-Update*
+- [ ] h: Einladungskarte machen*
 - [x] SBA: Update*
 - [ ] Franz. Konsulat anrufen*
 - [ ] Zum franz. Konsulat gehen*

@@ -36,11 +36,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] aasScraper: at-1 auf 2016/17 umstellen*
+- [x] aasScraper: at-1 auf 2016/17 umstellen*
 - [x] aasScraper: broadcastDate in DateTimeHelper einführen*
-- [ ] aasScraper: Auswertung broadcastDate in print-Routine*
+- [x] aasScraper: Auswertung broadcastDate in print-Routine*
 - [x] aasScraper: Doppelspieltage at-2 einbauen*
 - [x] aasToggler: Junioren-Turniere BBall nicht unter Teamsport*
+- [x] aasScraper: de-2 auf 2016/17 umstellen*
+- [x] aasScraper: de-1 auf 2016/17 umstellen*
 - [x] h: Seminar-Update*
 - [ ] h: Einladungskarte machen*
 - [x] SBA: Update*
@@ -60,8 +62,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
-* aasScraper: de-1 auf 2016/17 umstellen
-* aasScraper: de-2 auf 2016/17 umstellen
 * aasScraper: en-1 auf 2016/17 umstellen
 * aasScraper: Vorberichte at-2 einbauen*
 * Makler #3 besuchen

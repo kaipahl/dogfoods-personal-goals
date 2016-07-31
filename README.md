@@ -10,11 +10,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 30/2016, ab Montag, 25.07.2016
+# KW 31/2016, ab Montag, 01.08.2016
 
 
 ### This Week's Goal:
-* Paket für IE schnüren
+* Ohne Burn-Out ins Wochenende kommen.
 
 
 
@@ -24,38 +24,21 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
-- [ ] IE: ED/#578 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] IE: Neuen Vertrag durchlesen, unterzeichnen, abschicken*
-- [ ] IE: Neuen Styleguide durchlesen*
-- [x] Hs: #1051 Pfeil-Icons zur Tabellensortierung
+- [ ] IE: Neuen Styleguide durchlesen
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
-- [x] Hs: #1042 Overlay schließt bei Abklicken nicht
 - [ ] Hs: #1034 Kontext-Links schließen nicht
-- [x] Hs: #1061: PoC für iFrame-Umleitung*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] aasScraper: at-1 auf 2016/17 umstellen*
-- [x] aasScraper: broadcastDate in DateTimeHelper einführen*
-- [x] aasScraper: Auswertung broadcastDate in print-Routine*
-- [x] aasScraper: Doppelspieltage at-2 einbauen*
-- [x] aasToggler: Junioren-Turniere BBall nicht unter Teamsport*
-- [x] aasScraper: de-2 auf 2016/17 umstellen*
-- [x] aasScraper: de-1 auf 2016/17 umstellen*
-- [x] aasScraper: it-1 auf 2016/17 umstellen*
-- [x] h: Seminar-Update*
-- [x] h: Einladungskarte machen*
-- [x] SBA: Update*
-- [x] Franz. Konsulat anrufen*
-- [ ] Notar anrufen, Termin vereinbaren*
-- [ ] Procuration verschicken*
+- [ ] Notar anrufen, Termin vereinbaren
+- [ ] Procuration verschicken
 
 
 \*: Im Laufe der Woche dazu gekommen.
 
-### Things I'll Do This Month: Juli 2016
-- [ ] Zwei .net-Ausgaben lesen
+### Things I'll Do This Month: August 2016
+* Freie Wochenenden
 
 
 ### Backlog: Side Projects

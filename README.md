@@ -26,7 +26,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: ED/#578 Formulare einbauen*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: Neuen Vertrag durchlesen*
+- [x] IE: Neuen Vertrag durchlesen, unterzeichnen, abschicken*
 - [ ] IE: Neuen Styleguide durchlesen*
 - [x] Hs: #1051 Pfeil-Icons zur Tabellensortierung
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
@@ -43,8 +43,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aasToggler: Junioren-Turniere BBall nicht unter Teamsport*
 - [x] aasScraper: de-2 auf 2016/17 umstellen*
 - [x] aasScraper: de-1 auf 2016/17 umstellen*
+- [x] aasScraper: it-1 auf 2016/17 umstellen*
 - [x] h: Seminar-Update*
-- [ ] h: Einladungskarte machen*
+- [x] h: Einladungskarte machen*
 - [x] SBA: Update*
 - [x] Franz. Konsulat anrufen*
 - [ ] Notar anrufen, Termin vereinbaren*

@@ -40,12 +40,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aasScraper: broadcastDate in DateTimeHelper einführen*
 - [ ] aasScraper: Auswertung broadcastDate in print-Routine*
 - [x] aasScraper: Doppelspieltage at-2 einbauen*
-- [ ] aasScraper: Vorberichte at-2 einbauen*
+- [x] aasToggler: Junioren-Turniere BBall nicht unter Teamsport*
 - [x] h: Seminar-Update*
 - [ ] h: Einladungskarte machen*
 - [x] SBA: Update*
-- [ ] Franz. Konsulat anrufen*
-- [ ] Zum franz. Konsulat gehen*
+- [x] Franz. Konsulat anrufen*
+- [ ] Notar anrufen, Termin vereinbaren*
 - [ ] Procuration verschicken*
 
 
@@ -63,7 +63,7 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * aasScraper: de-1 auf 2016/17 umstellen
 * aasScraper: de-2 auf 2016/17 umstellen
 * aasScraper: en-1 auf 2016/17 umstellen
-* aasToggler: Junioren-Turniere BBall nicht unter Teamsport
+* aasScraper: Vorberichte at-2 einbauen*
 * Makler #3 besuchen
 * IE: Säubern des LESS/CSS für Syntax-Probs
 * IE: Konsolidieren der Farben

@@ -20,9 +20,13 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] IE: #425 Video-Ad: neuer Ad slot code
+- [x] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
+- [x] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
-- [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
+- [ ] IE: #399 Umbau Spalte Social Btns (Markup, schmaler)*
+- [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
+- [ ] IE: #399 Umbau row auf Flex-Box*
+- [ ] IE: #399 Ad als dritte Spalte in Flex-Box einhängen*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] IE: Neuen Styleguide durchlesen

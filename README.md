@@ -25,7 +25,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: Neuen Styleguide durchlesen
+- [x] IE: Neuen Styleguide durchlesen
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
@@ -33,6 +33,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] Notar anrufen, Termin vereinbaren
 - [ ] Procuration verschicken
+- [ ] aas: Olympia-Sendezeiten einbauen*
+- [ ] aas: Olympia-Inhalte einbauen*
+- [ ] aasScraper: en-1 auf 2016/17 umstellen*
 
 
 \*: Im Laufe der Woche dazu gekommen.
@@ -46,7 +49,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 
 
 ### Backlog: Code Things I Want to Do/Play With
-* aasScraper: en-1 auf 2016/17 umstellen
 * aasScraper: Vorberichte at-2 einbauen*
 * Makler #3 besuchen
 * IE: Säubern des LESS/CSS für Syntax-Probs

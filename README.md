@@ -34,6 +34,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] Notar anrufen, Termin vereinbaren
 - [ ] Procuration verschicken
+- [ ] aas: Olympia-Sendezeiten einbauen*
+- [ ] aas: Olympia-Inhalte einbauen*
+- [ ] aasScraper: en-1 auf 2016/17 umstellen*
 
 
 \*: Im Laufe der Woche dazu gekommen.
@@ -46,8 +49,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources/pet-projects.md)
 
 
-### Backlog: Code Things I Want to Do/Play With
-* aasScraper: en-1 auf 2016/17 umstellen
+### Backlog: Code Things I Want to Do/Play With### Backlog: Code Things I Want to Do/Play With
 * aasScraper: Vorberichte at-2 einbauen*
 * Makler #3 besuchen
 * IE: Säubern des LESS/CSS für Syntax-Probs

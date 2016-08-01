@@ -33,6 +33,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Stundenzettel*
 - [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1034 Kontext-Links schließen nicht
+- [ ] Hs: #44 Date-Picker auf Android*
+- [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

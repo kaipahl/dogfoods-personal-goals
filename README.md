@@ -24,6 +24,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [ ] IE: #399 Umbau Spalte Social Btns (Markup, schmaler)*
+- [ ] IE: #399 Umbau Janrain (Markup, CSS)*
 - [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
 - [ ] IE: #399 Umbau row auf Flex-Box*
 - [ ] IE: #399 Ad als dritte Spalte in Flex-Box einhängen*

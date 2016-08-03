@@ -23,16 +23,17 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
 - [x] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #399 Umbau Spalte Social Btns (Markup, schmaler)*
+- [x] IE: #399 Umbau Spalte Social Btns (Markup, schmaler)*
 - [ ] IE: #399 Umbau Janrain (Markup, CSS)*
 - [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
-- [ ] IE: #399 Umbau row auf Flex-Box*
-- [ ] IE: #399 Ad als dritte Spalte in Flex-Box einhängen*
+- [x] IE: #399 Umbau row auf Flex-Box*
+- [x] IE: #399 Ad als dritte Spalte in Flex-Box einhängen*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] IE: Neuen Styleguide durchlesen
 - [ ] IE: Stundenzettel*
-- [ ] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
+- [x] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
+- [ ] Hs: #1058 Anzeige auf INT bringen*
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] Hs: #44 Date-Picker auf Android*
 - [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer*

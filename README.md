@@ -32,19 +32,22 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] IE: Neuen Styleguide durchlesen
 - [ ] IE: Stundenzettel*
+- [x] IE: Anmeldung HipChat*
 - [x] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1058 Anzeige auf INT bringen*
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] Hs: #44 Date-Picker auf Android*
 - [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer*
+- [ ] Hs: #xxxx Teaser in Silver*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [ ] Notar anrufen, Termin vereinbaren
 - [ ] Procuration verschicken
-- [ ] aas: Olympia-Sendezeiten einbauen*
+- [x] aas: Olympia-Sendezeiten einbauen*
 - [ ] aas: Olympia-Inhalte einbauen*
 - [ ] aasScraper: en-1 auf 2016/17 umstellen*
+- [ ] hmc: Neuer Termin einbauen*
 
 
 \*: Im Laufe der Woche dazu gekommen.

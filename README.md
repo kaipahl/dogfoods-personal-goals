@@ -33,12 +33,15 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Neuen Styleguide durchlesen
 - [ ] IE: Stundenzettel*
 - [x] IE: Anmeldung HipChat*
+- [x] IE: Fehlerhandling in neuer App*
+- [x] IE: CSS-Finishing in neuer App*
 - [x] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1058 Anzeige auf INT bringen*
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] Hs: #44 Date-Picker auf Android*
 - [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer*
-- [ ] Hs: #xxxx Teaser in Silver*
+- [x] Hs: #xxxx Teaser in Silver*
+- [ ] Hs: #xxxx Teaser in Silver auf INT bringen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner

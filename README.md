@@ -49,8 +49,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Notar anrufen, Termin vereinbaren
 - [ ] Procuration verschicken
 - [x] aas: Olympia-Sendezeiten einbauen*
-- [ ] aas: Olympia-Inhalte einbauen*
-- [ ] aasScraper: en-1 auf 2016/17 umstellen*
+- [x] aas: Olympia-Inhalte einbauen*
+- [x] aasScraper: en-1 auf 2016/17 umstellen*
+- [x] aasScraper: fr-1 auf 2016/17 umstellen*
+- [ ] aasScraper: NFL auf 2016 umstellen*
+- [ ] aasScraper: College Football auf 2016 umstellen*
 - [x] hmc: Neuer Termin einbauen*
 
 

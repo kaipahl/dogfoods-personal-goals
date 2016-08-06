@@ -24,17 +24,17 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
 - [x] IE: #399 Umbau Spalte Social Btns (Markup, schmaler)*
-- [ ] IE: #399 Umbau Janrain (Markup, CSS)*
-- [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
 - [x] IE: #399 Umbau row auf Flex-Box*
 - [x] IE: #399 Ad als dritte Spalte in Flex-Box einhängen*
+- [ ] IE: #399 Umbau Janrain (Markup, CSS)*
+- [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] IE: Neuen Styleguide durchlesen
-- [ ] IE: Stundenzettel*
 - [x] IE: Anmeldung HipChat*
 - [x] IE: Fehlerhandling in neuer App*
 - [x] IE: CSS-Finishing in neuer App*
+- [ ] IE: Stundenzettel*
 - [ ] IE: #615 Google-Button für Login/Signup*
 - [x] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1058 Anzeige auf INT bringen*
@@ -51,7 +51,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] aas: Olympia-Sendezeiten einbauen*
 - [ ] aas: Olympia-Inhalte einbauen*
 - [ ] aasScraper: en-1 auf 2016/17 umstellen*
-- [ ] hmc: Neuer Termin einbauen*
+- [x] hmc: Neuer Termin einbauen*
 
 
 \*: Im Laufe der Woche dazu gekommen.

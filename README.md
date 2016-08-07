@@ -10,7 +10,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 31/2016, ab Montag, 01.08.2016
+# KW 32/2016, ab Montag, 08.08.2016
 
 
 ### This Week's Goal:
@@ -19,29 +19,16 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [x] IE: #425 Video-Ad: neuer Ad slot code
-- [x] IE: #492 Workflow für Ad-Slot-Bestückung geradeziehen
-- [x] IE: #508 "Report this Ad" (bei allen Ads) hinzufügen
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [x] IE: #399 Umbau Spalte Social Btns (Markup, schmaler)*
-- [x] IE: #399 Umbau row auf Flex-Box*
-- [x] IE: #399 Ad als dritte Spalte in Flex-Box einhängen*
 - [ ] IE: #399 Umbau Janrain (Markup, CSS)*
 - [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] IE: Neuen Styleguide durchlesen
-- [x] IE: Anmeldung HipChat*
-- [x] IE: Fehlerhandling in neuer App*
-- [x] IE: CSS-Finishing in neuer App*
-- [x] IE: Stundenzettel*
 - [ ] IE: #615 Google-Button für Login/Signup*
-- [x] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1058 Anzeige auf INT bringen*
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] Hs: #44 Date-Picker auf Android*
 - [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer*
-- [x] Hs: #xxxx Teaser in Silver*
 - [ ] Hs: #xxxx Teaser in Silver auf INT bringen*
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
@@ -55,13 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] av: Erweiterung Bestandsseite*
 - [ ] Notar anrufen, Termin vereinbaren
 - [ ] Procuration verschicken
-- [x] aas: Olympia-Sendezeiten einbauen*
-- [x] aas: Olympia-Inhalte einbauen*
-- [x] aasScraper: en-1 auf 2016/17 umstellen*
-- [x] aasScraper: fr-1 auf 2016/17 umstellen*
-- [x] aasScraper: NFL auf 2016 umstellen*
 - [ ] aasScraper: College Football auf 2016 umstellen*
-- [x] hmc: Neuer Termin einbauen*
 
 
 \*: Im Laufe der Woche dazu gekommen.

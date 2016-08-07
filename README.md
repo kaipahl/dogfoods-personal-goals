@@ -34,7 +34,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: Anmeldung HipChat*
 - [x] IE: Fehlerhandling in neuer App*
 - [x] IE: CSS-Finishing in neuer App*
-- [ ] IE: Stundenzettel*
+- [x] IE: Stundenzettel*
 - [ ] IE: #615 Google-Button für Login/Signup*
 - [x] Hs: #1058 Anzeige von 35 auf 70 Zeichen ausbauen
 - [ ] Hs: #1058 Anzeige auf INT bringen*

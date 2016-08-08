@@ -20,7 +20,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [x] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #399 Umbau Janrain (Markup, CSS)
+- [x] IE: #399 Umbau Janrain (Markup, CSS)
 - [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente

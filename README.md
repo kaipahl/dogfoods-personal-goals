@@ -25,7 +25,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] IE: #615 Google-Button für Login/Signup
-- [ ] IE: Abnehmen von CSS-Metriken der Live-Website*
+- [x] IE: Abnehmen von CSS-Metriken der Live-Website*
 - [ ] Hs: #1058 Anzeige auf INT bringen
 - [ ] Hs: #1034 Kontext-Links schließen nicht
 - [ ] Hs: #44 Date-Picker auf Android

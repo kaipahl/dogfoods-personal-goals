@@ -20,29 +20,31 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: #399 Re-Positionierung des Ad-Slots
-- [ ] IE: #399 Umbau Janrain (Markup, CSS)*
-- [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)*
+- [ ] IE: #399 Umbau Janrain (Markup, CSS)
+- [ ] IE: #399 Umbau Spalte Eingabemaske (schmaler)
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: #615 Google-Button für Login/Signup*
-- [ ] Hs: #1058 Anzeige auf INT bringen*
+- [ ] IE: #615 Google-Button für Login/Signup
+- [ ] Hs: #1058 Anzeige auf INT bringen
 - [ ] Hs: #1034 Kontext-Links schließen nicht
-- [ ] Hs: #44 Date-Picker auf Android*
-- [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer*
-- [ ] Hs: #xxxx Teaser in Silver auf INT bringen*
+- [ ] Hs: #44 Date-Picker auf Android
+- [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer
+- [ ] Hs: #xxxx Teaser in Silver auf INT bringen
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] av: Messe-Logo in Navi-Leiste rausnehmen*
-- [ ] av: Messe-Seite rausnehmen*
-- [ ] av: Londoner Messe-Logo in Navi-Leiste reinnehmen*
-- [ ] av: Niederländisches Messe-Logo in Navi-Leiste reinnehmen*
-- [ ] av: Neue Londoner Messe-Seite*
-- [ ] av: Neue Niederländisches Messe-Logo*
-- [ ] av: Erweiterung Bestandsseite*
-- [ ] Notar anrufen, Termin vereinbaren
+- [ ] av: Messe-Logo in Navi-Leiste rausnehmen
+- [ ] av: Messe-Seite rausnehmen
+- [ ] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
+- [ ] av: Niederländisches Messe-Logo in Navi-Leiste reinnehmen
+- [ ] av: Neue Londoner Messe-Seite
+- [ ] av: Neue Niederländisches Messe-Logo
+- [ ] av: Erweiterung Bestandsseite
+- [x] Notar anrufen, Termin vereinbaren
+- [ ] Notar-Termin*
+- [ ] Vertrag abschicken*
 - [ ] Procuration verschicken
-- [ ] aasScraper: College Football auf 2016 umstellen*
+- [ ] aasScraper: College Football auf 2016 umstellen
 
 
 \*: Im Laufe der Woche dazu gekommen.

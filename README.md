@@ -28,10 +28,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #636 Flash-Messages*
 - [x] IE: Abnehmen von CSS-Metriken der Live-Website*
 - [x] Hs: #1058 Anzeige auf INT bringen
-- [ ] Hs: #1034 Kontext-Links schließen nicht
+- [x] Hs: #1034 Kontext-Links wrappen nicht
 - [ ] Hs: #44 Date-Picker auf Android
 - [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer
-- [x] Hs: #2015 Teaser in Silver auf INT bringen
+- [x] Hs: #1015 Teaser in Silver auf INT bringen
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
@@ -43,7 +43,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] av: Neue Niederländisches Messe-Logo
 - [ ] av: Erweiterung Bestandsseite
 - [x] Notar anrufen, Termin vereinbaren
-- [ ] Notar-Termin*
+- [x] Notar-Termin*
 - [ ] Vertrag abschicken*
 - [ ] Procuration verschicken
 - [ ] aasScraper: College Football auf 2016 umstellen

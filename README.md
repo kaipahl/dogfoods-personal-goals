@@ -44,7 +44,6 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] av: Erweiterung Bestandsseite
 - [x] Notar anrufen, Termin vereinbaren
 - [x] Notar-Termin*
-- [ ] Vertrag abschicken*
 - [ ] Procuration verschicken
 - [ ] aasScraper: College Football auf 2016 umstellen
 

@@ -24,18 +24,22 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #399 Umbau Spalte Eingabemaske (schmaler)
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: #615 Google-Button für Login/Signup
+- [ ] IE: #615 E-Login-Button für Login/Signup
+- [ ] IE: #615 Google-Button für E-Signup*
 - [ ] IE: #636 Flash-Messages*
 - [x] IE: Abnehmen von CSS-Metriken der Live-Website*
+
 - [x] Hs: #1058 Anzeige auf INT bringen
 - [x] Hs: #1034 Kontext-Links wrappen nicht
 - [ ] Hs: #44 Date-Picker auf Android
 - [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer
 - [x] Hs: #1015 Teaser in Silver auf INT bringen
+
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [x] SBA: Update aufspielen*
+
 - [ ] av: Messe-Logo in Navi-Leiste rausnehmen
 - [ ] av: Messe-Seite rausnehmen
 - [ ] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
@@ -43,6 +47,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] av: Neue Londoner Messe-Seite
 - [ ] av: Neue Niederländisches Messe-Logo
 - [ ] av: Erweiterung Bestandsseite
+
 - [x] Notar anrufen, Termin vereinbaren
 - [x] Notar-Termin*
 - [x] Procuration verschicken

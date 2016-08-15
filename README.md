@@ -86,7 +86,6 @@ Siehe [„Sammlung der Nebenprojekte“](~/Sites/dogfood-personal-goal/recources
 * NodeJS-Debugging mit [IronNode](http://s-a.github.io/iron-node/)
 * NodeJS-Debugging mit [TraceGL](https://github.com/traceglMPL/tracegl)
 * Mocken mit sinonJS
-* Evaluierung von MODX
 * Freemarker ausprobieren
 * Evaluierung von SonarQube
 * SpeedCurve evaluieren

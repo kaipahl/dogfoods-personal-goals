@@ -35,7 +35,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] SBA: Update aufspielen*
+- [x] SBA: Update aufspielen*
 - [ ] av: Messe-Logo in Navi-Leiste rausnehmen
 - [ ] av: Messe-Seite rausnehmen
 - [ ] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
@@ -45,9 +45,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] av: Erweiterung Bestandsseite
 - [x] Notar anrufen, Termin vereinbaren
 - [x] Notar-Termin*
-- [ ] Procuration verschicken
+- [x] Procuration verschicken
+- [ ] Notar-Honorar überweisen*
 - [ ] aasScraper: College Football auf 2016 umstellen
 - [ ] aasScraper: es-1 bauen*
+- [ ] aasScraper: DAZN bauen*
 
 
 \*: Im Laufe der Woche dazu gekommen.

@@ -47,6 +47,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Notar-Termin*
 - [ ] Procuration verschicken
 - [ ] aasScraper: College Football auf 2016 umstellen
+- [ ] aasScraper: es-1 bauen*
 
 
 \*: Im Laufe der Woche dazu gekommen.

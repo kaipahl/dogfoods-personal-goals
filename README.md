@@ -31,9 +31,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 - [x] Hs: #1058 Anzeige auf INT bringen
 - [x] Hs: #1034 Kontext-Links wrappen nicht
-- [ ] Hs: #44 Date-Picker auf Android
-- [ ] Hs: #xxxx Scrollbars im Vorlagen-Layer
 - [x] Hs: #1015 Teaser in Silver auf INT bringen
+- [ ] Hs: #44 Date-Picker auf Android
+- [ ] Hs: #986 Scrollbalken-Theming*
+- [ ] Hs: #1046 Schriftgröße MENÜ*
 
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

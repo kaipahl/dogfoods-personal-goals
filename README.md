@@ -24,9 +24,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #399 Umbau Spalte Eingabemaske (schmaler)
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [ ] IE: #615 E-Login-Button für Login/Signup
+- [x] IE: #615 E-Login-Button für Login/Signup
 - [ ] IE: #615 Google-Button für E-Signup*
-- [ ] IE: #636 Flash-Messages*
+- [x] IE: #636 Flash-Messages*
 - [x] IE: Abnehmen von CSS-Metriken der Live-Website*
 
 - [x] Hs: #1058 Anzeige auf INT bringen
@@ -35,11 +35,14 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hs: #44 Date-Picker auf Android
 - [ ] Hs: #986 Scrollbalken-Theming*
 - [ ] Hs: #1046 Schriftgröße MENÜ*
+- [ ] Hs: #1118 Autofocus in Formularen entfernen*
+- [ ] Hs: #1134 Farbton in Formularen*
 
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 - [x] SBA: Update aufspielen*
+- [ ] SBA: Beim Dienstleister wg Update nachfragen*
 
 - [ ] av: Messe-Logo in Navi-Leiste rausnehmen
 - [ ] av: Messe-Seite rausnehmen

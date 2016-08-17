@@ -54,7 +54,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] Procuration verschicken
 - [x] Notar-Honorar überweisen*
 - [ ] aasScraper: College Football auf 2016 umstellen
-- [ ] aasScraper: es-1 bauen*
+- [x] aasScraper: es-1 bauen*
 - [ ] aasScraper: DAZN bauen*
 
 

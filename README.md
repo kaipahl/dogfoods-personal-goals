@@ -46,10 +46,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] SBA: Update aufspielen*
 - [x] SBA: Beim Dienstleister wg Update nachfragen*
 
-- [ ] av: Messe-Logo in Navi-Leiste rausnehmen
+- [x] av: Messe-Logo in Navi-Leiste rausnehmen
 - [ ] av: Messe-Seite rausnehmen
-- [ ] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
-- [ ] av: Niederländisches Messe-Logo in Navi-Leiste reinnehmen
+- [x] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
+- [x] av: Niederländisches Messe-Logo in Navi-Leiste reinnehmen
 - [ ] av: Neue Londoner Messe-Seite
 - [ ] av: Neue Niederländisches Messe-Logo
 - [ ] av: Erweiterung Bestandsseite

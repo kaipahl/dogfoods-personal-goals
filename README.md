@@ -38,6 +38,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] Hs: #1118 Autofocus in Formularen entfernen*
 - [x] Hs: #1134 Farbton in Formularen*
 - [ ] Hs: #860 Eventtracking in PFinder*
+- [ ] Hs: Test-Infrastruktur aufziehen*
 
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404

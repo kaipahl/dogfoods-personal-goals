@@ -47,7 +47,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] SBA: Beim Dienstleister wg Update nachfragen*
 
 - [x] av: Messe-Logo in Navi-Leiste rausnehmen
-- [ ] av: Messe-Seite rausnehmen
+- [x] av: Messe-Seite rausnehmen
 - [x] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
 - [x] av: Niederländisches Messe-Logo in Navi-Leiste reinnehmen
 - [ ] av: Neue Londoner Messe-Seite
@@ -61,6 +61,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aasScraper: College Football auf 2016 umstellen
 - [x] aasScraper: es-1 bauen*
 - [ ] aasScraper: DAZN bauen*
+- [x] Immo: Haus besichtigen*
+- [ ] Immo: Interesse bestätigen*
+- [ ] Neuen Perso beantragen*
 
 
 \*: Im Laufe der Woche dazu gekommen.

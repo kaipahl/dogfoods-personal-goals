@@ -20,19 +20,24 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
+- [ ] IE: #519 Add Caret für Menüs
+- [ ] IE: Optimisierung Accessibility
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
+- [ ] IE: #399 Kann es abgeschlossen werden?
+
 - [ ] Hs: #44 Date-Picker auf Android
 - [ ] Hs: #986 Scrollbalken-Theming
 - [ ] Hs: #1046 Schriftgröße MENÜ
 - [ ] Hs: #1118 Autofocus in Formularen entfernen
 - [ ] Hs: #860 Eventtracking in PFinder
 - [ ] Hs: Test-Infrastruktur aufziehen
+
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [ ] av: Neue Londoner Messe-Seite
-- [ ] av: Neue Niederländisches Messe-Logo
+
 - [ ] av: Erweiterung Bestandsseite
+
 - [ ] aasScraper: DAZN bauen
 - [ ] aasScraper: Grouping für SKY
 - [ ] Immo: Interesse bestätigen

@@ -10,7 +10,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 32/2016, ab Montag, 08.08.2016
+# KW 34/2016, ab Montag, 22.08.2016
 
 
 ### This Week's Goal:
@@ -19,51 +19,24 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 
 ## Things I'll Do This Week:
-- [x] IE: #399 Re-Positionierung des Ad-Slots
-- [x] IE: #399 Umbau Janrain (Markup, CSS)
-- [x] IE: #399 Umbau Spalte Eingabemaske (schmaler)
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
-- [x] IE: #615 E-Login-Button für Login/Signup
-- [x] IE: #615 Google-Button für E-Signup*
-- [x] IE: #636 Flash-Messages*
-- [x] IE: Abnehmen von CSS-Metriken der Live-Website*
-
-- [x] Hs: #1058 Anzeige auf INT bringen
-- [x] Hs: #1034 Kontext-Links wrappen nicht
-- [x] Hs: #1015 Teaser in Silver auf INT bringen
 - [ ] Hs: #44 Date-Picker auf Android
-- [ ] Hs: #986 Scrollbalken-Theming*
-- [ ] Hs: #1046 Schriftgröße MENÜ*
-- [ ] Hs: #1118 Autofocus in Formularen entfernen*
-- [x] Hs: #1134 Farbton in Formularen*
-- [ ] Hs: #860 Eventtracking in PFinder*
-- [ ] Hs: Test-Infrastruktur aufziehen*
-
+- [ ] Hs: #986 Scrollbalken-Theming
+- [ ] Hs: #1046 Schriftgröße MENÜ
+- [ ] Hs: #1118 Autofocus in Formularen entfernen
+- [ ] Hs: #860 Eventtracking in PFinder
+- [ ] Hs: Test-Infrastruktur aufziehen
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
-- [x] SBA: Update aufspielen*
-- [x] SBA: Beim Dienstleister wg Update nachfragen*
-
-- [x] av: Messe-Logo in Navi-Leiste rausnehmen
-- [x] av: Messe-Seite rausnehmen
-- [x] av: Londoner Messe-Logo in Navi-Leiste reinnehmen
-- [x] av: Niederländisches Messe-Logo in Navi-Leiste reinnehmen
 - [ ] av: Neue Londoner Messe-Seite
 - [ ] av: Neue Niederländisches Messe-Logo
 - [ ] av: Erweiterung Bestandsseite
-
-- [x] Notar anrufen, Termin vereinbaren
-- [x] Notar-Termin*
-- [x] Procuration verschicken
-- [x] Notar-Honorar überweisen*
-- [ ] aasScraper: College Football auf 2016 umstellen
-- [x] aasScraper: es-1 bauen*
-- [ ] aasScraper: DAZN bauen*
-- [x] Immo: Haus besichtigen*
-- [ ] Immo: Interesse bestätigen*
-- [ ] Neuen Perso beantragen*
+- [ ] aasScraper: DAZN bauen
+- [ ] aasScraper: Grouping für SKY
+- [ ] Immo: Interesse bestätigen
+- [ ] Neuen Perso beantragen
 
 
 \*: Im Laufe der Woche dazu gekommen.

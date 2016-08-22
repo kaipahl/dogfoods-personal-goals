@@ -22,6 +22,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: #519 Add Caret für Menüs
 - [ ] IE: Optimisierung Accessibility
+- [ ] IE: Korrektur Menüs in unterschdl Views*
 - [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [ ] IE: #399 Kann es abgeschlossen werden?
 
@@ -40,7 +41,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 - [ ] aasScraper: DAZN bauen
 - [ ] aasScraper: Grouping für SKY
-- [ ] Immo: Interesse bestätigen
+- [ ] Immo: Angebot vorlegen
 - [ ] Neuen Perso beantragen
 
 

@@ -42,7 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aasScraper: DAZN bauen
 - [ ] aasScraper: Grouping für SKY
 - [ ] Immo: Angebot vorlegen
-- [ ] Neuen Perso beantragen
+- [x] Neuen Perso beantragen
 
 
 \*: Im Laufe der Woche dazu gekommen.

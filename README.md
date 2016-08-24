@@ -38,6 +38,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 
 - [ ] av: Erweiterung Bestandsseite
+- [x] h: zwei neue Seminartermine*
+- [ ] sba: Stellenanzeige raus*
 
 - [ ] aasScraper: DAZN bauen
 - [ ] aasScraper: Grouping für SKY

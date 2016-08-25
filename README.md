@@ -28,7 +28,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 - [ ] Hs: #44 Date-Picker auf Android
 - [x] Hs: #986 Scrollbalken-Theming
-- [ ] Hs: #1046 Schriftgröße MENÜ
+- [x] Hs: #1046 Schriftgröße MENÜ
 - [x] Hs: #1118 Autofocus in Formularen entfernen
 - [ ] Hs: #860 Eventtracking in PFinder
 - [ ] Hs: Test-Infrastruktur aufziehen

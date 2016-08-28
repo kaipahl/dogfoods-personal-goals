@@ -10,11 +10,11 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 * Immobilienkauf
 
 
-# KW 34/2016, ab Montag, 22.08.2016
+# KW 35/2016, ab Montag, 29.08.2016
 
 
 ### This Week's Goal:
-* Ohne Burn-Out ins Wochenende kommen.
+* Haus-Kauf
 
 
 
@@ -22,28 +22,25 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
 - [ ] IE: #701 Add Caret für Menüs
 - [ ] IE: #699 Optimisierung Accessibility
-- [ ] IE: #700 Korrektur Menüs in unterschdl Views*
-- [x] IE: #399 Kann es abgeschlossen werden?
+- [ ] IE: #700 Korrektur Menüs in unterschdl Views
+- [ ] IE: Neue Tasks suchen
 
 - [ ] Hs: #44 Date-Picker auf Android
-- [x] Hs: #986 Scrollbalken-Theming
-- [x] Hs: #1046 Schriftgröße MENÜ
-- [x] Hs: #1118 Autofocus in Formularen entfernen
 - [ ] Hs: #860 Eventtracking in PFinder
 - [ ] Hs: Test-Infrastruktur aufziehen
+- [ ] Hs: Konzept für Frei-HTML-Entwicklung
+- [ ] Hs: Sprintplanung
 
 - [ ] SBA: Abgleich Installation Bürorechner/Laptop
 - [ ] SBA: Einbau Test gg Assets + 404
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 
 - [ ] av: Erweiterung Bestandsseite
-- [x] h: zwei neue Seminartermine*
-- [x] sba: Stellenanzeige raus*
-
-- [ ] aasScraper: DAZN bauen
 - [ ] aasScraper: Grouping für SKY
-- [x] Immo: Angebot vorlegen
-- [x] Neuen Perso beantragen
+- [ ] aasScraper: DAZN bauen
+- [ ] Immo: Besichtigung mit Mauerer
+- [ ] evtl Immo: Kreditfinanzierung klar machen
+- [ ] evtl Immo: Zeitplan entwickeln
 
 
 \*: Im Laufe der Woche dazu gekommen.

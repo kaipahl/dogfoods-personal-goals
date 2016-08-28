@@ -23,7 +23,6 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: #701 Add Caret für Menüs
 - [ ] IE: #699 Optimisierung Accessibility
 - [ ] IE: #700 Korrektur Menüs in unterschdl Views*
-- [ ] IE: Screenshots aller bestehenden Form-Elemente
 - [x] IE: #399 Kann es abgeschlossen werden?
 
 - [ ] Hs: #44 Date-Picker auf Android
@@ -43,7 +42,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 - [ ] aasScraper: DAZN bauen
 - [ ] aasScraper: Grouping für SKY
-- [ ] Immo: Angebot vorlegen
+- [x] Immo: Angebot vorlegen
 - [x] Neuen Perso beantragen
 
 

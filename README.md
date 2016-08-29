@@ -20,9 +20,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 ## Things I'll Do This Week:
 - [ ] IE: #512 Dokumentation der Prozesse/Workflows rund um Ads
-- [ ] IE: #701 Add Caret für Menüs
+- [x] IE: #701 Add Caret für Menüs
 - [ ] IE: #699 Optimisierung Accessibility
-- [ ] IE: #700 Korrektur Menüs in unterschdl Views
+- [x] IE: #700 Korrektur Menüs in unterschdl Views
 - [ ] IE: Neue Tasks suchen
 
 - [ ] Hs: #44 Date-Picker auf Android

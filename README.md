@@ -27,6 +27,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 
 - [ ] Hs: #44 Date-Picker auf Android
 - [ ] Hs: #860 Eventtracking in PFinder
+- [ ] Hs: #1061 Weiterleitung iframe*
 - [ ] Hs: Test-Infrastruktur aufziehen
 - [ ] Hs: Konzept für Frei-HTML-Entwicklung
 - [ ] Hs: Sprintplanung

@@ -26,8 +26,9 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] IE: Neue Tasks suchen
 
 - [ ] Hs: #44 Date-Picker auf Android
-- [ ] Hs: #860 Eventtracking in PFinder
-- [ ] Hs: #1061 Weiterleitung iframe*
+- [x] Hs: #860 Eventtracking in PFinder
+- [x] Hs: #1061 Weiterleitung iframe*
+- [ ] Hs: Highcharts.js*
 - [ ] Hs: Test-Infrastruktur aufziehen
 - [ ] Hs: Konzept für Frei-HTML-Entwicklung
 - [ ] Hs: Sprintplanung
@@ -39,7 +40,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] av: Erweiterung Bestandsseite
 - [ ] aasScraper: Grouping für SKY
 - [ ] aasScraper: DAZN bauen
-- [ ] Immo: Besichtigung mit Mauerer
+- [x] Immo: Besichtigung mit Mauerer
 - [ ] evtl Immo: Kreditfinanzierung klar machen
 - [ ] evtl Immo: Zeitplan entwickeln
 

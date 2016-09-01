@@ -23,12 +23,12 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [x] IE: #701 Add Caret für Menüs
 - [ ] IE: #699 Optimisierung Accessibility
 - [x] IE: #700 Korrektur Menüs in unterschdl Views
-- [ ] IE: Neue Tasks suchen
+- [ ] IE: Konzept überlegen*
 
 - [ ] Hs: #44 Date-Picker auf Android
 - [x] Hs: #860 Eventtracking in PFinder
 - [x] Hs: #1061 Weiterleitung iframe*
-- [ ] Hs: Highcharts.js*
+- [x] Hs: Highcharts.js*
 - [ ] Hs: Test-Infrastruktur aufziehen
 - [ ] Hs: Konzept für Frei-HTML-Entwicklung
 - [ ] Hs: Sprintplanung
@@ -38,11 +38,10 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 
 - [ ] av: Erweiterung Bestandsseite
+- [ ] av: Erweiterung Showrooms*
 - [ ] aasScraper: Grouping für SKY
 - [ ] aasScraper: DAZN bauen
 - [x] Immo: Besichtigung mit Mauerer
-- [ ] evtl Immo: Kreditfinanzierung klar machen
-- [ ] evtl Immo: Zeitplan entwickeln
 
 
 \*: Im Laufe der Woche dazu gekommen.

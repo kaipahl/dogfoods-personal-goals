@@ -38,7 +38,8 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] SBA: Bugfix PDF-Icon auf Bürorechner
 
 - [ ] av: Erweiterung Bestandsseite
-- [ ] av: Erweiterung Showrooms*
+- [x] av: Erweiterung Showrooms*
+- [x] av: Neue Messeseiten finalisieren*
 - [ ] aasScraper: Grouping für SKY
 - [ ] aasScraper: DAZN bauen
 - [x] Immo: Besichtigung mit Mauerer

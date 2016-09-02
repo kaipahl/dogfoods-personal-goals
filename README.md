@@ -43,6 +43,7 @@ Personal goals made open source: [„Unas personal goals“](http://una.im/perso
 - [ ] aasScraper: Grouping für SKY
 - [ ] aasScraper: DAZN bauen
 - [x] Immo: Besichtigung mit Mauerer
+- [ ] IE: Wg Mittwoch und Hs fragen*
 
 
 \*: Im Laufe der Woche dazu gekommen.
